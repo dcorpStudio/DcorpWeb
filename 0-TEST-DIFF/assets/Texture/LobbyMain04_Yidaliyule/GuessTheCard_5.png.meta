@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8be0cc09-1e8c-4786-a8b9-bbc48d091e9d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 321,
+  "height": 407,
+  "platformSettings": {},
+  "subMetas": {
+    "GuessTheCard_5": {
+      "ver": "1.0.6",
+      "uuid": "b0dba833-ed83-4979-a6de-b13c7e40472e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8be0cc09-1e8c-4786-a8b9-bbc48d091e9d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 319,
+      "height": 407,
+      "rawWidth": 321,
+      "rawHeight": 407,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

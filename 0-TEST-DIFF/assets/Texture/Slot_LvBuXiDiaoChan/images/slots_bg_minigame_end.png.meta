@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "19d45977-3cc2-4cd5-b31f-f87b88603584",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1136,
+  "height": 602,
+  "platformSettings": {},
+  "subMetas": {
+    "slots_bg_minigame_end": {
+      "ver": "1.0.6",
+      "uuid": "51d1d0ca-3552-4e8b-91c3-f98fb0c1cc2b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "19d45977-3cc2-4cd5-b31f-f87b88603584",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": 9,
+      "trimX": 92,
+      "trimY": 34,
+      "width": 947,
+      "height": 516,
+      "rawWidth": 1136,
+      "rawHeight": 602,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

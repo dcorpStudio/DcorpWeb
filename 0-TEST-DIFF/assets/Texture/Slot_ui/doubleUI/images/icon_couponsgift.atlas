@@ -1,0 +1,118 @@
+
+icon_couponsgift.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_btn_icon/light
+  rotate: false
+  xy: 646, 33
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+02_icon_coupon/icon_coupon
+  rotate: false
+  xy: 548, 32
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+03_icon_spcoupon/icon_special_coupon
+  rotate: false
+  xy: 598, 30
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+04_giftbox/04_icon_gift_0000
+  rotate: false
+  xy: 2, 2
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+04_giftbox/04_icon_gift_0001
+  rotate: false
+  xy: 44, 2
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+04_giftbox/04_icon_gift_0002
+  rotate: false
+  xy: 86, 2
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+04_giftbox/04_icon_gift_0003
+  rotate: false
+  xy: 128, 2
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+04_giftbox/04_icon_gift_0004
+  rotate: false
+  xy: 170, 2
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+04_giftbox/04_icon_gift_0005
+  rotate: false
+  xy: 212, 2
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+04_giftbox/04_icon_gift_0006
+  rotate: false
+  xy: 254, 2
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+04_giftbox/04_icon_gift_0007
+  rotate: false
+  xy: 296, 2
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+04_giftbox/04_icon_gift_0008
+  rotate: false
+  xy: 338, 2
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+04_giftbox/04_icon_gift_0009
+  rotate: false
+  xy: 380, 2
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+04_giftbox/04_icon_gift_0010
+  rotate: false
+  xy: 422, 2
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+04_giftbox/04_icon_gift_0011
+  rotate: false
+  xy: 464, 2
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+04_giftbox/04_icon_gift_0012
+  rotate: false
+  xy: 506, 2
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1

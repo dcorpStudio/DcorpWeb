@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e59975f7-d1a7-4ada-8785-f0d2769af3c9",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 393,
+  "height": 586,
+  "platformSettings": {},
+  "subMetas": {
+    "hall_charge_girl": {
+      "ver": "1.0.6",
+      "uuid": "a740c2e2-04ca-42d7-9310-94906d0a67f1",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e59975f7-d1a7-4ada-8785-f0d2769af3c9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -4,
+      "trimX": 0,
+      "trimY": 11,
+      "width": 393,
+      "height": 572,
+      "rawWidth": 393,
+      "rawHeight": 586,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

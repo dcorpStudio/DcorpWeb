@@ -1,0 +1,153 @@
+
+dntg_wugui.png
+size: 497,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dntg_wugui_body
+  rotate: true
+  xy: 356, 24
+  size: 102, 127
+  orig: 102, 127
+  offset: 0, 0
+  index: -1
+dntg_wugui_guaizhang
+  rotate: false
+  xy: 231, 92
+  size: 56, 173
+  orig: 56, 173
+  offset: 0, 0
+  index: -1
+dntg_wugui_guaizhang_yezi
+  rotate: true
+  xy: 80, 73
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+dntg_wugui_guaizhang_yeziqun
+  rotate: false
+  xy: 37, 5
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+dntg_wugui_guaizhangguang
+  rotate: false
+  xy: 2, 44
+  size: 76, 221
+  orig: 76, 221
+  offset: 0, 0
+  index: -1
+dntg_wugui_guike
+  rotate: true
+  xy: 289, 128
+  size: 137, 130
+  orig: 137, 130
+  offset: 0, 0
+  index: -1
+dntg_wugui_hudie1_you
+  rotate: false
+  xy: 93, 50
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+dntg_wugui_hudie1_zou
+  rotate: true
+  xy: 202, 4
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+dntg_wugui_hudie2_you
+  rotate: false
+  xy: 327, 103
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+dntg_wugui_hudie2_zou
+  rotate: false
+  xy: 316, 102
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+dntg_wugui_hudie3
+  rotate: false
+  xy: 80, 61
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+dntg_wugui_hudie4
+  rotate: true
+  xy: 316, 115
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dntg_wugui_hudie5
+  rotate: true
+  xy: 80, 47
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+dntg_wugui_hudie_zu
+  rotate: false
+  xy: 289, 98
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+dntg_wugui_liziqun
+  rotate: true
+  xy: 202, 12
+  size: 77, 99
+  orig: 77, 99
+  offset: 0, 0
+  index: -1
+dntg_wugui_maozi
+  rotate: false
+  xy: 80, 91
+  size: 149, 174
+  orig: 149, 174
+  offset: 0, 0
+  index: -1
+dntg_wugui_youhuzi
+  rotate: true
+  xy: 2, 2
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+dntg_wugui_yuoshou
+  rotate: false
+  xy: 303, 3
+  size: 51, 93
+  orig: 51, 93
+  offset: 0, 0
+  index: -1
+dntg_wugui_zhenzhu
+  rotate: true
+  xy: 103, 7
+  size: 82, 97
+  orig: 82, 97
+  offset: 0, 0
+  index: -1
+dntg_wugui_zouhuzi
+  rotate: true
+  xy: 68, 8
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+dntg_wugui_zuoshou
+  rotate: false
+  xy: 421, 158
+  size: 74, 107
+  orig: 74, 107
+  offset: 0, 0
+  index: -1

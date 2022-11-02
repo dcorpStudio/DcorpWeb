@@ -1,0 +1,20 @@
+
+yd_Back_background.png
+size: 886,349
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijin
+  rotate: false
+  xy: 583, 2
+  size: 301, 345
+  orig: 301, 345
+  offset: 0, 0
+  index: -1
+spine_dieguang
+  rotate: true
+  xy: 2, 14
+  size: 333, 579
+  orig: 333, 579
+  offset: 0, 0
+  index: -1

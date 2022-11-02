@@ -1,0 +1,279 @@
+{
+  "animations" : {
+    "animation" : {
+      "bones" : {
+        "bone" : {
+          "rotate" : [
+            {
+              "angle" : 0,
+              "time" : 0
+            }
+          ],
+          "scale" : [
+            {
+              "time" : 0,
+              "x" : 1,
+              "y" : 1
+            }
+          ],
+          "translate" : [
+            {
+              "time" : 0,
+              "x" : 0,
+              "y" : 0
+            }
+          ]
+        },
+        "root" : {
+          "rotate" : [
+            {
+              "angle" : 0,
+              "time" : 0
+            }
+          ],
+          "scale" : [
+            {
+              "time" : 0,
+              "x" : 1,
+              "y" : 1
+            }
+          ],
+          "translate" : [
+            {
+              "time" : 0,
+              "x" : 0,
+              "y" : 0
+            }
+          ]
+        }
+      },
+      "drawOrder" : [
+        {
+          "time" : 0
+        }
+      ],
+      "slots" : {
+        "Gold_10a" : {
+          "attachment" : [
+            {
+              "name" : "Gold_9a",
+              "time" : 0
+            },
+            {
+              "name" : "Gold_10a",
+              "time" : 0.0666
+            },
+            {
+              "name" : "Gold_11a",
+              "time" : 0.1333
+            },
+            {
+              "name" : "Gold_12a",
+              "time" : 0.2
+            },
+            {
+              "name" : "Gold_13a",
+              "time" : 0.2666
+            },
+            {
+              "name" : "Gold_14a",
+              "time" : 0.3333
+            },
+            {
+              "name" : "Gold_15a",
+              "time" : 0.4
+            },
+            {
+              "name" : "Gold_16a",
+              "time" : 0.4666
+            },
+            {
+              "name" : "Gold_1a",
+              "time" : 0.5333
+            },
+            {
+              "name" : "Gold_2a",
+              "time" : 0.6
+            },
+            {
+              "name" : "Gold_3a",
+              "time" : 0.6666
+            },
+            {
+              "name" : "Gold_4a",
+              "time" : 0.7333
+            },
+            {
+              "name" : "Gold_5a",
+              "time" : 0.8
+            },
+            {
+              "name" : "Gold_6a",
+              "time" : 0.8666
+            },
+            {
+              "name" : "Gold_7a",
+              "time" : 0.9333
+            },
+            {
+              "name" : "Gold_8a",
+              "time" : 1
+            }
+          ]
+        }
+      }
+    }
+  },
+  "bones" : [
+    {
+      "name" : "root"
+    },
+    {
+      "name" : "bone",
+      "parent" : "root"
+    }
+  ],
+  "skeleton" : {
+    "hash" : "7nBFqbqfGSfcy67STP0LcKouGcc",
+    "height" : 64,
+    "spine" : "2.1.27",
+    "width" : 64
+  },
+  "skins" : {
+    "default" : {
+      "Gold_10a" : {
+        "Gold_10a" : {
+          "height" : 64,
+          "width" : 64
+        },
+        "Gold_11a" : {
+          "height" : 64,
+          "width" : 64
+        },
+        "Gold_12a" : {
+          "height" : 64,
+          "width" : 64
+        },
+        "Gold_13a" : {
+          "height" : 64,
+          "width" : 64
+        },
+        "Gold_14a" : {
+          "height" : 64,
+          "width" : 64
+        },
+        "Gold_15a" : {
+          "height" : 64,
+          "width" : 64
+        },
+        "Gold_16a" : {
+          "height" : 64,
+          "width" : 64
+        },
+        "Gold_1a" : {
+          "height" : 64,
+          "width" : 64
+        },
+        "Gold_2a" : {
+          "height" : 64,
+          "width" : 64
+        },
+        "Gold_3a" : {
+          "height" : 64,
+          "width" : 64
+        },
+        "Gold_4a" : {
+          "height" : 64,
+          "width" : 64
+        },
+        "Gold_5a" : {
+          "height" : 64,
+          "width" : 64
+        },
+        "Gold_6a" : {
+          "height" : 64,
+          "width" : 64
+        },
+        "Gold_7a" : {
+          "height" : 64,
+          "width" : 64
+        },
+        "Gold_8a" : {
+          "height" : 64,
+          "width" : 64
+        },
+        "Gold_9a" : {
+          "height" : 64,
+          "width" : 64
+        }
+      }
+    }
+  },
+  "slots" : [
+    {
+      "attachment" : "Gold_9a",
+      "bone" : "bone",
+      "name" : "Gold_10a"
+    },
+    {
+      "bone" : "bone",
+      "name" : "Gold_11a"
+    },
+    {
+      "bone" : "bone",
+      "name" : "Gold_12a"
+    },
+    {
+      "bone" : "bone",
+      "name" : "Gold_13a"
+    },
+    {
+      "bone" : "bone",
+      "name" : "Gold_14a"
+    },
+    {
+      "bone" : "bone",
+      "name" : "Gold_15a"
+    },
+    {
+      "bone" : "bone",
+      "name" : "Gold_16a"
+    },
+    {
+      "bone" : "bone",
+      "name" : "Gold_1a"
+    },
+    {
+      "bone" : "bone",
+      "name" : "Gold_2a"
+    },
+    {
+      "bone" : "bone",
+      "name" : "Gold_3a"
+    },
+    {
+      "bone" : "bone",
+      "name" : "Gold_4a"
+    },
+    {
+      "bone" : "bone",
+      "name" : "Gold_5a"
+    },
+    {
+      "bone" : "bone",
+      "name" : "Gold_6a"
+    },
+    {
+      "bone" : "bone",
+      "name" : "Gold_7a"
+    },
+    {
+      "bone" : "bone",
+      "name" : "Gold_8a"
+    },
+    {
+      "bone" : "bone",
+      "name" : "Gold_9a"
+    }
+  ]
+}

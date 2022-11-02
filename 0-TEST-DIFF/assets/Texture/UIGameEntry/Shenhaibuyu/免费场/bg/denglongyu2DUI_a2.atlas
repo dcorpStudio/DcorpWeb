@@ -1,0 +1,34 @@
+
+denglongyu2DUI_a2.png
+size: 981,333
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg2
+  rotate: false
+  xy: 583, 69
+  size: 291, 262
+  orig: 291, 262
+  offset: 0, 0
+  index: -1
+shuipao
+  rotate: true
+  xy: 876, 129
+  size: 202, 103
+  orig: 202, 103
+  offset: 0, 0
+  index: -1
+spineGX1
+  rotate: true
+  xy: 2, 21
+  size: 310, 579
+  orig: 310, 579
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 583, 2
+  size: 243, 65
+  orig: 243, 65
+  offset: 0, 0
+  index: -1

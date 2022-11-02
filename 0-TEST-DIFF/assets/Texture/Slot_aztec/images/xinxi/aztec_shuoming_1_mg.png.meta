@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f5375cfb-9ab3-4d1a-ab47-c8c1baac7660",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1068,
+  "height": 608,
+  "platformSettings": {},
+  "subMetas": {
+    "aztec_shuoming_1_mg": {
+      "ver": "1.0.6",
+      "uuid": "abc305e6-cd4e-4013-af2f-1c146fe71eac",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f5375cfb-9ab3-4d1a-ab47-c8c1baac7660",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3,
+      "offsetY": -8,
+      "trimX": 6,
+      "trimY": 16,
+      "width": 1050,
+      "height": 592,
+      "rawWidth": 1068,
+      "rawHeight": 608,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

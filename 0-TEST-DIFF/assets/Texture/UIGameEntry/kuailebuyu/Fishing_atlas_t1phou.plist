@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Fishing_atlas_t1phou.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{2048,604}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{2048,604}}</string>
+				<key>sourceSize</key>
+				<string>{2048,604}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>realTextureFileName</key>
+			<string>Fishing_atlas_t1phou.jpg</string>
+			<key>size</key>
+			<string>{2048,604}</string>
+			<key>smartupdate</key>
+			<string>$TexturePacker:SmartUpdate : 8d6a3b5c6f98d0eff99dd6242c8d6db7$</string>
+			<key>textureFileName</key>
+			<string>Fishing_atlas_t1phou.jpg</string>
+		</dict>
+	</dict>
+</plist>

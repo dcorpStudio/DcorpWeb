@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8c8e906d-ab25-4e18-8e23-d7a4f04fca16",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 349,
+  "height": 349,
+  "platformSettings": {},
+  "subMetas": {
+    "s_egfo_pic5_purple_dog_statue_004": {
+      "ver": "1.0.6",
+      "uuid": "802f48e0-0198-4629-984b-f5c6e06d0db5",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8c8e906d-ab25-4e18-8e23-d7a4f04fca16",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -11.5,
+      "offsetY": 5,
+      "trimX": 9,
+      "trimY": 45,
+      "width": 308,
+      "height": 249,
+      "rawWidth": 349,
+      "rawHeight": 349,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

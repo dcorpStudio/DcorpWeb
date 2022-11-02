@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "cd360e46-b6b4-424e-8669-f85cd9f3b276",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 83,
+  "height": 97,
+  "platformSettings": {},
+  "subMetas": {
+    "bt_WithdrawPhoneCard": {
+      "ver": "1.0.6",
+      "uuid": "ad3663e3-12b5-4eb4-adba-cbcd063e49c9",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "cd360e46-b6b4-424e-8669-f85cd9f3b276",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 81,
+      "height": 95,
+      "rawWidth": 83,
+      "rawHeight": 97,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

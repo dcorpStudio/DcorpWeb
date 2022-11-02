@@ -1,0 +1,83 @@
+
+slots_81.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 154, 109
+  size: 142, 145
+  orig: 144, 147
+  offset: 1, 1
+  index: -1
+KUang
+  rotate: false
+  xy: 2, 107
+  size: 150, 147
+  orig: 152, 149
+  offset: 1, 1
+  index: -1
+Light01
+  rotate: false
+  xy: 442, 114
+  size: 141, 140
+  orig: 143, 142
+  offset: 1, 1
+  index: -1
+Light02
+  rotate: false
+  xy: 298, 112
+  size: 142, 142
+  orig: 144, 144
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 103, 93
+  orig: 105, 95
+  offset: 1, 1
+  index: -1
+fa01
+  rotate: false
+  xy: 97, 48
+  size: 51, 57
+  orig: 53, 59
+  offset: 1, 1
+  index: -1
+fa02
+  rotate: false
+  xy: 585, 145
+  size: 60, 109
+  orig: 62, 111
+  offset: 1, 1
+  index: -1
+fa03
+  rotate: true
+  xy: 864, 223
+  size: 31, 55
+  orig: 33, 57
+  offset: 1, 1
+  index: -1
+face
+  rotate: false
+  xy: 647, 174
+  size: 76, 80
+  orig: 78, 82
+  offset: 1, 1
+  index: -1
+hand01
+  rotate: true
+  xy: 784, 224
+  size: 30, 78
+  orig: 32, 80
+  offset: 1, 1
+  index: -1
+hand02
+  rotate: false
+  xy: 725, 198
+  size: 57, 56
+  orig: 59, 58
+  offset: 1, 1
+  index: -1

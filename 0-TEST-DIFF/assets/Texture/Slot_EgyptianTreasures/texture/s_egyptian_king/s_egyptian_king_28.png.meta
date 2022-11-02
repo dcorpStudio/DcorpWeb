@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "1c901de3-b1d7-446c-ac40-cff287c66bab",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 349,
+  "height": 349,
+  "platformSettings": {},
+  "subMetas": {
+    "s_egyptian_king_28": {
+      "ver": "1.0.6",
+      "uuid": "c3074fb3-e206-448a-9d60-289ccded7f03",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "1c901de3-b1d7-446c-ac40-cff287c66bab",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -14,
+      "offsetY": -4,
+      "trimX": 9,
+      "trimY": 52,
+      "width": 303,
+      "height": 253,
+      "rawWidth": 349,
+      "rawHeight": 349,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

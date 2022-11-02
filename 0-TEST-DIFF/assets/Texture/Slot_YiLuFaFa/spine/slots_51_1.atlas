@@ -1,0 +1,55 @@
+
+slots_51_1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: false
+  xy: 462, 202
+  size: 47, 46
+  orig: 49, 48
+  offset: 1, 1
+  index: -1
+A2
+  rotate: false
+  xy: 2, 2
+  size: 120, 96
+  orig: 122, 98
+  offset: 1, 1
+  index: -1
+A3
+  rotate: false
+  xy: 376, 126
+  size: 76, 62
+  orig: 78, 64
+  offset: 1, 1
+  index: -1
+A4
+  rotate: false
+  xy: 284, 152
+  size: 90, 96
+  orig: 92, 98
+  offset: 1, 1
+  index: -1
+A5
+  rotate: false
+  xy: 376, 190
+  size: 84, 58
+  orig: 86, 60
+  offset: 1, 1
+  index: -1
+A6
+  rotate: false
+  xy: 2, 100
+  size: 147, 148
+  orig: 149, 150
+  offset: 1, 1
+  index: -1
+A7
+  rotate: false
+  xy: 151, 116
+  size: 131, 132
+  orig: 133, 134
+  offset: 1, 1
+  index: -1

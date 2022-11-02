@@ -1,0 +1,398 @@
+
+icon_deal.png
+size: 330,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+offer/ltltlt/ltltlt_00000
+  rotate: false
+  xy: 230, 26
+  size: 28, 28
+  orig: 100, 100
+  offset: 36, 36
+  index: -1
+offer/red_lt_line1/red_lt_line1_00000
+  rotate: false
+  xy: 296, 203
+  size: 4, 2
+  orig: 200, 120
+  offset: 58, 72
+  index: -1
+offer/red_lt_line1/red_lt_line1_00001
+  rotate: false
+  xy: 212, 4
+  size: 9, 7
+  orig: 200, 120
+  offset: 58, 67
+  index: -1
+offer/red_lt_line1/red_lt_line1_00002
+  rotate: true
+  xy: 321, 188
+  size: 14, 8
+  orig: 200, 120
+  offset: 58, 66
+  index: -1
+offer/red_lt_line1/red_lt_line1_00003
+  rotate: true
+  xy: 308, 119
+  size: 19, 7
+  orig: 200, 120
+  offset: 58, 67
+  index: -1
+offer/red_lt_line1/red_lt_line1_00004
+  rotate: false
+  xy: 259, 41
+  size: 25, 5
+  orig: 200, 120
+  offset: 58, 69
+  index: -1
+offer/red_lt_line1/red_lt_line1_00005
+  rotate: false
+  xy: 95, 66
+  size: 28, 4
+  orig: 200, 120
+  offset: 60, 69
+  index: -1
+offer/red_lt_line1/red_lt_line1_00006
+  rotate: false
+  xy: 124, 66
+  size: 28, 4
+  orig: 200, 120
+  offset: 65, 69
+  index: -1
+offer/red_lt_line1/red_lt_line1_00007
+  rotate: true
+  xy: 317, 174
+  size: 28, 3
+  orig: 200, 120
+  offset: 71, 69
+  index: -1
+offer/red_lt_line1/red_lt_line1_00008
+  rotate: false
+  xy: 230, 22
+  size: 28, 3
+  orig: 200, 120
+  offset: 76, 69
+  index: -1
+offer/red_lt_line1/red_lt_line1_00009
+  rotate: true
+  xy: 300, 82
+  size: 28, 2
+  orig: 200, 120
+  offset: 81, 69
+  index: -1
+offer/red_lt_line1/red_lt_line1_00010
+  rotate: true
+  xy: 303, 83
+  size: 28, 2
+  orig: 200, 120
+  offset: 86, 69
+  index: -1
+offer/red_lt_line1/red_lt_line1_00011
+  rotate: false
+  xy: 259, 51
+  size: 28, 3
+  orig: 200, 120
+  offset: 92, 69
+  index: -1
+offer/red_lt_line1/red_lt_line1_00012
+  rotate: true
+  xy: 296, 82
+  size: 28, 3
+  orig: 200, 120
+  offset: 98, 69
+  index: -1
+offer/red_lt_line1/red_lt_line1_00013
+  rotate: false
+  xy: 170, 12
+  size: 28, 4
+  orig: 200, 120
+  offset: 104, 69
+  index: -1
+offer/red_lt_line1/red_lt_line1_00014
+  rotate: true
+  xy: 296, 111
+  size: 27, 5
+  orig: 200, 120
+  offset: 111, 69
+  index: -1
+offer/red_lt_line1/red_lt_line1_00015
+  rotate: true
+  xy: 325, 161
+  size: 26, 4
+  orig: 200, 120
+  offset: 116, 70
+  index: -1
+offer/red_lt_line1/red_lt_line1_00016
+  rotate: false
+  xy: 159, 72
+  size: 20, 7
+  orig: 200, 120
+  offset: 122, 67
+  index: -1
+offer/red_lt_line1/red_lt_line1_00017
+  rotate: false
+  xy: 180, 67
+  size: 13, 7
+  orig: 200, 120
+  offset: 129, 67
+  index: -1
+offer/red_lt_line1/red_lt_line1_00018
+  rotate: false
+  xy: 259, 27
+  size: 7, 7
+  orig: 200, 120
+  offset: 135, 67
+  index: -1
+offer/red_lt_line1/red_lt_line1_00019
+  rotate: false
+  xy: 180, 78
+  size: 1, 1
+  orig: 200, 120
+  offset: 141, 73
+  index: -1
+offer/red_lt_line1/red_lt_line1_00020
+  rotate: false
+  xy: 180, 76
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+offer/red_lt_line2/red_lt_line2_00000
+  rotate: false
+  xy: 180, 76
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+offer/red_lt_line2/red_lt_line2_00001
+  rotate: false
+  xy: 180, 76
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+offer/red_lt_line2/red_lt_line2_00020
+  rotate: false
+  xy: 180, 76
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+offer/red_lt_line2/red_lt_line2_00002
+  rotate: true
+  xy: 159, 66
+  size: 5, 9
+  orig: 200, 120
+  offset: 134, 44
+  index: -1
+offer/red_lt_line2/red_lt_line2_00003
+  rotate: true
+  xy: 188, 1
+  size: 10, 11
+  orig: 200, 120
+  offset: 129, 43
+  index: -1
+offer/red_lt_line2/red_lt_line2_00004
+  rotate: true
+  xy: 182, 75
+  size: 16, 11
+  orig: 200, 120
+  offset: 123, 43
+  index: -1
+offer/red_lt_line2/red_lt_line2_00005
+  rotate: false
+  xy: 265, 55
+  size: 23, 11
+  orig: 200, 120
+  offset: 116, 42
+  index: -1
+offer/red_lt_line2/red_lt_line2_00006
+  rotate: false
+  xy: 199, 12
+  size: 27, 4
+  orig: 200, 120
+  offset: 111, 42
+  index: -1
+offer/red_lt_line2/red_lt_line2_00007
+  rotate: true
+  xy: 317, 145
+  size: 28, 3
+  orig: 200, 120
+  offset: 104, 42
+  index: -1
+offer/red_lt_line2/red_lt_line2_00008
+  rotate: true
+  xy: 321, 159
+  size: 28, 3
+  orig: 200, 120
+  offset: 98, 42
+  index: -1
+offer/red_lt_line2/red_lt_line2_00009
+  rotate: false
+  xy: 259, 38
+  size: 27, 2
+  orig: 200, 120
+  offset: 93, 42
+  index: -1
+offer/red_lt_line2/red_lt_line2_00010
+  rotate: true
+  xy: 306, 83
+  size: 28, 2
+  orig: 200, 120
+  offset: 86, 42
+  index: -1
+offer/red_lt_line2/red_lt_line2_00011
+  rotate: false
+  xy: 230, 15
+  size: 28, 2
+  orig: 200, 120
+  offset: 81, 42
+  index: -1
+offer/red_lt_line2/red_lt_line2_00012
+  rotate: false
+  xy: 259, 35
+  size: 28, 2
+  orig: 200, 120
+  offset: 76, 42
+  index: -1
+offer/red_lt_line2/red_lt_line2_00013
+  rotate: false
+  xy: 230, 18
+  size: 28, 3
+  orig: 200, 120
+  offset: 71, 42
+  index: -1
+offer/red_lt_line2/red_lt_line2_00014
+  rotate: false
+  xy: 259, 47
+  size: 28, 3
+  orig: 200, 120
+  offset: 65, 42
+  index: -1
+offer/red_lt_line2/red_lt_line2_00015
+  rotate: true
+  xy: 302, 112
+  size: 26, 5
+  orig: 200, 120
+  offset: 62, 42
+  index: -1
+offer/red_lt_line2/red_lt_line2_00016
+  rotate: false
+  xy: 159, 80
+  size: 22, 11
+  orig: 200, 120
+  offset: 61, 42
+  index: -1
+offer/red_lt_line2/red_lt_line2_00017
+  rotate: false
+  xy: 170, 1
+  size: 17, 10
+  orig: 200, 120
+  offset: 61, 43
+  index: -1
+offer/red_lt_line2/red_lt_line2_00018
+  rotate: false
+  xy: 200, 1
+  size: 11, 10
+  orig: 200, 120
+  offset: 61, 43
+  index: -1
+offer/red_lt_line2/red_lt_line2_00019
+  rotate: false
+  xy: 289, 57
+  size: 6, 9
+  orig: 200, 120
+  offset: 61, 44
+  index: -1
+offer/slider_lt/slider_lt_00000
+  rotate: false
+  xy: 1, 66
+  size: 93, 200
+  orig: 200, 200
+  offset: 53, 0
+  index: -1
+offer/txt_hotdeal
+  rotate: false
+  xy: 95, 92
+  size: 98, 37
+  orig: 99, 40
+  offset: 0, 1
+  index: -1
+offer/리본몸_빨강
+  rotate: false
+  xy: 95, 130
+  size: 168, 75
+  orig: 169, 78
+  offset: 0, 3
+  index: -1
+offer/리본몸_빨강2
+  rotate: false
+  xy: 1, 1
+  size: 168, 64
+  orig: 169, 78
+  offset: 0, 3
+  index: -1
+offer/리본팔_빨강
+  rotate: false
+  xy: 95, 206
+  size: 213, 60
+  orig: 213, 60
+  offset: 0, 0
+  index: -1
+offer/오퍼동전_가운데/오퍼동전_01
+  rotate: true
+  xy: 309, 203
+  size: 63, 20
+  orig: 74, 60
+  offset: 11, 0
+  index: -1
+offer/오퍼동전_가운데/오퍼동전_02
+  rotate: true
+  xy: 309, 203
+  size: 63, 20
+  orig: 74, 60
+  offset: 11, 16
+  index: -1
+offer/오퍼동전_가운데/오퍼동전_03
+  rotate: false
+  xy: 95, 71
+  size: 63, 20
+  orig: 74, 60
+  offset: 6, 28
+  index: -1
+offer/오퍼동전_가운데/오퍼동전_04
+  rotate: true
+  xy: 296, 139
+  size: 63, 20
+  orig: 74, 60
+  offset: 0, 40
+  index: -1
+offer/오퍼동전_왼쪽/오퍼동전_01
+  rotate: true
+  xy: 264, 137
+  size: 68, 31
+  orig: 80, 60
+  offset: 1, 18
+  index: -1
+offer/오퍼동전_왼쪽/오퍼동전_02
+  rotate: true
+  xy: 265, 67
+  size: 69, 30
+  orig: 80, 60
+  offset: 0, 30
+  index: -1
+offer/오퍼동전_왼쪽/오퍼동전_그림자
+  rotate: true
+  xy: 170, 17
+  size: 37, 59
+  orig: 80, 60
+  offset: 42, 0
+  index: -1
+offer/오퍼동전_왼쪽/오퍼동전_오른쪽
+  rotate: false
+  xy: 194, 55
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1

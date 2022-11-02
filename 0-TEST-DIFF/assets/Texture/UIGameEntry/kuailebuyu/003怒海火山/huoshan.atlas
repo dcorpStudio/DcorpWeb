@@ -1,0 +1,69 @@
+
+huoshan.png
+size: 599,285
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dizuo
+  rotate: true
+  xy: 2, 48
+  size: 235, 180
+  orig: 238, 182
+  offset: 1, 1
+  index: -1
+kulutou
+  rotate: true
+  xy: 437, 2
+  size: 109, 151
+  orig: 114, 153
+  offset: 4, 1
+  index: -1
+magma
+  rotate: true
+  xy: 342, 113
+  size: 170, 147
+  orig: 172, 149
+  offset: 1, 1
+  index: -1
+magma-shangceng
+  rotate: false
+  xy: 184, 6
+  size: 136, 99
+  orig: 136, 99
+  offset: 0, 0
+  index: -1
+magma2
+  rotate: false
+  xy: 491, 177
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+shikeng
+  rotate: false
+  xy: 491, 114
+  size: 58, 61
+  orig: 63, 63
+  offset: 1, 1
+  index: -1
+shikeng2
+  rotate: true
+  xy: 322, 30
+  size: 75, 113
+  orig: 78, 115
+  offset: 2, 1
+  index: -1
+shixiang
+  rotate: true
+  xy: 184, 107
+  size: 176, 156
+  orig: 192, 158
+  offset: 15, 1
+  index: -1
+stairs
+  rotate: false
+  xy: 2, 6
+  size: 46, 40
+  orig: 48, 42
+  offset: 1, 1
+  index: -1

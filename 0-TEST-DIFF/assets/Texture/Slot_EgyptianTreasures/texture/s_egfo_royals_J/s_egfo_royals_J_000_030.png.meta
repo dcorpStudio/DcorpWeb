@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "93537294-8c6a-4997-ab8b-30eb40b3257d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 349,
+  "height": 349,
+  "platformSettings": {},
+  "subMetas": {
+    "s_egfo_royals_J_000_030": {
+      "ver": "1.0.6",
+      "uuid": "62b815a8-5e5f-41ab-a21c-26ca7ea157f1",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "93537294-8c6a-4997-ab8b-30eb40b3257d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": -2,
+      "trimX": 69,
+      "trimY": 52,
+      "width": 208,
+      "height": 249,
+      "rawWidth": 349,
+      "rawHeight": 349,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

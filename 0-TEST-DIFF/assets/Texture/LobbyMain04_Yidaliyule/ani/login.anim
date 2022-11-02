@@ -1,0 +1,127 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "login",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "22",
+  "curveData": {
+    "paths": {
+      "girl": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": -5
+            }
+          ]
+        }
+      },
+      "laotou": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 5
+            }
+          ]
+        }
+      },
+      "feixing1": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 214
+            },
+            {
+              "frame": 1,
+              "value": 250
+            }
+          ]
+        }
+      },
+      "niu": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 185
+            },
+            {
+              "frame": 1,
+              "value": 208
+            }
+          ]
+        }
+      },
+      "star2": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -175
+            },
+            {
+              "frame": 1,
+              "value": -153
+            }
+          ]
+        }
+      },
+      "star1": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -64
+            },
+            {
+              "frame": 1,
+              "value": -33
+            }
+          ]
+        }
+      },
+      "star3": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -81
+            },
+            {
+              "frame": 1,
+              "value": -53
+            }
+          ]
+        }
+      },
+      "star4": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 22
+            },
+            {
+              "frame": 1,
+              "value": 44
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

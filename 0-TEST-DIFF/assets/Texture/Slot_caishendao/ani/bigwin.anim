@@ -1,0 +1,110 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bigwin",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.7083333333333333,
+  "sample": 24,
+  "speed": 1,
+  "wrapMode": "0",
+  "curveData": {
+    "props": {
+      "width": [],
+      "height": []
+    },
+    "paths": {
+      "s_fire": {
+        "props": {
+          "height": [
+            {
+              "frame": 0,
+              "value": 586
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 678
+            },
+            {
+              "frame": 1.7083333333333333,
+              "value": 586
+            }
+          ],
+          "width": [
+            {
+              "frame": 0,
+              "value": 1791
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 2071
+            },
+            {
+              "frame": 1.7083333333333333,
+              "value": 1791
+            }
+          ]
+        }
+      },
+      "bigwin": {
+        "props": {
+          "width": [
+            {
+              "frame": 0,
+              "value": 983
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 1150
+            },
+            {
+              "frame": 1.7083333333333333,
+              "value": 983
+            }
+          ],
+          "height": [
+            {
+              "frame": 0,
+              "value": 762
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 828
+            },
+            {
+              "frame": 1.7083333333333333,
+              "value": 762
+            }
+          ]
+        }
+      },
+      "gold": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                6,
+                -197
+              ]
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                6,
+                -224
+              ]
+            },
+            {
+              "frame": 1.7083333333333333,
+              "value": [
+                6,
+                -206
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

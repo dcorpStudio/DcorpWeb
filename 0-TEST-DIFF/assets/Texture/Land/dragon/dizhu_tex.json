@@ -1,0 +1,18 @@
+{
+    "SubTexture": [{
+        "width": 79,
+        "y": 1,
+        "height": 86,
+        "name": "icon1",
+        "x": 89
+    },
+    {
+        "width": 86,
+        "y": 1,
+        "height": 86,
+        "name": "图层-1",
+        "x": 1
+    }],
+    "imagePath": "dizhu_tex.png",
+    "name": "dizhu"
+}

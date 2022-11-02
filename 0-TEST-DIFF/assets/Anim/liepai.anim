@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "liepai",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.06666666666666667,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "293ffd92-6782-4c1c-b675-d868d4278c4f"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "fa415663-41c8-4ca8-ba97-38c6ad340468"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "e420ba39-9e3b-4cfa-bfe5-4234a156094c"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "b5c67574-9881-4866-a79b-60998e6cdd0d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

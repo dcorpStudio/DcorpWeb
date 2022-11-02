@@ -1,0 +1,111 @@
+
+jd_tx_ddz_nongminshengli.png
+size: 977,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/00000
+  rotate: false
+  xy: 565, 148
+  size: 138, 136
+  orig: 160, 162
+  offset: 22, 2
+  index: -1
+1/00001
+  rotate: true
+  xy: 428, 115
+  size: 141, 135
+  orig: 160, 162
+  offset: 19, 3
+  index: -1
+1/00002
+  rotate: false
+  xy: 267, 100
+  size: 159, 156
+  orig: 160, 162
+  offset: 0, 1
+  index: -1
+1/00003
+  rotate: false
+  xy: 823, 101
+  size: 136, 133
+  orig: 160, 162
+  offset: 20, 0
+  index: -1
+1/00004
+  rotate: false
+  xy: 825, 236
+  size: 151, 143
+  orig: 160, 162
+  offset: 3, 2
+  index: -1
+1/00005
+  rotate: true
+  xy: 576, 11
+  size: 135, 125
+  orig: 160, 162
+  offset: 17, 9
+  index: -1
+1/00006
+  rotate: false
+  xy: 705, 156
+  size: 116, 128
+  orig: 160, 162
+  offset: 11, 9
+  index: -1
+1/00007
+  rotate: true
+  xy: 449, 7
+  size: 106, 125
+  orig: 160, 162
+  offset: 11, 12
+  index: -1
+1/00008
+  rotate: false
+  xy: 705, 56
+  size: 98, 98
+  orig: 160, 162
+  offset: 11, 39
+  index: -1
+1/00009
+  rotate: false
+  xy: 805, 19
+  size: 92, 80
+  orig: 160, 162
+  offset: 11, 57
+  index: -1
+1/00010
+  rotate: false
+  xy: 899, 64
+  size: 34, 35
+  orig: 160, 162
+  offset: 12, 60
+  index: -1
+maisui
+  rotate: true
+  xy: 267, 3
+  size: 95, 180
+  orig: 95, 180
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: false
+  xy: 1, 258
+  size: 499, 121
+  orig: 499, 121
+  offset: 0, 0
+  index: -1
+ren
+  rotate: false
+  xy: 1, 1
+  size: 264, 255
+  orig: 264, 255
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 502, 286
+  size: 321, 93
+  orig: 321, 93
+  offset: 0, 0
+  index: -1

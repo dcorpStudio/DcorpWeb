@@ -1,0 +1,41 @@
+
+wugui_Fore_background.png
+size: 400,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baipaochang
+  rotate: true
+  xy: 338, 174
+  size: 116, 60
+  orig: 116, 60
+  offset: 0, 0
+  index: -1
+fangkuai
+  rotate: false
+  xy: 2, 118
+  size: 262, 172
+  orig: 262, 172
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: true
+  xy: 266, 40
+  size: 250, 70
+  orig: 250, 70
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 2, 51
+  size: 243, 65
+  orig: 243, 65
+  offset: 0, 0
+  index: -1
+yuanjiaojuxin
+  rotate: false
+  xy: 2, 2
+  size: 183, 47
+  orig: 183, 47
+  offset: 0, 0
+  index: -1

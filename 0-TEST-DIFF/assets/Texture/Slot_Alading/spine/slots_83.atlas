@@ -1,0 +1,83 @@
+
+slots_83.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 110
+  size: 132, 137
+  orig: 132, 137
+  offset: 0, 0
+  index: -1
+Fa
+  rotate: false
+  xy: 2, 25
+  size: 104, 83
+  orig: 104, 83
+  offset: 0, 0
+  index: -1
+Fa1
+  rotate: true
+  xy: 108, 6
+  size: 39, 58
+  orig: 39, 58
+  offset: 0, 0
+  index: -1
+Fa2
+  rotate: false
+  xy: 108, 47
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+Fa3
+  rotate: false
+  xy: 168, 45
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 212, 174
+  size: 73, 37
+  orig: 73, 37
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 2, 2
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 168, 23
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 136, 172
+  size: 74, 75
+  orig: 74, 75
+  offset: 0, 0
+  index: -1
+hurd
+  rotate: false
+  xy: 136, 106
+  size: 79, 64
+  orig: 79, 64
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 33, 13
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1

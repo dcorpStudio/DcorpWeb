@@ -1,0 +1,104 @@
+
+slots_81.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 117
+  size: 137, 128
+  orig: 137, 128
+  offset: 0, 0
+  index: -1
+BiZi
+  rotate: false
+  xy: 67, 11
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 33
+  size: 94, 82
+  orig: 94, 82
+  offset: 0, 0
+  index: -1
+Bu1
+  rotate: true
+  xy: 2, 2
+  size: 29, 63
+  orig: 29, 63
+  offset: 0, 0
+  index: -1
+Bu2
+  rotate: false
+  xy: 98, 53
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+FACE
+  rotate: false
+  xy: 141, 118
+  size: 55, 64
+  orig: 55, 64
+  offset: 0, 0
+  index: -1
+HuZi01
+  rotate: true
+  xy: 236, 211
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+HuZi02
+  rotate: false
+  xy: 198, 151
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+ZUIBA
+  rotate: false
+  xy: 98, 39
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+eyeL
+  rotate: false
+  xy: 198, 119
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+eyeR
+  rotate: false
+  xy: 198, 134
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+meimaoL
+  rotate: false
+  xy: 143, 103
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+meimaoR
+  rotate: true
+  xy: 236, 186
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+moazi
+  rotate: false
+  xy: 141, 184
+  size: 93, 61
+  orig: 93, 61
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+slots_71.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+050
+  rotate: false
+  xy: 693, 127
+  size: 122, 127
+  orig: 128, 128
+  offset: 3, 1
+  index: -1
+Effects_Textures_136-1
+  rotate: false
+  xy: 899, 190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+a
+  rotate: true
+  xy: 537, 62
+  size: 27, 45
+  orig: 29, 47
+  offset: 1, 1
+  index: -1
+al
+  rotate: true
+  xy: 65, 2
+  size: 42, 59
+  orig: 49, 71
+  offset: 6, 6
+  index: -1
+bg
+  rotate: false
+  xy: 372, 71
+  size: 163, 183
+  orig: 165, 185
+  offset: 1, 1
+  index: -1
+c
+  rotate: true
+  xy: 584, 56
+  size: 33, 45
+  orig: 35, 47
+  offset: 1, 1
+  index: -1
+cl
+  rotate: false
+  xy: 766, 65
+  size: 47, 60
+  orig: 51, 77
+  offset: 2, 6
+  index: -1
+e
+  rotate: true
+  xy: 965, 189
+  size: 27, 47
+  orig: 29, 49
+  offset: 1, 1
+  index: -1
+el
+  rotate: true
+  xy: 2, 2
+  size: 42, 61
+  orig: 61, 67
+  offset: 10, 4
+  index: -1
+konghou
+  rotate: false
+  xy: 537, 91
+  size: 154, 163
+  orig: 156, 165
+  offset: 1, 1
+  index: -1
+konghou1
+  rotate: false
+  xy: 817, 174
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+kuan
+  rotate: false
+  xy: 2, 46
+  size: 181, 208
+  orig: 183, 210
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 185, 60
+  size: 185, 194
+  orig: 187, 196
+  offset: 1, 1
+  index: -1
+r
+  rotate: true
+  xy: 126, 7
+  size: 37, 56
+  orig: 39, 58
+  offset: 1, 1
+  index: -1
+rl
+  rotate: true
+  xy: 693, 73
+  size: 52, 71
+  orig: 59, 80
+  offset: 3, 3
+  index: -1
+s
+  rotate: false
+  xy: 815, 68
+  size: 30, 56
+  orig: 32, 58
+  offset: 1, 1
+  index: -1
+sl
+  rotate: true
+  xy: 817, 126
+  size: 46, 72
+  orig: 76, 84
+  offset: 11, 5
+  index: -1
+t
+  rotate: false
+  xy: 674, 49
+  size: 17, 40
+  orig: 19, 42
+  offset: 1, 1
+  index: -1
+t1
+  rotate: true
+  xy: 631, 66
+  size: 23, 41
+  orig: 25, 43
+  offset: 1, 1
+  index: -1
+t1l
+  rotate: true
+  xy: 965, 218
+  size: 36, 57
+  orig: 38, 61
+  offset: 1, 2
+  index: -1
+tl
+  rotate: false
+  xy: 847, 69
+  size: 31, 55
+  orig: 36, 65
+  offset: 4, 5
+  index: -1

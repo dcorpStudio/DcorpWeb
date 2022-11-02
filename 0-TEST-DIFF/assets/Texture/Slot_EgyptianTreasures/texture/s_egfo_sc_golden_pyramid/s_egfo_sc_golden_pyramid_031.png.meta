@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f633700a-8b28-42bc-afb2-0614f978aee0",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 349,
+  "height": 349,
+  "platformSettings": {},
+  "subMetas": {
+    "s_egfo_sc_golden_pyramid_031": {
+      "ver": "1.0.6",
+      "uuid": "7b982f2f-4178-4b64-b893-9904499e11c5",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f633700a-8b28-42bc-afb2-0614f978aee0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4.5,
+      "offsetY": 0,
+      "trimX": 9,
+      "trimY": 0,
+      "width": 322,
+      "height": 349,
+      "rawWidth": 349,
+      "rawHeight": 349,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

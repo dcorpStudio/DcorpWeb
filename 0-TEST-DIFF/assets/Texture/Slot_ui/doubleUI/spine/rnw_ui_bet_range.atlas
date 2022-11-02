@@ -1,0 +1,195 @@
+
+rnw_ui_bet_range.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/__on__maxbet_text
+  rotate: false
+  xy: 2, 21
+  size: 67, 16
+  orig: 1386, 96
+  offset: 256, 60
+  index: -1
+img/ui_bet_range/__on__maxbet_bg_dotglow_ph_w
+  rotate: true
+  xy: 327, 227
+  size: 143, 63
+  orig: 143, 63
+  offset: 0, 0
+  index: -1
+img/ui_bet_range/__on__optical3
+  rotate: false
+  xy: 317, 837
+  size: 194, 56
+  orig: 238, 72
+  offset: 22, 8
+  index: -1
+img/ui_bet_range/change_particle/50/change_particle_0000
+  rotate: true
+  xy: 808, 877
+  size: 46, 54
+  orig: 185, 162
+  offset: 67, 56
+  index: -1
+img/ui_bet_range/change_particle/50/change_particle_0001
+  rotate: false
+  xy: 313, 372
+  size: 95, 75
+  orig: 185, 162
+  offset: 50, 46
+  index: -1
+img/ui_bet_range/change_particle/50/change_particle_0002
+  rotate: true
+  xy: 313, 449
+  size: 142, 99
+  orig: 185, 162
+  offset: 21, 35
+  index: -1
+img/ui_bet_range/change_particle/50/change_particle_0003
+  rotate: true
+  xy: 181, 355
+  size: 174, 130
+  orig: 185, 162
+  offset: 11, 19
+  index: -1
+img/ui_bet_range/change_particle/50/change_particle_0004
+  rotate: true
+  xy: 177, 171
+  size: 182, 148
+  orig: 185, 162
+  offset: 3, 9
+  index: -1
+img/ui_bet_range/change_particle/50/change_particle_0005
+  rotate: false
+  xy: 2, 367
+  size: 177, 162
+  orig: 185, 162
+  offset: 3, 0
+  index: -1
+img/ui_bet_range/change_particle/50/change_particle_0006
+  rotate: false
+  xy: 2, 203
+  size: 173, 162
+  orig: 185, 162
+  offset: 3, 0
+  index: -1
+img/ui_bet_range/change_particle/50/change_particle_0007
+  rotate: false
+  xy: 2, 39
+  size: 173, 162
+  orig: 185, 162
+  offset: 1, 0
+  index: -1
+img/ui_bet_range/change_particle/50/change_particle_0008
+  rotate: true
+  xy: 177, 2
+  size: 167, 159
+  orig: 185, 162
+  offset: 3, 3
+  index: -1
+img/ui_bet_range/change_particle/50/change_particle_0009
+  rotate: false
+  xy: 478, 673
+  size: 174, 157
+  orig: 185, 162
+  offset: 1, 2
+  index: -1
+img/ui_bet_range/change_particle/50/change_particle_0010
+  rotate: false
+  xy: 864, 860
+  size: 158, 162
+  orig: 185, 162
+  offset: 11, 0
+  index: -1
+img/ui_bet_range/change_particle/50/change_particle_0011
+  rotate: false
+  xy: 654, 670
+  size: 162, 160
+  orig: 185, 162
+  offset: 10, 0
+  index: -1
+img/ui_bet_range/change_particle/50/change_particle_0012
+  rotate: false
+  xy: 818, 710
+  size: 164, 148
+  orig: 185, 162
+  offset: 9, 14
+  index: -1
+img/ui_bet_range/change_particle/50/change_particle_0013
+  rotate: false
+  xy: 301, 676
+  size: 175, 159
+  orig: 185, 162
+  offset: 4, 3
+  index: -1
+img/ui_bet_range/up_bg_particle/up_bg_particle_0000
+  rotate: false
+  xy: 424, 596
+  size: 85, 75
+  orig: 378, 146
+  offset: 32, 21
+  index: -1
+img/ui_bet_range/up_bg_particle/up_bg_particle_0001
+  rotate: false
+  xy: 818, 581
+  size: 169, 127
+  orig: 378, 146
+  offset: 39, 0
+  index: -1
+img/ui_bet_range/up_bg_particle/up_bg_particle_0002
+  rotate: false
+  xy: 2, 728
+  size: 297, 146
+  orig: 378, 146
+  offset: 0, 0
+  index: -1
+img/ui_bet_range/up_bg_particle/up_bg_particle_0003
+  rotate: false
+  xy: 2, 876
+  size: 313, 146
+  orig: 378, 146
+  offset: 58, 0
+  index: -1
+img/ui_bet_range/up_bg_particle/up_bg_particle_0004
+  rotate: false
+  xy: 317, 895
+  size: 277, 127
+  orig: 378, 146
+  offset: 94, 0
+  index: -1
+img/ui_bet_range/up_bg_particle/up_bg_particle_0005
+  rotate: false
+  xy: 596, 925
+  size: 266, 97
+  orig: 378, 146
+  offset: 105, 12
+  index: -1
+img/ui_bet_range/up_bg_particle/up_bg_particle_0006
+  rotate: false
+  xy: 2, 629
+  size: 272, 97
+  orig: 378, 146
+  offset: 99, 12
+  index: -1
+img/ui_bet_range/up_bg_particle/up_bg_particle_0007
+  rotate: false
+  xy: 2, 531
+  size: 266, 96
+  orig: 378, 146
+  offset: 105, 12
+  index: -1
+img/ui_bet_range/up_bg_particle/up_bg_particle_0008
+  rotate: false
+  xy: 596, 832
+  size: 210, 91
+  orig: 378, 146
+  offset: 161, 12
+  index: -1
+img/ui_bet_range/up_bg_particle/up_bg_particle_0009
+  rotate: false
+  xy: 276, 593
+  size: 146, 81
+  orig: 378, 146
+  offset: 222, 18
+  index: -1

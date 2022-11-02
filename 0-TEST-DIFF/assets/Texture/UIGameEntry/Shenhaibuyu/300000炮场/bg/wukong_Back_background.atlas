@@ -1,0 +1,20 @@
+
+wukong_Back_background.png
+size: 896,351
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shitou1
+  rotate: true
+  xy: 583, 7
+  size: 342, 311
+  orig: 342, 311
+  offset: 0, 0
+  index: -1
+spine_dieguan
+  rotate: true
+  xy: 2, 2
+  size: 347, 579
+  orig: 347, 579
+  offset: 0, 0
+  index: -1

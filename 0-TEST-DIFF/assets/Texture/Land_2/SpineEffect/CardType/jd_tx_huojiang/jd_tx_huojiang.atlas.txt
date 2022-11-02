@@ -1,0 +1,118 @@
+
+jd_tx_huojiang.png
+size: 508,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_000
+  rotate: true
+  xy: 446, 346
+  size: 53, 41
+  orig: 1280, 720
+  offset: 610, 269
+  index: -1
+01_001
+  rotate: false
+  xy: 356, 38
+  size: 37, 33
+  orig: 1280, 720
+  offset: 614, 282
+  index: -1
+01_002
+  rotate: false
+  xy: 446, 401
+  size: 49, 46
+  orig: 1280, 720
+  offset: 611, 277
+  index: -1
+01_003
+  rotate: false
+  xy: 446, 449
+  size: 61, 60
+  orig: 1280, 720
+  offset: 605, 272
+  index: -1
+01_004
+  rotate: true
+  xy: 101, 17
+  size: 84, 98
+  orig: 1280, 720
+  offset: 593, 276
+  index: -1
+01_005
+  rotate: true
+  xy: 396, 88
+  size: 89, 85
+  orig: 1280, 720
+  offset: 592, 274
+  index: -1
+01_006
+  rotate: false
+  xy: 1, 9
+  size: 98, 85
+  orig: 1280, 720
+  offset: 589, 274
+  index: -1
+01_007
+  rotate: true
+  xy: 279, 73
+  size: 104, 115
+  orig: 1280, 720
+  offset: 587, 271
+  index: -1
+02_007
+  rotate: false
+  xy: 1, 96
+  size: 98, 298
+  orig: 1280, 720
+  offset: 571, 417
+  index: -1
+glow01
+  rotate: false
+  xy: 303, 179
+  size: 126, 126
+  orig: 128, 128
+  offset: 1, 1
+  index: -1
+guang01
+  rotate: false
+  xy: 101, 202
+  size: 200, 192
+  orig: 200, 192
+  offset: 0, 0
+  index: -1
+guang04
+  rotate: false
+  xy: 1, 396
+  size: 300, 113
+  orig: 300, 113
+  offset: 0, 0
+  index: -1
+hjdwy_001
+  rotate: false
+  xy: 201, 16
+  size: 70, 85
+  orig: 70, 85
+  offset: 0, 0
+  index: -1
+hjdwy_002
+  rotate: true
+  xy: 273, 1
+  size: 70, 81
+  orig: 70, 81
+  offset: 0, 0
+  index: -1
+huojiang
+  rotate: false
+  xy: 303, 307
+  size: 141, 202
+  orig: 141, 202
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 101, 103
+  size: 176, 97
+  orig: 176, 97
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+wukong_Fore_background.png
+size: 584,291
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fangkuai
+  rotate: false
+  xy: 2, 2
+  size: 262, 172
+  orig: 262, 172
+  offset: 0, 0
+  index: -1
+piaodiao
+  rotate: false
+  xy: 266, 67
+  size: 250, 70
+  orig: 250, 70
+  offset: 0, 0
+  index: -1
+shitou
+  rotate: false
+  xy: 2, 176
+  size: 330, 113
+  orig: 330, 113
+  offset: 0, 0
+  index: -1
+shiwanpaochang
+  rotate: false
+  xy: 266, 5
+  size: 170, 60
+  orig: 170, 60
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 334, 224
+  size: 243, 65
+  orig: 243, 65
+  offset: 0, 0
+  index: -1
+xingxinggggg
+  rotate: false
+  xy: 334, 139
+  size: 199, 83
+  orig: 199, 83
+  offset: 0, 0
+  index: -1
+yuanjiaojuxing
+  rotate: true
+  xy: 535, 39
+  size: 183, 47
+  orig: 183, 47
+  offset: 0, 0
+  index: -1

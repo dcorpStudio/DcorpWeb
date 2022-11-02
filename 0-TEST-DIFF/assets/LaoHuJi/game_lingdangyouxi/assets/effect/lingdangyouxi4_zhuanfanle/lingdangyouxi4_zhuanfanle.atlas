@@ -1,0 +1,125 @@
+
+lingdangyouxi4_zhuanfanle.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lingdangyouxi4_baoxiang
+  rotate: false
+  xy: 445, 181
+  size: 135, 121
+  orig: 135, 121
+  offset: 0, 0
+  index: -1
+lingdangyouxi4_caidai
+  rotate: false
+  xy: 453, 647
+  size: 510, 110
+  orig: 510, 110
+  offset: 0, 0
+  index: -1
+lingdangyouxi4_dianguang
+  rotate: true
+  xy: 798, 322
+  size: 323, 142
+  orig: 323, 142
+  offset: 0, 0
+  index: -1
+lingdangyouxi4_fan
+  rotate: false
+  xy: 257, 2
+  size: 199, 154
+  orig: 199, 154
+  offset: 0, 0
+  index: -1
+lingdangyouxi4_glow
+  rotate: false
+  xy: 2, 597
+  size: 449, 425
+  orig: 449, 425
+  offset: 0, 0
+  index: -1
+lingdangyouxi4_gu
+  rotate: true
+  xy: 257, 158
+  size: 437, 186
+  orig: 437, 186
+  offset: 0, 0
+  index: -1
+lingdangyouxi4_guangci
+  rotate: true
+  xy: 453, 304
+  size: 341, 343
+  orig: 341, 343
+  offset: 0, 0
+  index: -1
+lingdangyouxi4_jinbi1
+  rotate: false
+  xy: 2, 24
+  size: 184, 108
+  orig: 184, 108
+  offset: 0, 0
+  index: -1
+lingdangyouxi4_jinbi2
+  rotate: false
+  xy: 902, 760
+  size: 82, 46
+  orig: 82, 46
+  offset: 0, 0
+  index: -1
+lingdangyouxi4_le
+  rotate: false
+  xy: 747, 5
+  size: 147, 145
+  orig: 147, 145
+  offset: 0, 0
+  index: -1
+lingdangyouxi4_quan
+  rotate: false
+  xy: 747, 152
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+lingdangyouxi4_win
+  rotate: false
+  xy: 453, 759
+  size: 447, 263
+  orig: 447, 263
+  offset: 0, 0
+  index: -1
+lingdangyouxi4_win_deng
+  rotate: true
+  xy: 902, 808
+  size: 214, 119
+  orig: 214, 119
+  offset: 0, 0
+  index: -1
+lingdangyouxi4_win_shine
+  rotate: true
+  xy: 2, 134
+  size: 461, 253
+  orig: 461, 253
+  offset: 0, 0
+  index: -1
+lingdangyouxi4_xingxing
+  rotate: false
+  xy: 458, 96
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+lingdangyouxi4_zhuan
+  rotate: false
+  xy: 582, 143
+  size: 163, 159
+  orig: 163, 159
+  offset: 0, 0
+  index: -1
+shine
+  rotate: false
+  xy: 942, 572
+  size: 21, 73
+  orig: 21, 73
+  offset: 0, 0
+  index: -1

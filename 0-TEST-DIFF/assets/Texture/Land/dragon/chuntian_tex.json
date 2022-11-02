@@ -1,0 +1,60 @@
+{
+    "SubTexture": [{
+        "width": 450,
+        "y": 1,
+        "height": 242,
+        "name": "组-46_1",
+        "x": 1
+    },
+    {
+        "width": 60,
+        "y": 320,
+        "height": 56,
+        "name": "huad3",
+        "x": 416
+    },
+    {
+        "width": 19,
+        "y": 1,
+        "height": 33,
+        "name": "hua3",
+        "x": 491
+    },
+    {
+        "width": 24,
+        "y": 320,
+        "height": 25,
+        "name": "hua1",
+        "x": 478
+    },
+    {
+        "width": 79,
+        "y": 245,
+        "height": 73,
+        "name": "huad1",
+        "x": 416
+    },
+    {
+        "width": 99,
+        "y": 245,
+        "height": 93,
+        "name": "huad2",
+        "x": 315
+    },
+    {
+        "width": 312,
+        "y": 245,
+        "height": 157,
+        "name": "组-45",
+        "x": 1
+    },
+    {
+        "width": 36,
+        "y": 1,
+        "height": 36,
+        "name": "star",
+        "x": 453
+    }],
+    "imagePath": "chuntian_tex.png",
+    "name": "chuntian"
+}

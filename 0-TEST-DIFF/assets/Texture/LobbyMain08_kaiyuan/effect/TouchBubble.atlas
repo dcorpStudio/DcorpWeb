@@ -1,0 +1,27 @@
+
+TouchBubble.png
+size: 90,74
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 2, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+b
+  rotate: false
+  xy: 74, 58
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+c
+  rotate: false
+  xy: 74, 46
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1

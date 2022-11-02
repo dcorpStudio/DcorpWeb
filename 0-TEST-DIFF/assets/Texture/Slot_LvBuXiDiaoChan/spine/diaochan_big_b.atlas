@@ -1,0 +1,48 @@
+
+diaochan_big_b.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hand_L1
+  rotate: true
+  xy: 2, 2
+  size: 111, 141
+  orig: 111, 141
+  offset: 0, 0
+  index: -1
+hand_L2_1
+  rotate: false
+  xy: 178, 61
+  size: 19, 52
+  orig: 19, 52
+  offset: 0, 0
+  index: -1
+hand_L2_2
+  rotate: false
+  xy: 145, 26
+  size: 31, 87
+  orig: 31, 87
+  offset: 0, 0
+  index: -1
+hand_L2_3
+  rotate: false
+  xy: 199, 69
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+hand_L2_4
+  rotate: false
+  xy: 227, 75
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+hand_L2_5
+  rotate: false
+  xy: 145, 2
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1

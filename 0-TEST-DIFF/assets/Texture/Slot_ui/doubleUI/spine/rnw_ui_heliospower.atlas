@@ -1,0 +1,636 @@
+
+rnw_ui_heliospower.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/link_img
+  rotate: false
+  xy: 213, 148
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+img/star_power/back/back_0001
+  rotate: true
+  xy: 524, 314
+  size: 33, 39
+  orig: 49, 51
+  offset: 9, 5
+  index: -1
+img/star_power/back/back_0002
+  rotate: true
+  xy: 287, 137
+  size: 22, 39
+  orig: 49, 51
+  offset: 15, 5
+  index: -1
+img/star_power/back/back_0003
+  rotate: true
+  xy: 279, 57
+  size: 15, 37
+  orig: 49, 51
+  offset: 18, 6
+  index: -1
+img/star_power/back/back_0004
+  rotate: true
+  xy: 286, 109
+  size: 26, 39
+  orig: 49, 51
+  offset: 12, 5
+  index: -1
+img/star_power/back/back_0005
+  rotate: true
+  xy: 565, 312
+  size: 35, 39
+  orig: 49, 51
+  offset: 8, 5
+  index: -1
+img/star_power/back/back_0006
+  rotate: true
+  xy: 287, 161
+  size: 39, 38
+  orig: 49, 51
+  offset: 6, 5
+  index: -1
+img/star_power/circle
+  rotate: false
+  xy: 659, 344
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+img/star_power/circle_red
+  rotate: false
+  xy: 738, 344
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+img/star_power/loop_glow/loop_glow_0000
+  rotate: false
+  xy: 346, 72
+  size: 19, 35
+  orig: 46, 40
+  offset: 15, 3
+  index: -1
+img/star_power/loop_glow/loop_glow_0001
+  rotate: false
+  xy: 367, 336
+  size: 23, 35
+  orig: 46, 40
+  offset: 13, 3
+  index: -1
+img/star_power/loop_glow/loop_glow_0002
+  rotate: true
+  xy: 327, 352
+  size: 27, 35
+  orig: 46, 40
+  offset: 11, 3
+  index: -1
+img/star_power/loop_glow/loop_glow_0003
+  rotate: false
+  xy: 293, 307
+  size: 29, 35
+  orig: 46, 40
+  offset: 10, 3
+  index: -1
+img/star_power/loop_glow/loop_glow_0004
+  rotate: false
+  xy: 721, 307
+  size: 32, 35
+  orig: 46, 40
+  offset: 8, 3
+  index: -1
+img/star_power/loop_glow/loop_glow_0005
+  rotate: false
+  xy: 755, 308
+  size: 33, 34
+  orig: 46, 40
+  offset: 7, 3
+  index: -1
+img/star_power/loop_glow/loop_glow_0006
+  rotate: false
+  xy: 279, 74
+  size: 34, 33
+  orig: 46, 40
+  offset: 7, 3
+  index: -1
+img/star_power/loop_glow/loop_glow_0007
+  rotate: false
+  xy: 291, 378
+  size: 34, 30
+  orig: 46, 40
+  offset: 7, 4
+  index: -1
+img/star_power/loop_glow/loop_glow_0008
+  rotate: false
+  xy: 324, 301
+  size: 34, 28
+  orig: 46, 40
+  offset: 7, 5
+  index: -1
+img/star_power/loop_glow/loop_glow_0009
+  rotate: true
+  xy: 790, 308
+  size: 34, 24
+  orig: 46, 40
+  offset: 7, 7
+  index: -1
+img/star_power/loop_glow/loop_glow_0010
+  rotate: false
+  xy: 360, 272
+  size: 34, 20
+  orig: 46, 40
+  offset: 7, 9
+  index: -1
+img/star_power/loop_glow/loop_glow_0011
+  rotate: true
+  xy: 318, 38
+  size: 34, 24
+  orig: 46, 40
+  offset: 7, 7
+  index: -1
+img/star_power/loop_glow/loop_glow_0012
+  rotate: false
+  xy: 324, 272
+  size: 34, 27
+  orig: 46, 40
+  offset: 7, 6
+  index: -1
+img/star_power/loop_glow/loop_glow_0013
+  rotate: true
+  xy: 315, 74
+  size: 33, 29
+  orig: 46, 40
+  offset: 7, 5
+  index: -1
+img/star_power/loop_glow/loop_glow_0014
+  rotate: false
+  xy: 291, 344
+  size: 33, 32
+  orig: 46, 40
+  offset: 7, 4
+  index: -1
+img/star_power/loop_glow/loop_glow_0015
+  rotate: false
+  xy: 278, 21
+  size: 33, 34
+  orig: 46, 40
+  offset: 7, 3
+  index: -1
+img/star_power/loop_glow/loop_glow_0016
+  rotate: true
+  xy: 327, 381
+  size: 31, 35
+  orig: 46, 40
+  offset: 8, 3
+  index: -1
+img/star_power/loop_glow/loop_glow_0017
+  rotate: false
+  xy: 293, 270
+  size: 29, 35
+  orig: 46, 40
+  offset: 9, 3
+  index: -1
+img/star_power/loop_glow/loop_glow_0018
+  rotate: true
+  xy: 327, 109
+  size: 26, 35
+  orig: 46, 40
+  offset: 11, 3
+  index: -1
+img/star_power/loop_glow/loop_glow_0019
+  rotate: false
+  xy: 360, 294
+  size: 22, 35
+  orig: 46, 40
+  offset: 13, 3
+  index: -1
+img/star_power/loop_glow/loop_glow_0020
+  rotate: false
+  xy: 344, 35
+  size: 19, 35
+  orig: 46, 40
+  offset: 15, 3
+  index: -1
+img/star_power/max_in/starpower_max_in_0001
+  rotate: false
+  xy: 2, 46
+  size: 92, 95
+  orig: 125, 100
+  offset: 16, 1
+  index: -1
+img/star_power/max_in/starpower_max_in_0002
+  rotate: false
+  xy: 2, 143
+  size: 106, 100
+  orig: 125, 100
+  offset: 10, 0
+  index: -1
+img/star_power/max_in/starpower_max_in_0003
+  rotate: false
+  xy: 180, 410
+  size: 112, 100
+  orig: 125, 100
+  offset: 6, 0
+  index: -1
+img/star_power/max_in/starpower_max_in_0004
+  rotate: false
+  xy: 2, 245
+  size: 113, 100
+  orig: 125, 100
+  offset: 5, 0
+  index: -1
+img/star_power/max_in/starpower_max_in_0005
+  rotate: false
+  xy: 294, 414
+  size: 96, 96
+  orig: 125, 100
+  offset: 20, 0
+  index: -1
+img/star_power/max_in/starpower_max_in_0006
+  rotate: false
+  xy: 873, 429
+  size: 95, 81
+  orig: 125, 100
+  offset: 21, 14
+  index: -1
+img/star_power/max_in/starpower_max_in_0007
+  rotate: true
+  xy: 117, 253
+  size: 92, 80
+  orig: 125, 100
+  offset: 24, 15
+  index: -1
+img/star_power/max_in/starpower_max_in_0008
+  rotate: false
+  xy: 199, 253
+  size: 92, 72
+  orig: 125, 100
+  offset: 24, 16
+  index: -1
+img/star_power/max_in/starpower_max_in_0009
+  rotate: true
+  xy: 96, 49
+  size: 92, 72
+  orig: 125, 100
+  offset: 24, 15
+  index: -1
+img/star_power/max_in/starpower_max_in_0010
+  rotate: false
+  xy: 970, 406
+  size: 51, 51
+  orig: 125, 100
+  offset: 39, 24
+  index: -1
+img/star_power/max_in_coin_rotation/max_in_coin_rotation_0010
+  rotate: false
+  xy: 970, 406
+  size: 51, 51
+  orig: 61, 60
+  offset: 6, 4
+  index: -1
+img/star_power/max_in/starpower_max_in_0011
+  rotate: false
+  xy: 172, 200
+  size: 51, 51
+  orig: 125, 100
+  offset: 39, 24
+  index: -1
+img/star_power/max_in_coin_rotation/max_in_coin_rotation_0011
+  rotate: false
+  xy: 172, 200
+  size: 51, 51
+  orig: 61, 60
+  offset: 6, 4
+  index: -1
+img/star_power/max_in/starpower_max_in_0012
+  rotate: true
+  xy: 970, 459
+  size: 51, 52
+  orig: 125, 100
+  offset: 39, 23
+  index: -1
+img/star_power/max_in_coin_rotation/max_in_coin_rotation_0012
+  rotate: true
+  xy: 970, 459
+  size: 51, 52
+  orig: 61, 60
+  offset: 6, 3
+  index: -1
+img/star_power/max_in/starpower_max_in_0013
+  rotate: false
+  xy: 817, 368
+  size: 53, 53
+  orig: 125, 100
+  offset: 38, 23
+  index: -1
+img/star_power/max_in_coin_rotation/max_in_coin_rotation_0013
+  rotate: false
+  xy: 817, 368
+  size: 53, 53
+  orig: 61, 60
+  offset: 5, 3
+  index: -1
+img/star_power/max_in/starpower_max_in_0014
+  rotate: false
+  xy: 817, 313
+  size: 53, 53
+  orig: 125, 100
+  offset: 38, 23
+  index: -1
+img/star_power/max_in_coin_rotation/max_in_coin_rotation_0014
+  rotate: false
+  xy: 817, 313
+  size: 53, 53
+  orig: 61, 60
+  offset: 5, 3
+  index: -1
+img/star_power/max_in/starpower_max_in_0015
+  rotate: false
+  xy: 117, 198
+  size: 53, 53
+  orig: 125, 100
+  offset: 38, 23
+  index: -1
+img/star_power/max_in_coin_rotation/max_in_coin_rotation_0015
+  rotate: false
+  xy: 117, 198
+  size: 53, 53
+  orig: 61, 60
+  offset: 5, 3
+  index: -1
+img/star_power/max_in/starpower_max_in_0016
+  rotate: false
+  xy: 225, 200
+  size: 51, 51
+  orig: 125, 100
+  offset: 39, 24
+  index: -1
+img/star_power/max_in_coin_rotation/max_in_coin_rotation_0016
+  rotate: false
+  xy: 225, 200
+  size: 51, 51
+  orig: 61, 60
+  offset: 6, 4
+  index: -1
+img/star_power/max_in/starpower_max_in_0017
+  rotate: true
+  xy: 96, 2
+  size: 45, 47
+  orig: 125, 100
+  offset: 42, 26
+  index: -1
+img/star_power/max_in_coin_rotation/max_in_coin_rotation_0017
+  rotate: true
+  xy: 96, 2
+  size: 45, 47
+  orig: 61, 60
+  offset: 9, 6
+  index: -1
+img/star_power/max_in/starpower_max_in_0018
+  rotate: false
+  xy: 263, 110
+  size: 21, 41
+  orig: 125, 100
+  offset: 54, 29
+  index: -1
+img/star_power/max_in_coin_rotation/max_in_coin_rotation_0018
+  rotate: false
+  xy: 263, 110
+  size: 21, 41
+  orig: 61, 60
+  offset: 21, 9
+  index: -1
+img/star_power/max_in/starpower_max_in_0019
+  rotate: false
+  xy: 364, 373
+  size: 26, 39
+  orig: 125, 100
+  offset: 52, 30
+  index: -1
+img/star_power/max_in_coin_rotation/max_in_coin_rotation_0019
+  rotate: false
+  xy: 364, 373
+  size: 26, 39
+  orig: 61, 60
+  offset: 19, 10
+  index: -1
+img/star_power/max_in_coin_rotation/max_in_coin_rotation_0001
+  rotate: true
+  xy: 606, 310
+  size: 37, 39
+  orig: 61, 60
+  offset: 13, 10
+  index: -1
+img/star_power/max_in_coin_rotation/max_in_coin_rotation_0002
+  rotate: false
+  xy: 180, 365
+  size: 17, 43
+  orig: 61, 60
+  offset: 23, 8
+  index: -1
+img/star_power/max_in_coin_rotation/max_in_coin_rotation_0003
+  rotate: false
+  xy: 170, 49
+  size: 37, 47
+  orig: 61, 60
+  offset: 13, 6
+  index: -1
+img/star_power/max_in_coin_rotation/max_in_coin_rotation_0004
+  rotate: false
+  xy: 170, 98
+  size: 44, 47
+  orig: 61, 60
+  offset: 10, 6
+  index: -1
+img/star_power/max_in_coin_rotation/max_in_coin_rotation_0005
+  rotate: true
+  xy: 145, 2
+  size: 45, 47
+  orig: 61, 60
+  offset: 9, 6
+  index: -1
+img/star_power/max_in_coin_rotation/max_in_coin_rotation_0006
+  rotate: false
+  xy: 213, 151
+  size: 47, 47
+  orig: 61, 60
+  offset: 8, 6
+  index: -1
+img/star_power/max_in_coin_rotation/max_in_coin_rotation_0007
+  rotate: false
+  xy: 278, 202
+  size: 47, 49
+  orig: 61, 60
+  offset: 8, 5
+  index: -1
+img/star_power/max_in_coin_rotation/max_in_coin_rotation_0008
+  rotate: false
+  xy: 162, 147
+  size: 49, 49
+  orig: 61, 60
+  offset: 7, 5
+  index: -1
+img/star_power/max_in_coin_rotation/max_in_coin_rotation_0009
+  rotate: false
+  xy: 110, 147
+  size: 50, 49
+  orig: 61, 60
+  offset: 7, 5
+  index: -1
+img/star_power/max_in_particle/max_in_particle_0001
+  rotate: false
+  xy: 686, 423
+  size: 92, 87
+  orig: 96, 87
+  offset: 1, 0
+  index: -1
+img/star_power/max_in_particle/max_in_particle_0002
+  rotate: false
+  xy: 392, 423
+  size: 96, 87
+  orig: 96, 87
+  offset: 0, 0
+  index: -1
+img/star_power/max_in_particle/max_in_particle_0003
+  rotate: false
+  xy: 490, 423
+  size: 96, 87
+  orig: 96, 87
+  offset: 0, 0
+  index: -1
+img/star_power/max_in_particle/max_in_particle_0004
+  rotate: false
+  xy: 588, 423
+  size: 96, 87
+  orig: 96, 87
+  offset: 0, 0
+  index: -1
+img/star_power/max_in_particle/max_in_particle_0005
+  rotate: false
+  xy: 780, 423
+  size: 91, 87
+  orig: 96, 87
+  offset: 5, 0
+  index: -1
+img/star_power/max_in_particle/max_in_particle_0006
+  rotate: false
+  xy: 199, 327
+  size: 90, 81
+  orig: 96, 87
+  offset: 6, 5
+  index: -1
+img/star_power/max_in_particle/max_in_particle_0007
+  rotate: false
+  xy: 392, 341
+  size: 87, 80
+  orig: 96, 87
+  offset: 9, 6
+  index: -1
+img/star_power/max_in_particle/max_in_particle_0008
+  rotate: false
+  xy: 481, 349
+  size: 87, 72
+  orig: 96, 87
+  offset: 9, 7
+  index: -1
+img/star_power/max_in_particle/max_in_particle_0009
+  rotate: false
+  xy: 570, 349
+  size: 87, 72
+  orig: 96, 87
+  offset: 9, 6
+  index: -1
+img/star_power/star_rotation/star_rotation_0001
+  rotate: false
+  xy: 647, 303
+  size: 39, 39
+  orig: 49, 51
+  offset: 6, 5
+  index: -1
+img/star_power/star_rotation/star_rotation_0002
+  rotate: false
+  xy: 241, 14
+  size: 35, 41
+  orig: 49, 51
+  offset: 8, 4
+  index: -1
+img/star_power/star_rotation/star_rotation_0003
+  rotate: false
+  xy: 262, 153
+  size: 23, 45
+  orig: 49, 51
+  offset: 14, 2
+  index: -1
+img/star_power/star_rotation/star_rotation_0004
+  rotate: false
+  xy: 209, 49
+  size: 21, 47
+  orig: 49, 51
+  offset: 15, 1
+  index: -1
+img/star_power/star_rotation/star_rotation_0005
+  rotate: true
+  xy: 2, 6
+  size: 38, 47
+  orig: 49, 51
+  offset: 7, 1
+  index: -1
+img/star_power/star_rotation/star_rotation_0006
+  rotate: false
+  xy: 194, 2
+  size: 45, 45
+  orig: 49, 51
+  offset: 3, 2
+  index: -1
+img/star_power/star_rotation/star_rotation_0007
+  rotate: false
+  xy: 216, 104
+  size: 45, 45
+  orig: 49, 51
+  offset: 3, 2
+  index: -1
+img/star_power/star_rotation/star_rotation_0008
+  rotate: true
+  xy: 51, 7
+  size: 37, 43
+  orig: 49, 51
+  offset: 7, 3
+  index: -1
+img/star_power/star_rotation/star_rotation_0009
+  rotate: true
+  xy: 481, 326
+  size: 21, 41
+  orig: 49, 51
+  offset: 15, 4
+  index: -1
+img/star_power/star_rotation/star_rotation_0010
+  rotate: true
+  xy: 326, 331
+  size: 19, 39
+  orig: 49, 51
+  offset: 16, 5
+  index: -1
+img/star_power/star_rotation/star_rotation_0011
+  rotate: false
+  xy: 688, 305
+  size: 31, 37
+  orig: 49, 51
+  offset: 10, 6
+  index: -1
+img/star_power_img
+  rotate: false
+  xy: 232, 57
+  size: 45, 45
+  orig: 1386, 96
+  offset: 414, 18
+  index: -1
+img/texture/glow2
+  rotate: false
+  xy: 2, 347
+  size: 176, 163
+  orig: 200, 200
+  offset: 12, 19
+  index: -1

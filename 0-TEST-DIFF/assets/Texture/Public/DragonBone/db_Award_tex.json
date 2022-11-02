@@ -1,0 +1,11 @@
+{
+    "SubTexture": [{
+        "width": 220,
+        "y": 1,
+        "height": 241,
+        "name": "组-202",
+        "x": 1
+    }],
+    "imagePath": "db_Award_tex.png",
+    "name": "db_Award"
+}

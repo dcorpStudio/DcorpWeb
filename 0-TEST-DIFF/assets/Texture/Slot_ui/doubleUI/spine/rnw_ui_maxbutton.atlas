@@ -1,0 +1,27 @@
+
+rnw_ui_maxbutton.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/maxbet_button/active_particle
+  rotate: false
+  xy: 2, 2
+  size: 243, 214
+  orig: 243, 214
+  offset: 0, 0
+  index: -1
+img/maxbet_button/active_particle_scale
+  rotate: false
+  xy: 247, 124
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+img/maxbet_button/circle_rotation_3
+  rotate: false
+  xy: 247, 50
+  size: 71, 72
+  orig: 78, 76
+  offset: 3, 2
+  index: -1

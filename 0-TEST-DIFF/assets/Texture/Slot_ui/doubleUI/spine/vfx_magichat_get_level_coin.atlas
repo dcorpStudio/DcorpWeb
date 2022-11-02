@@ -1,0 +1,251 @@
+
+vfx_magichat_get_level_coin.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin_spin_set/01_회전/crop/coin1
+  rotate: false
+  xy: 925, 137
+  size: 74, 53
+  orig: 77, 78
+  offset: 1, 10
+  index: -1
+coin_spin_set/01_회전/crop/coin11
+  rotate: false
+  xy: 391, 100
+  size: 44, 76
+  orig: 64, 87
+  offset: 7, 6
+  index: -1
+coin_spin_set/01_회전/crop/coin13
+  rotate: true
+  xy: 924, 104
+  size: 32, 76
+  orig: 64, 84
+  offset: 15, 4
+  index: -1
+coin_spin_set/01_회전/crop/coin15
+  rotate: false
+  xy: 436, 106
+  size: 47, 75
+  orig: 64, 75
+  offset: 10, 0
+  index: -1
+coin_spin_set/01_회전/crop/coin17
+  rotate: false
+  xy: 857, 116
+  size: 66, 66
+  orig: 69, 66
+  offset: 3, 0
+  index: -1
+coin_spin_set/01_회전/crop/coin19
+  rotate: false
+  xy: 854, 183
+  size: 70, 68
+  orig: 72, 73
+  offset: 2, 1
+  index: -1
+coin_spin_set/01_회전/crop/coin3
+  rotate: true
+  xy: 331, 92
+  size: 74, 59
+  orig: 78, 79
+  offset: 2, 8
+  index: -1
+coin_spin_set/01_회전/crop/coin5
+  rotate: false
+  xy: 485, 184
+  size: 74, 67
+  orig: 80, 79
+  offset: 3, 4
+  index: -1
+coin_spin_set/01_회전/crop/coin7
+  rotate: false
+  xy: 258, 19
+  size: 70, 73
+  orig: 70, 73
+  offset: 0, 0
+  index: -1
+coin_spin_set/01_회전/crop/coin9
+  rotate: true
+  xy: 634, 185
+  size: 66, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+coin_spin_set/02_정면_X/190902_rotate_05_0004
+  rotate: false
+  xy: 258, 93
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1
+coin_spin_set/02_정면_X/190902_rotate_05_0005
+  rotate: false
+  xy: 411, 182
+  size: 73, 69
+  orig: 73, 78
+  offset: 0, 5
+  index: -1
+coin_spin_set/02_정면_X/190902_rotate_05_0006
+  rotate: false
+  xy: 708, 187
+  size: 73, 64
+  orig: 80, 72
+  offset: 3, 4
+  index: -1
+coin_spin_set/02_정면_X/190902_rotate_05_0007
+  rotate: true
+  xy: 329, 18
+  size: 73, 56
+  orig: 84, 57
+  offset: 5, 1
+  index: -1
+coin_spin_set/02_정면_X/190902_rotate_05_0008
+  rotate: false
+  xy: 708, 142
+  size: 73, 44
+  orig: 74, 50
+  offset: 0, 3
+  index: -1
+coin_spin_set/02_정면_X/190902_rotate_05_0009
+  rotate: false
+  xy: 634, 157
+  size: 73, 27
+  orig: 73, 27
+  offset: 0, 0
+  index: -1
+coin_spin_set/02_정면_X/190902_rotate_05_0010
+  rotate: false
+  xy: 485, 159
+  size: 72, 24
+  orig: 72, 27
+  offset: 0, 2
+  index: -1
+coin_spin_set/02_정면_X/190902_rotate_05_0011
+  rotate: false
+  xy: 782, 142
+  size: 74, 38
+  orig: 75, 39
+  offset: 0, 1
+  index: -1
+coin_spin_set/02_정면_X/190902_rotate_05_0012
+  rotate: true
+  xy: 386, 17
+  size: 74, 50
+  orig: 80, 54
+  offset: 3, 2
+  index: -1
+coin_spin_set/02_정면_X/190902_rotate_05_0013
+  rotate: false
+  xy: 925, 191
+  size: 74, 60
+  orig: 85, 74
+  offset: 5, 7
+  index: -1
+coin_spin_set/02_정면_X/190902_rotate_05_0014
+  rotate: false
+  xy: 560, 183
+  size: 73, 68
+  orig: 77, 68
+  offset: 2, 0
+  index: -1
+coin_spin_set/02_정면_X/190902_rotate_05_0015
+  rotate: false
+  xy: 782, 181
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+coin_spin_set/02_정면_X/190902_rotate_05_0016
+  rotate: false
+  xy: 339, 177
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
+coin_spin_set/03_정면_Y/190902_rotate_04_0003
+  rotate: false
+  xy: 547, 80
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+coin_spin_set/03_정면_Y/190902_rotate_04_0005
+  rotate: false
+  xy: 487, 46
+  size: 59, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+coin_spin_set/03_정면_Y/190902_rotate_04_0007
+  rotate: false
+  xy: 437, 40
+  size: 49, 65
+  orig: 57, 67
+  offset: 4, 1
+  index: -1
+coin_spin_set/03_정면_Y/190902_rotate_04_0008
+  rotate: true
+  xy: 558, 142
+  size: 40, 65
+  orig: 42, 68
+  offset: 1, 2
+  index: -1
+coin_spin_set/03_정면_Y/190902_rotate_04_0009
+  rotate: false
+  xy: 671, 91
+  size: 29, 65
+  orig: 29, 65
+  offset: 0, 0
+  index: -1
+coin_spin_set/03_정면_Y/190902_rotate_04_0011
+  rotate: true
+  xy: 701, 111
+  size: 30, 63
+  orig: 33, 63
+  offset: 1, 0
+  index: -1
+coin_spin_set/03_정면_Y/190902_rotate_04_0012
+  rotate: true
+  xy: 547, 40
+  size: 39, 65
+  orig: 39, 65
+  offset: 0, 0
+  index: -1
+coin_spin_set/03_정면_Y/190902_rotate_04_0013
+  rotate: true
+  xy: 484, 111
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+coin_spin_set/03_정면_Y/190902_rotate_04_0014
+  rotate: true
+  xy: 613, 25
+  size: 55, 63
+  orig: 56, 63
+  offset: 0, 0
+  index: -1
+coin_spin_set/03_정면_Y/190902_rotate_04_0016
+  rotate: false
+  xy: 610, 81
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+coin_spin_set/solo_lt_00000
+  rotate: false
+  xy: 258, 167
+  size: 80, 84
+  orig: 120, 120
+  offset: 20, 18
+  index: -1
+slider_eff/pt3/pt3_00010
+  rotate: true
+  xy: 1, 1
+  size: 250, 256
+  orig: 300, 300
+  offset: 25, 22
+  index: -1

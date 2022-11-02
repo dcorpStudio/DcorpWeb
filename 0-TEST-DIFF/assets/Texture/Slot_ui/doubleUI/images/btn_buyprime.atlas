@@ -1,0 +1,76 @@
+
+btn_buyprime.png
+size: 317,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn_buy_0002
+  rotate: true
+  xy: 281, 27
+  size: 23, 24
+  orig: 142, 48
+  offset: 59, 13
+  index: -1
+btn_buy_0003
+  rotate: false
+  xy: 244, 14
+  size: 35, 36
+  orig: 142, 48
+  offset: 53, 7
+  index: -1
+btn_buy_0004
+  rotate: false
+  xy: 244, 52
+  size: 53, 41
+  orig: 142, 48
+  offset: 44, 5
+  index: -1
+btn_buy_0005
+  rotate: true
+  xy: 201, 9
+  size: 84, 41
+  orig: 142, 48
+  offset: 29, 5
+  index: -1
+btn_buy_0006
+  rotate: false
+  xy: 201, 95
+  size: 114, 41
+  orig: 142, 48
+  offset: 14, 5
+  index: -1
+btn_buy_0007
+  rotate: true
+  xy: 158, 4
+  size: 132, 41
+  orig: 142, 48
+  offset: 5, 5
+  index: -1
+btn_buy_0008
+  rotate: true
+  xy: 2, 2
+  size: 134, 41
+  orig: 142, 48
+  offset: 4, 5
+  index: -1
+btn_buy_0009
+  rotate: true
+  xy: 45, 2
+  size: 134, 39
+  orig: 142, 48
+  offset: 3, 5
+  index: -1
+btn_buy_0010
+  rotate: true
+  xy: 122, 3
+  size: 133, 34
+  orig: 142, 48
+  offset: 4, 7
+  index: -1
+btn_buy_0011
+  rotate: true
+  xy: 86, 2
+  size: 134, 34
+  orig: 142, 48
+  offset: 4, 7
+  index: -1

@@ -1,0 +1,20 @@
+
+wugui_Back_background.png
+size: 844,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijin
+  rotate: true
+  xy: 583, 67
+  size: 291, 259
+  orig: 291, 259
+  offset: 0, 0
+  index: -1
+spine_dieguan
+  rotate: true
+  xy: 2, 2
+  size: 356, 579
+  orig: 356, 579
+  offset: 0, 0
+  index: -1

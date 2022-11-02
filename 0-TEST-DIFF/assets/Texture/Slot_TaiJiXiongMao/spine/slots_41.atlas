@@ -1,0 +1,118 @@
+
+slots_41.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0590
+  rotate: false
+  xy: 203, 2
+  size: 62, 63
+  orig: 64, 64
+  offset: 1, 1
+  index: -1
+A
+  rotate: true
+  xy: 443, 48
+  size: 29, 41
+  orig: 31, 43
+  offset: 1, 1
+  index: -1
+BIgBAOZI
+  rotate: false
+  xy: 2, 24
+  size: 133, 102
+  orig: 135, 104
+  offset: 1, 1
+  index: -1
+BIgBAOZI1
+  rotate: false
+  xy: 443, 79
+  size: 63, 47
+  orig: 64, 49
+  offset: 0, 2
+  index: -1
+C
+  rotate: true
+  xy: 305, 39
+  size: 25, 41
+  orig: 27, 43
+  offset: 1, 1
+  index: -1
+J
+  rotate: false
+  xy: 353, 5
+  size: 28, 41
+  orig: 30, 43
+  offset: 1, 1
+  index: -1
+K
+  rotate: false
+  xy: 383, 19
+  size: 27, 41
+  orig: 29, 43
+  offset: 1, 1
+  index: -1
+O
+  rotate: true
+  xy: 267, 5
+  size: 31, 41
+  orig: 33, 43
+  offset: 1, 1
+  index: -1
+P
+  rotate: false
+  xy: 412, 19
+  size: 27, 41
+  orig: 29, 43
+  offset: 1, 1
+  index: -1
+T
+  rotate: true
+  xy: 310, 6
+  size: 31, 41
+  orig: 33, 43
+  offset: 1, 1
+  index: -1
+baozi
+  rotate: true
+  xy: 267, 38
+  size: 48, 36
+  orig: 50, 38
+  offset: 1, 1
+  index: -1
+bg01
+  rotate: false
+  xy: 230, 88
+  size: 79, 38
+  orig: 81, 40
+  offset: 1, 1
+  index: -1
+bg02
+  rotate: false
+  xy: 137, 67
+  size: 91, 59
+  orig: 93, 61
+  offset: 1, 1
+  index: -1
+light_00006
+  rotate: true
+  xy: 311, 66
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 377, 62
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+yanhuo_00007
+  rotate: true
+  xy: 137, 2
+  size: 63, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

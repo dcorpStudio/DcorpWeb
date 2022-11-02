@@ -1,0 +1,69 @@
+
+jd_tx_touxiangqiehuan.png
+size: 340,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+smoke_0001
+  rotate: false
+  xy: 279, 41
+  size: 60, 59
+  orig: 256, 256
+  offset: 90, 102
+  index: -1
+smoke_0003
+  rotate: true
+  xy: 1, 6
+  size: 78, 84
+  orig: 256, 256
+  offset: 82, 87
+  index: -1
+smoke_0005
+  rotate: false
+  xy: 202, 102
+  size: 91, 93
+  orig: 256, 256
+  offset: 74, 83
+  index: -1
+smoke_0007
+  rotate: false
+  xy: 103, 93
+  size: 97, 102
+  orig: 256, 256
+  offset: 70, 81
+  index: -1
+smoke_0009
+  rotate: false
+  xy: 1, 86
+  size: 100, 109
+  orig: 256, 256
+  offset: 68, 80
+  index: -1
+smoke_0011
+  rotate: false
+  xy: 181, 1
+  size: 96, 90
+  orig: 256, 256
+  offset: 67, 94
+  index: -1
+smoke_0013
+  rotate: false
+  xy: 87, 25
+  size: 92, 59
+  orig: 256, 256
+  offset: 71, 114
+  index: -1
+smoke_0015
+  rotate: false
+  xy: 87, 13
+  size: 6, 10
+  orig: 256, 256
+  offset: 157, 153
+  index: -1
+zi
+  rotate: true
+  xy: 295, 128
+  size: 67, 35
+  orig: 67, 35
+  offset: 0, 0
+  index: -1

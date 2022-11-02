@@ -1,0 +1,27 @@
+
+jd_tx_baojingqi.png
+size: 212,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baojingqi01
+  rotate: false
+  xy: 66, 21
+  size: 72, 78
+  orig: 72, 78
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 1, 1
+  size: 63, 98
+  orig: 63, 98
+  offset: 0, 0
+  index: -1
+yuan
+  rotate: false
+  xy: 140, 29
+  size: 71, 70
+  orig: 79, 80
+  offset: 4, 5
+  index: -1

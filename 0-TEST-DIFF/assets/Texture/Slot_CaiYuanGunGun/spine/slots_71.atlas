@@ -1,0 +1,153 @@
+
+slots_71.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+000000724
+  rotate: false
+  xy: 558, 252
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 2, 132
+  size: 164, 147
+  orig: 164, 147
+  offset: 0, 0
+  index: -1
+Light0001
+  rotate: false
+  xy: 168, 318
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Light0002
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Light0003
+  rotate: false
+  xy: 168, 188
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Light0004
+  rotate: false
+  xy: 298, 318
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Light0005
+  rotate: false
+  xy: 298, 188
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Light0006
+  rotate: false
+  xy: 428, 318
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Light0007
+  rotate: false
+  xy: 428, 188
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+LightCai
+  rotate: false
+  xy: 688, 377
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: -1
+LightK
+  rotate: false
+  xy: 688, 311
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Skill2_UpC0001
+  rotate: false
+  xy: 756, 382
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Skill2_UpC0002
+  rotate: false
+  xy: 822, 382
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Skill2_UpC0003
+  rotate: false
+  xy: 888, 382
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Skill2_UpC0004
+  rotate: false
+  xy: 954, 382
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Skill2_UpC0005
+  rotate: false
+  xy: 558, 186
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Skill2_UpC0006
+  rotate: false
+  xy: 624, 186
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Skill2_UpC0007
+  rotate: false
+  xy: 168, 122
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+aaa
+  rotate: false
+  xy: 234, 122
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+cai
+  rotate: false
+  xy: 2, 281
+  size: 164, 165
+  orig: 164, 165
+  offset: 0, 0
+  index: -1
+shanguang_00093
+  rotate: false
+  xy: 558, 318
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

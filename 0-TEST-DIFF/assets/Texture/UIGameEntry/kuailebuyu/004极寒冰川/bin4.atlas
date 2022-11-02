@@ -1,0 +1,111 @@
+
+bin4.png
+size: 878,1028
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J1
+  rotate: false
+  xy: 774, 419
+  size: 55, 87
+  orig: 55, 87
+  offset: 0, 0
+  index: -1
+J2
+  rotate: false
+  xy: 774, 508
+  size: 95, 144
+  orig: 95, 144
+  offset: 0, 0
+  index: -1
+Q1
+  rotate: true
+  xy: 842, 81
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+S1
+  rotate: true
+  xy: 831, 458
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+S2
+  rotate: false
+  xy: 646, 31
+  size: 128, 103
+  orig: 128, 103
+  offset: 0, 0
+  index: -1
+S3
+  rotate: false
+  xy: 776, 123
+  size: 94, 141
+  orig: 94, 141
+  offset: 0, 0
+  index: -1
+S4
+  rotate: false
+  xy: 516, 271
+  size: 136, 123
+  orig: 136, 123
+  offset: 0, 0
+  index: -1
+di
+  rotate: true
+  xy: 516, 654
+  size: 372, 360
+  orig: 372, 360
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 516, 396
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 516, 141
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+gaung
+  rotate: false
+  xy: 516, 11
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+lianyi
+  rotate: false
+  xy: 654, 266
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+shui1
+  rotate: false
+  xy: 2, 2
+  size: 512, 1024
+  orig: 512, 1024
+  offset: 0, 0
+  index: -1
+star1
+  rotate: false
+  xy: 776, 57
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+www1
+  rotate: false
+  xy: 646, 136
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

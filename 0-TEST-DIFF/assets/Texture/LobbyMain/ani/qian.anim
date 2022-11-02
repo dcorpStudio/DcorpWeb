@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "qian",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4.033333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": -28.72
+        },
+        {
+          "frame": 1.9833333333333334,
+          "value": -16.082
+        },
+        {
+          "frame": 4.033333333333333,
+          "value": -28.72
+        }
+      ]
+    }
+  },
+  "events": []
+}

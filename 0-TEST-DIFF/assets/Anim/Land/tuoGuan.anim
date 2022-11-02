@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "tuoGuan",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "20693636-e5b3-4dc4-83f9-16194ea4374c"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "6dc7b5af-204a-4030-94d1-26b5ae7348ca"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "249fba5c-b36f-4b35-82ab-a0cec61985f4"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

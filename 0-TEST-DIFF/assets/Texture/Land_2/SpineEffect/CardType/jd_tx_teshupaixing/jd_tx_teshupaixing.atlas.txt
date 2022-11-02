@@ -1,0 +1,146 @@
+
+jd_tx_teshupaixing.png
+size: 498,309
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1, 119
+  size: 254, 66
+  orig: 254, 66
+  offset: 0, 0
+  index: -1
+liandui
+  rotate: false
+  xy: 254, 202
+  size: 117, 53
+  orig: 117, 53
+  offset: 0, 0
+  index: -1
+lizi_001_1
+  rotate: false
+  xy: 373, 202
+  size: 70, 47
+  orig: 176, 101
+  offset: 36, 22
+  index: -1
+lizi_002_1
+  rotate: true
+  xy: 435, 50
+  size: 69, 51
+  orig: 176, 101
+  offset: 46, 20
+  index: -1
+lizi_003_1
+  rotate: true
+  xy: 445, 178
+  size: 71, 52
+  orig: 176, 101
+  offset: 53, 19
+  index: -1
+lizi_004_1
+  rotate: false
+  xy: 408, 121
+  size: 73, 55
+  orig: 176, 101
+  offset: 59, 17
+  index: -1
+lizi_005_1
+  rotate: false
+  xy: 408, 251
+  size: 76, 57
+  orig: 176, 101
+  offset: 62, 17
+  index: -1
+lizi_006_1
+  rotate: false
+  xy: 226, 6
+  size: 76, 59
+  orig: 176, 101
+  offset: 67, 17
+  index: -1
+lizi_007_1
+  rotate: false
+  xy: 257, 139
+  size: 76, 61
+  orig: 176, 101
+  offset: 71, 16
+  index: -1
+lizi_008_1
+  rotate: false
+  xy: 156, 1
+  size: 68, 64
+  orig: 176, 101
+  offset: 82, 15
+  index: -1
+lizi_009_1
+  rotate: true
+  xy: 341, 71
+  size: 69, 65
+  orig: 176, 101
+  offset: 83, 15
+  index: -1
+lizi_010_1
+  rotate: true
+  xy: 273, 67
+  size: 70, 66
+  orig: 176, 101
+  offset: 85, 15
+  index: -1
+lizi_011_1
+  rotate: false
+  xy: 335, 142
+  size: 71, 58
+  orig: 176, 101
+  offset: 86, 15
+  index: -1
+lizi_012_1
+  rotate: false
+  xy: 364, 11
+  size: 69, 58
+  orig: 176, 101
+  offset: 90, 15
+  index: -1
+lizi_013_1
+  rotate: true
+  xy: 304, 3
+  size: 62, 58
+  orig: 176, 101
+  offset: 98, 15
+  index: -1
+sandaier
+  rotate: false
+  xy: 254, 257
+  size: 152, 51
+  orig: 152, 51
+  offset: 0, 0
+  index: -1
+sandaiyi
+  rotate: false
+  xy: 1, 13
+  size: 152, 51
+  orig: 152, 51
+  offset: 0, 0
+  index: -1
+shunzi
+  rotate: false
+  xy: 156, 67
+  size: 115, 50
+  orig: 115, 50
+  offset: 0, 0
+  index: -1
+sidaier
+  rotate: false
+  xy: 1, 66
+  size: 153, 51
+  orig: 153, 51
+  offset: 0, 0
+  index: -1
+tuowei_001
+  rotate: false
+  xy: 1, 187
+  size: 251, 121
+  orig: 353, 203
+  offset: 46, 31
+  index: -1

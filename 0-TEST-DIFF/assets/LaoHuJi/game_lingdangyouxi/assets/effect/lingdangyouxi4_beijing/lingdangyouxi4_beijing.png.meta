@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f3070466-890e-4ed0-a8b1-c41b4098517b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 1024,
+  "platformSettings": {},
+  "subMetas": {
+    "lingdangyouxi4_beijing": {
+      "ver": "1.0.6",
+      "uuid": "53b1b505-b4da-4b17-932a-3984acbebb34",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f3070466-890e-4ed0-a8b1-c41b4098517b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -14.5,
+      "offsetY": 7.5,
+      "trimX": 1,
+      "trimY": 13,
+      "width": 993,
+      "height": 983,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

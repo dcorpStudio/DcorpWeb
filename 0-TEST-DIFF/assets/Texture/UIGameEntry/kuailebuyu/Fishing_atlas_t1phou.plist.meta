@@ -1,0 +1,36 @@
+{
+  "ver": "1.2.6",
+  "uuid": "e8fc47c7-266a-4094-8a26-8caffbe9a8e7",
+  "importer": "asset",
+  "rawTextureUuid": "f88d8751-5be1-4f97-9db0-ff57897677b0",
+  "size": {
+    "width": 2048,
+    "height": 604
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "Fishing_atlas_t1phou.png": {
+      "ver": "1.0.6",
+      "uuid": "f7e5d48e-0ba7-43de-a866-7e4255d58acd",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f88d8751-5be1-4f97-9db0-ff57897677b0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 2048,
+      "height": 604,
+      "rawWidth": 2048,
+      "rawHeight": 604,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

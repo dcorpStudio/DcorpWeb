@@ -1,0 +1,670 @@
+
+rnw_ui_autobutton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/auto_button/auto_spin_glow
+  rotate: false
+  xy: 2, 335
+  size: 302, 159
+  orig: 302, 159
+  offset: 0, 0
+  index: -1
+img/auto_button/auto_spin_glow_optical
+  rotate: false
+  xy: 338, 585
+  size: 230, 152
+  orig: 231, 152
+  offset: 1, 0
+  index: -1
+img/auto_button/autobutton_end_particle_w
+  rotate: false
+  xy: 2, 496
+  size: 334, 241
+  orig: 334, 241
+  offset: 0, 0
+  index: -1
+img/auto_button/autobutton_sphere_particle/autobutton_sphere_particle_0006
+  rotate: false
+  xy: 526, 6
+  size: 128, 75
+  orig: 151, 148
+  offset: 12, 40
+  index: -1
+img/auto_button/autobutton_sphere_particle/autobutton_sphere_particle_0010
+  rotate: true
+  xy: 409, 218
+  size: 131, 101
+  orig: 151, 148
+  offset: 15, 12
+  index: -1
+img/auto_button/autobutton_sphere_particle/autobutton_sphere_particle_0014
+  rotate: true
+  xy: 672, 7
+  size: 75, 124
+  orig: 151, 148
+  offset: 26, 14
+  index: -1
+img/auto_button/autobutton_sphere_particle/autobutton_sphere_particle_0016
+  rotate: true
+  xy: 902, 9
+  size: 74, 107
+  orig: 151, 148
+  offset: 30, 24
+  index: -1
+img/auto_button/autobutton_sphere_particle/autobutton_sphere_particle_0017
+  rotate: true
+  xy: 818, 2
+  size: 81, 82
+  orig: 151, 148
+  offset: 18, 37
+  index: -1
+img/auto_button/autobutton_sphere_particle/autobutton_sphere_particle_0018
+  rotate: false
+  xy: 933, 764
+  size: 64, 127
+  orig: 151, 148
+  offset: 27, 21
+  index: -1
+img/auto_button/autobutton_sphere_particle/autobutton_sphere_particle_0019
+  rotate: false
+  xy: 926, 318
+  size: 96, 114
+  orig: 151, 148
+  offset: 32, 33
+  index: -1
+img/auto_button/autobutton_sphere_particle/autobutton_sphere_particle_0021
+  rotate: false
+  xy: 567, 582
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+img/auto_button/autobutton_sphere_particle/autobutton_sphere_particle_0022
+  rotate: false
+  xy: 567, 582
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+img/auto_button/button_glow_1
+  rotate: false
+  xy: 609, 893
+  size: 351, 129
+  orig: 1136, 640
+  offset: 391, 254
+  index: -1
+img/auto_button/button_glow_2
+  rotate: false
+  xy: 2, 739
+  size: 605, 283
+  orig: 605, 283
+  offset: 0, 0
+  index: -1
+img/auto_button/circle_glow_optical
+  rotate: false
+  xy: 609, 753
+  size: 322, 138
+  orig: 390, 152
+  offset: 33, 8
+  index: -1
+img/auto_button/end_particle/70/autobutton_end_particle_0000
+  rotate: true
+  xy: 838, 580
+  size: 171, 120
+  orig: 234, 169
+  offset: 27, 27
+  index: -1
+img/auto_button/end_particle/70/autobutton_end_particle_0001
+  rotate: false
+  xy: 212, 195
+  size: 195, 138
+  orig: 234, 169
+  offset: 13, 18
+  index: -1
+img/auto_button/end_particle/70/autobutton_end_particle_0002
+  rotate: false
+  xy: 2, 191
+  size: 208, 142
+  orig: 234, 169
+  offset: 6, 14
+  index: -1
+img/auto_button/end_particle/70/autobutton_end_particle_0003
+  rotate: false
+  xy: 306, 351
+  size: 207, 143
+  orig: 234, 169
+  offset: 7, 12
+  index: -1
+img/auto_button/end_particle/70/autobutton_end_particle_0004
+  rotate: false
+  xy: 567, 434
+  size: 206, 144
+  orig: 234, 169
+  offset: 8, 11
+  index: -1
+img/auto_button/end_particle/70/autobutton_end_particle_0005
+  rotate: false
+  xy: 515, 289
+  size: 206, 143
+  orig: 234, 169
+  offset: 8, 11
+  index: -1
+img/auto_button/end_particle/70/autobutton_end_particle_0006
+  rotate: true
+  xy: 526, 83
+  size: 204, 144
+  orig: 234, 169
+  offset: 9, 10
+  index: -1
+img/auto_button/end_particle/70/autobutton_end_particle_0007
+  rotate: true
+  xy: 672, 84
+  size: 203, 144
+  orig: 234, 169
+  offset: 10, 10
+  index: -1
+img/auto_button/end_particle/70/autobutton_end_particle_0008
+  rotate: false
+  xy: 775, 434
+  size: 203, 144
+  orig: 234, 169
+  offset: 10, 10
+  index: -1
+img/auto_button/end_particle/70/autobutton_end_particle_0010
+  rotate: false
+  xy: 723, 289
+  size: 201, 143
+  orig: 234, 169
+  offset: 11, 11
+  index: -1
+img/auto_button/end_particle/70/autobutton_end_particle_0011
+  rotate: true
+  xy: 818, 85
+  size: 202, 143
+  orig: 234, 169
+  offset: 10, 11
+  index: -1
+img/auto_button/end_particle/70/autobutton_end_particle_0012
+  rotate: true
+  xy: 129, 3
+  size: 186, 144
+  orig: 234, 169
+  offset: 26, 11
+  index: -1
+img/auto_button/end_particle/70/autobutton_end_particle_0013
+  rotate: true
+  xy: 275, 7
+  size: 186, 143
+  orig: 234, 169
+  offset: 26, 12
+  index: -1
+img/auto_button/end_particle/70/autobutton_end_particle_0014
+  rotate: true
+  xy: 2, 2
+  size: 187, 125
+  orig: 234, 169
+  offset: 25, 12
+  index: -1
+img/auto_button/full_gage/50/full_gage_0001
+  rotate: false
+  xy: 526, 2
+  size: 87, 2
+  orig: 115, 43
+  offset: 14, 2
+  index: -1
+img/auto_button/full_gage/50/full_gage_0002
+  rotate: false
+  xy: 902, 3
+  size: 95, 4
+  orig: 115, 43
+  offset: 10, 2
+  index: -1
+img/auto_button/full_gage/50/full_gage_0003
+  rotate: false
+  xy: 306, 343
+  size: 101, 6
+  orig: 115, 43
+  offset: 7, 2
+  index: -1
+img/auto_button/full_gage/50/full_gage_0004
+  rotate: true
+  xy: 1014, 93
+  size: 106, 8
+  orig: 115, 43
+  offset: 4, 2
+  index: -1
+img/auto_button/full_gage/50/full_gage_0005
+  rotate: true
+  xy: 1012, 679
+  size: 109, 10
+  orig: 115, 43
+  offset: 3, 2
+  index: -1
+img/auto_button/full_gage/50/full_gage_0006
+  rotate: true
+  xy: 1009, 911
+  size: 111, 12
+  orig: 115, 43
+  offset: 2, 2
+  index: -1
+img/auto_button/full_gage/50/full_gage_0008
+  rotate: true
+  xy: 995, 85
+  size: 114, 17
+  orig: 115, 43
+  offset: 0, 2
+  index: -1
+img/auto_button/full_gage/50/full_gage_0011
+  rotate: true
+  xy: 999, 790
+  size: 115, 23
+  orig: 115, 43
+  offset: 0, 2
+  index: -1
+img/auto_button/full_gage/50/full_gage_0013
+  rotate: true
+  xy: 995, 201
+  size: 115, 27
+  orig: 115, 43
+  offset: 0, 2
+  index: -1
+img/auto_button/full_gage/50/full_gage_0018
+  rotate: true
+  xy: 960, 647
+  size: 115, 38
+  orig: 115, 43
+  offset: 0, 2
+  index: -1
+img/auto_button/line_effect_big_green
+  rotate: true
+  xy: 980, 451
+  size: 194, 30
+  orig: 194, 30
+  offset: 0, 0
+  index: -1
+img/auto_button/line_effect_long_blue
+  rotate: true
+  xy: 420, 2
+  size: 214, 51
+  orig: 214, 51
+  offset: 0, 0
+  index: -1
+img/auto_button/line_effect_long_yellow
+  rotate: true
+  xy: 473, 2
+  size: 214, 51
+  orig: 214, 51
+  offset: 0, 0
+  index: -1
+img/auto_button/line_effect_normal_green2
+  rotate: true
+  xy: 963, 101
+  size: 215, 30
+  orig: 403, 56
+  offset: 94, 13
+  index: -1
+img/auto_button/normal_button_side_add
+  rotate: false
+  xy: 609, 669
+  size: 227, 82
+  orig: 227, 82
+  offset: 0, 0
+  index: -1
+img/auto_button/trans_add/50/trans_add_0030
+  rotate: true
+  xy: 962, 907
+  size: 115, 45
+  orig: 115, 45
+  offset: 0, 0
+  index: -1
+img/button_auto
+  rotate: false
+  xy: 338, 496
+  size: 227, 87
+  orig: 1386, 96
+  offset: 1024, 8
+  index: -1
+img/normal_button_bg
+  rotate: false
+  xy: 570, 580
+  size: 227, 87
+  orig: 1386, 96
+  offset: 1024, 8
+  index: -1
+
+rnw_ui_autobutton2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/auto_button/autobutton_sphere_particle/autobutton_sphere_particle_0000
+  rotate: false
+  xy: 34, 132
+  size: 132, 105
+  orig: 151, 148
+  offset: 5, 22
+  index: -1
+img/auto_button/autobutton_sphere_particle/autobutton_sphere_particle_0001
+  rotate: false
+  xy: 509, 298
+  size: 107, 116
+  orig: 151, 148
+  offset: 20, 5
+  index: -1
+img/auto_button/autobutton_sphere_particle/autobutton_sphere_particle_0002
+  rotate: true
+  xy: 383, 319
+  size: 95, 124
+  orig: 151, 148
+  offset: 29, 8
+  index: -1
+img/auto_button/autobutton_sphere_particle/autobutton_sphere_particle_0003
+  rotate: false
+  xy: 34, 23
+  size: 119, 107
+  orig: 151, 148
+  offset: 2, 16
+  index: -1
+img/auto_button/autobutton_sphere_particle/autobutton_sphere_particle_0004
+  rotate: false
+  xy: 918, 360
+  size: 99, 118
+  orig: 151, 148
+  offset: 13, 23
+  index: -1
+img/auto_button/autobutton_sphere_particle/autobutton_sphere_particle_0005
+  rotate: true
+  xy: 913, 262
+  size: 96, 98
+  orig: 151, 148
+  offset: 7, 29
+  index: -1
+img/auto_button/autobutton_sphere_particle/autobutton_sphere_particle_0007
+  rotate: false
+  xy: 618, 258
+  size: 106, 67
+  orig: 151, 148
+  offset: 25, 46
+  index: -1
+img/auto_button/autobutton_sphere_particle/autobutton_sphere_particle_0008
+  rotate: true
+  xy: 727, 325
+  size: 121, 73
+  orig: 151, 148
+  offset: 27, 54
+  index: -1
+img/auto_button/autobutton_sphere_particle/autobutton_sphere_particle_0009
+  rotate: true
+  xy: 726, 218
+  size: 105, 66
+  orig: 151, 148
+  offset: 32, 57
+  index: -1
+img/auto_button/autobutton_sphere_particle/autobutton_sphere_particle_0011
+  rotate: false
+  xy: 802, 370
+  size: 114, 108
+  orig: 151, 148
+  offset: 21, 18
+  index: -1
+img/auto_button/autobutton_sphere_particle/autobutton_sphere_particle_0012
+  rotate: false
+  xy: 192, 221
+  size: 120, 93
+  orig: 151, 148
+  offset: 1, 29
+  index: -1
+img/auto_button/autobutton_sphere_particle/autobutton_sphere_particle_0013
+  rotate: true
+  xy: 802, 269
+  size: 99, 109
+  orig: 151, 148
+  offset: 11, 5
+  index: -1
+img/auto_button/autobutton_sphere_particle/autobutton_sphere_particle_0015
+  rotate: true
+  xy: 168, 146
+  size: 73, 108
+  orig: 151, 148
+  offset: 23, 17
+  index: -1
+img/auto_button/autobutton_sphere_particle/autobutton_sphere_particle_0020
+  rotate: false
+  xy: 618, 327
+  size: 107, 119
+  orig: 151, 148
+  offset: 22, 11
+  index: -1
+img/auto_button/end_particle/70/autobutton_end_particle_0009
+  rotate: false
+  xy: 2, 366
+  size: 201, 144
+  orig: 234, 169
+  offset: 11, 10
+  index: -1
+img/auto_button/end_particle/70/autobutton_end_particle_0015
+  rotate: false
+  xy: 2, 239
+  size: 188, 125
+  orig: 234, 169
+  offset: 25, 12
+  index: -1
+img/auto_button/end_particle/70/autobutton_end_particle_0016
+  rotate: false
+  xy: 205, 384
+  size: 176, 126
+  orig: 234, 169
+  offset: 24, 12
+  index: -1
+img/auto_button/full_gage/50/full_gage_0007
+  rotate: false
+  xy: 168, 129
+  size: 113, 15
+  orig: 115, 43
+  offset: 1, 2
+  index: -1
+img/auto_button/full_gage/50/full_gage_0009
+  rotate: false
+  xy: 2, 2
+  size: 115, 19
+  orig: 115, 43
+  offset: 0, 2
+  index: -1
+img/auto_button/full_gage/50/full_gage_0010
+  rotate: false
+  xy: 155, 12
+  size: 115, 21
+  orig: 115, 43
+  offset: 0, 2
+  index: -1
+img/auto_button/full_gage/50/full_gage_0012
+  rotate: true
+  xy: 272, 12
+  size: 115, 25
+  orig: 115, 43
+  offset: 0, 2
+  index: -1
+img/auto_button/full_gage/50/full_gage_0014
+  rotate: false
+  xy: 794, 190
+  size: 115, 30
+  orig: 115, 43
+  offset: 0, 2
+  index: -1
+img/auto_button/full_gage/50/full_gage_0015
+  rotate: false
+  xy: 494, 264
+  size: 115, 32
+  orig: 115, 43
+  offset: 0, 2
+  index: -1
+img/auto_button/full_gage/50/full_gage_0016
+  rotate: false
+  xy: 377, 236
+  size: 115, 34
+  orig: 115, 43
+  offset: 0, 2
+  index: -1
+img/auto_button/full_gage/50/full_gage_0017
+  rotate: false
+  xy: 494, 226
+  size: 115, 36
+  orig: 115, 43
+  offset: 0, 2
+  index: -1
+img/auto_button/full_gage/50/full_gage_0019
+  rotate: true
+  xy: 335, 150
+  size: 115, 40
+  orig: 115, 43
+  offset: 0, 2
+  index: -1
+img/auto_button/line_effect_big_green2
+  rotate: false
+  xy: 383, 448
+  size: 194, 30
+  orig: 520, 80
+  offset: 163, 25
+  index: -1
+img/auto_button/line_effect_big_purple
+  rotate: false
+  xy: 599, 480
+  size: 194, 30
+  orig: 194, 30
+  offset: 0, 0
+  index: -1
+img/auto_button/line_effect_big_purple2
+  rotate: false
+  xy: 383, 416
+  size: 194, 30
+  orig: 520, 80
+  offset: 163, 25
+  index: -1
+img/auto_button/line_effect_big_red
+  rotate: false
+  xy: 579, 448
+  size: 194, 30
+  orig: 194, 30
+  offset: 0, 0
+  index: -1
+img/auto_button/line_effect_big_red2
+  rotate: false
+  xy: 795, 480
+  size: 194, 30
+  orig: 520, 80
+  offset: 163, 25
+  index: -1
+img/auto_button/line_effect_normal_blue
+  rotate: true
+  xy: 2, 23
+  size: 214, 30
+  orig: 214, 30
+  offset: 0, 0
+  index: -1
+img/auto_button/line_effect_normal_green
+  rotate: false
+  xy: 383, 480
+  size: 214, 30
+  orig: 214, 30
+  offset: 0, 0
+  index: -1
+img/auto_button/trans_add/50/trans_add_0031
+  rotate: false
+  xy: 794, 222
+  size: 115, 45
+  orig: 115, 45
+  offset: 0, 0
+  index: -1
+img/auto_button/trans_add/50/trans_add_0032
+  rotate: false
+  xy: 155, 82
+  size: 115, 45
+  orig: 115, 45
+  offset: 0, 0
+  index: -1
+img/auto_button/trans_add/50/trans_add_0033
+  rotate: false
+  xy: 155, 35
+  size: 115, 45
+  orig: 115, 45
+  offset: 0, 0
+  index: -1
+img/auto_button/trans_add/50/trans_add_0034
+  rotate: true
+  xy: 330, 267
+  size: 115, 45
+  orig: 115, 45
+  offset: 0, 0
+  index: -1
+img/auto_button/trans_add/50/trans_add_0035
+  rotate: false
+  xy: 377, 272
+  size: 115, 45
+  orig: 115, 45
+  offset: 0, 0
+  index: -1
+img/auto_button/trans_add/50/trans_add_0036
+  rotate: false
+  xy: 377, 189
+  size: 115, 45
+  orig: 115, 45
+  offset: 0, 0
+  index: -1
+img/auto_button/trans_add_pd_c/50/trans_add_pd_c_0000
+  rotate: false
+  xy: 911, 205
+  size: 71, 55
+  orig: 71, 56
+  offset: 0, 1
+  index: -1
+img/auto_button/trans_add_pd_c/50/trans_add_pd_c_0001
+  rotate: true
+  xy: 278, 148
+  size: 71, 55
+  orig: 71, 56
+  offset: 0, 1
+  index: -1
+img/auto_button/trans_add_pd_c/50/trans_add_pd_c_0002
+  rotate: false
+  xy: 377, 132
+  size: 71, 55
+  orig: 71, 56
+  offset: 0, 1
+  index: -1
+img/auto_button/trans_add_pd_c/50/trans_add_pd_c_0003
+  rotate: false
+  xy: 494, 169
+  size: 71, 55
+  orig: 71, 56
+  offset: 0, 1
+  index: -1
+img/auto_button/trans_add_pd_c/50/trans_add_pd_c_0004
+  rotate: false
+  xy: 567, 169
+  size: 71, 55
+  orig: 71, 56
+  offset: 0, 1
+  index: -1
+img/auto_button/trans_add_pd_c/50/trans_add_pd_c_0005
+  rotate: false
+  xy: 640, 201
+  size: 71, 55
+  orig: 71, 56
+  offset: 0, 1
+  index: -1
+img/auto_button/trans_add_pd_c/50/trans_add_pd_c_0006
+  rotate: false
+  xy: 640, 144
+  size: 71, 55
+  orig: 71, 56
+  offset: 0, 1
+  index: -1
+img/normal_button_text
+  rotate: false
+  xy: 205, 316
+  size: 123, 66
+  orig: 1386, 96
+  offset: 1076, 20
+  index: -1

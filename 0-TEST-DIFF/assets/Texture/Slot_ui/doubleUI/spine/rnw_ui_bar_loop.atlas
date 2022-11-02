@@ -1,0 +1,146 @@
+
+rnw_ui_bar_loop.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/ui_bar_loop/70/re/ui_bar_loop_0000
+  rotate: true
+  xy: 211, 8
+  size: 5, 3
+  orig: 484, 81
+  offset: 0, 67
+  index: -1
+img/ui_bar_loop/70/re/ui_bar_loop_0001
+  rotate: false
+  xy: 545, 35
+  size: 43, 11
+  orig: 484, 81
+  offset: 0, 63
+  index: -1
+img/ui_bar_loop/70/re/ui_bar_loop_0002
+  rotate: false
+  xy: 545, 48
+  size: 80, 25
+  orig: 484, 81
+  offset: 0, 56
+  index: -1
+img/ui_bar_loop/70/re/ui_bar_loop_0003
+  rotate: false
+  xy: 888, 214
+  size: 118, 37
+  orig: 484, 81
+  offset: 0, 44
+  index: -1
+img/ui_bar_loop/70/re/ui_bar_loop_0004
+  rotate: false
+  xy: 389, 36
+  size: 154, 37
+  orig: 484, 81
+  offset: 0, 44
+  index: -1
+img/ui_bar_loop/70/re/ui_bar_loop_0005
+  rotate: false
+  xy: 437, 153
+  size: 190, 37
+  orig: 484, 81
+  offset: 0, 44
+  index: -1
+img/ui_bar_loop/70/re/ui_bar_loop_0006
+  rotate: false
+  xy: 419, 114
+  size: 223, 37
+  orig: 484, 81
+  offset: 2, 44
+  index: -1
+img/ui_bar_loop/70/re/ui_bar_loop_0007
+  rotate: false
+  xy: 419, 75
+  size: 228, 37
+  orig: 484, 81
+  offset: 34, 44
+  index: -1
+img/ui_bar_loop/70/re/ui_bar_loop_0008
+  rotate: false
+  xy: 655, 173
+  size: 232, 37
+  orig: 484, 81
+  offset: 63, 44
+  index: -1
+img/ui_bar_loop/70/re/ui_bar_loop_0009
+  rotate: false
+  xy: 655, 212
+  size: 231, 39
+  orig: 484, 81
+  offset: 94, 42
+  index: -1
+img/ui_bar_loop/70/re/ui_bar_loop_0010
+  rotate: false
+  xy: 437, 192
+  size: 216, 59
+  orig: 484, 81
+  offset: 126, 22
+  index: -1
+img/ui_bar_loop/70/re/ui_bar_loop_0011
+  rotate: false
+  xy: 2, 15
+  size: 212, 72
+  orig: 484, 81
+  offset: 158, 9
+  index: -1
+img/ui_bar_loop/70/re/ui_bar_loop_0012
+  rotate: false
+  xy: 2, 89
+  size: 216, 79
+  orig: 484, 81
+  offset: 189, 2
+  index: -1
+img/ui_bar_loop/70/re/ui_bar_loop_0013
+  rotate: false
+  xy: 2, 170
+  size: 216, 81
+  orig: 484, 81
+  offset: 221, 0
+  index: -1
+img/ui_bar_loop/70/re/ui_bar_loop_0014
+  rotate: false
+  xy: 220, 173
+  size: 215, 78
+  orig: 484, 81
+  offset: 254, 0
+  index: -1
+img/ui_bar_loop/70/re/ui_bar_loop_0015
+  rotate: false
+  xy: 220, 100
+  size: 197, 71
+  orig: 484, 81
+  offset: 287, 0
+  index: -1
+img/ui_bar_loop/70/re/ui_bar_loop_0016
+  rotate: false
+  xy: 220, 35
+  size: 167, 63
+  orig: 484, 81
+  offset: 317, 0
+  index: -1
+img/ui_bar_loop/70/re/ui_bar_loop_0017
+  rotate: false
+  xy: 216, 5
+  size: 150, 28
+  orig: 484, 81
+  offset: 334, 4
+  index: -1
+img/ui_bar_loop/70/re/ui_bar_loop_0018
+  rotate: false
+  xy: 2, 2
+  size: 120, 11
+  orig: 484, 81
+  offset: 364, 6
+  index: -1
+img/ui_bar_loop/70/re/ui_bar_loop_0019
+  rotate: false
+  xy: 124, 6
+  size: 85, 7
+  orig: 484, 81
+  offset: 399, 8
+  index: -1

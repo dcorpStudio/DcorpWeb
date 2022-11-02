@@ -1,0 +1,111 @@
+
+rnw_ui_jackpot.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/bottom_jackpot_box/box_hit_particle/box_hit_particle_0000
+  rotate: false
+  xy: 2, 35
+  size: 320, 23
+  orig: 350, 46
+  offset: 16, 0
+  index: -1
+img/bottom_jackpot_box/box_hit_particle/box_hit_particle_0001
+  rotate: false
+  xy: 2, 60
+  size: 322, 23
+  orig: 350, 46
+  offset: 14, 0
+  index: -1
+img/bottom_jackpot_box/box_hit_particle/box_hit_particle_0002
+  rotate: false
+  xy: 2, 85
+  size: 322, 33
+  orig: 350, 46
+  offset: 14, 0
+  index: -1
+img/bottom_jackpot_box/box_hit_particle/box_hit_particle_0003
+  rotate: false
+  xy: 325, 237
+  size: 322, 34
+  orig: 350, 46
+  offset: 14, 0
+  index: -1
+img/bottom_jackpot_box/box_hit_particle/box_hit_particle_0004
+  rotate: false
+  xy: 2, 156
+  size: 322, 34
+  orig: 350, 46
+  offset: 14, 0
+  index: -1
+img/bottom_jackpot_box/box_hit_particle/box_hit_particle_0005
+  rotate: false
+  xy: 2, 120
+  size: 322, 34
+  orig: 350, 46
+  offset: 14, 0
+  index: -1
+img/bottom_jackpot_box/box_hit_particle/box_hit_particle_0006
+  rotate: false
+  xy: 2, 314
+  size: 321, 40
+  orig: 350, 46
+  offset: 15, 0
+  index: -1
+img/bottom_jackpot_box/box_hit_particle/box_hit_particle_0007
+  rotate: false
+  xy: 2, 272
+  size: 321, 40
+  orig: 350, 46
+  offset: 15, 0
+  index: -1
+img/bottom_jackpot_box/box_hit_particle/box_hit_particle_0008
+  rotate: false
+  xy: 325, 314
+  size: 321, 40
+  orig: 350, 46
+  offset: 15, 0
+  index: -1
+img/bottom_jackpot_box/box_hit_particle/box_hit_particle_0009
+  rotate: false
+  xy: 2, 231
+  size: 321, 39
+  orig: 350, 46
+  offset: 15, 0
+  index: -1
+img/bottom_jackpot_box/box_hit_particle/box_hit_particle_0010
+  rotate: false
+  xy: 325, 273
+  size: 321, 39
+  orig: 350, 46
+  offset: 15, 0
+  index: -1
+img/bottom_jackpot_box/box_hit_particle/box_hit_particle_0011
+  rotate: false
+  xy: 2, 192
+  size: 319, 37
+  orig: 350, 46
+  offset: 16, 1
+  index: -1
+img/bottom_jackpot_box/box_hit_particle/box_hit_particle_0012
+  rotate: false
+  xy: 2, 2
+  size: 298, 31
+  orig: 350, 46
+  offset: 26, 3
+  index: -1
+img/bottom_jackpot_box/box_hit_particle/box_hit_particle_0013
+  rotate: false
+  xy: 737, 431
+  size: 278, 21
+  orig: 350, 46
+  offset: 36, 5
+  index: -1
+img/bottom_jackpot_box/jackpot_box_optical
+  rotate: false
+  xy: 2, 356
+  size: 733, 96
+  orig: 1386, 96
+  offset: 327, 0
+  index: -1

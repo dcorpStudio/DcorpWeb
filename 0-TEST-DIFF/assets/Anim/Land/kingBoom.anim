@@ -1,0 +1,97 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "kingBoom",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "10995aed-df96-45e8-99e7-6182ccb490b6"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "d93f48ac-f7a4-428f-9cd0-0a146cfbb9fb"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "8aa4f710-cbfd-425e-ac45-6ad6408fa5cc"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 150
+        },
+        {
+          "frame": 0.1,
+          "value": 255
+        },
+        {
+          "frame": 0.2,
+          "value": 150
+        },
+        {
+          "frame": 0.3,
+          "value": 150
+        },
+        {
+          "frame": 0.4,
+          "value": 0
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 1
+        },
+        {
+          "frame": 0.1,
+          "value": 1
+        },
+        {
+          "frame": 0.2,
+          "value": 1
+        },
+        {
+          "frame": 0.3,
+          "value": 1.5
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 1
+        },
+        {
+          "frame": 0.1,
+          "value": 1
+        },
+        {
+          "frame": 0.2,
+          "value": 1
+        },
+        {
+          "frame": 0.3,
+          "value": 1.5
+        }
+      ]
+    }
+  },
+  "events": []
+}

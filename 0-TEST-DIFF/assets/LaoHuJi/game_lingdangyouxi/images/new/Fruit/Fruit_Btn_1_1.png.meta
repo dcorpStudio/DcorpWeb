@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "44ab221c-407c-4f3f-952e-0e03ade04b53",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 95,
+  "height": 90,
+  "platformSettings": {},
+  "subMetas": {
+    "Fruit_Btn_1_1": {
+      "ver": "1.0.6",
+      "uuid": "9c64cc27-9912-421a-a72d-df1fb148204d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "44ab221c-407c-4f3f-952e-0e03ade04b53",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 94,
+      "height": 90,
+      "rawWidth": 95,
+      "rawHeight": 90,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

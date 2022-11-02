@@ -1,0 +1,146 @@
+
+slots_51.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 2, 33
+  size: 163, 221
+  orig: 175, 233
+  offset: 4, 8
+  index: -1
+BG
+  rotate: false
+  xy: 297, 138
+  size: 79, 116
+  orig: 79, 116
+  offset: 0, 0
+  index: -1
+Kuang
+  rotate: true
+  xy: 167, 44
+  size: 80, 118
+  orig: 80, 118
+  offset: 0, 0
+  index: -1
+aa
+  rotate: false
+  xy: 565, 130
+  size: 48, 41
+  orig: 50, 43
+  offset: 1, 1
+  index: -1
+bb
+  rotate: false
+  xy: 975, 213
+  size: 47, 41
+  orig: 49, 43
+  offset: 1, 1
+  index: -1
+erduo
+  rotate: true
+  xy: 975, 196
+  size: 15, 34
+  orig: 17, 36
+  offset: 1, 1
+  index: -1
+huzi
+  rotate: true
+  xy: 615, 132
+  size: 39, 24
+  orig: 41, 26
+  offset: 1, 1
+  index: -1
+maozi
+  rotate: false
+  xy: 829, 202
+  size: 81, 52
+  orig: 83, 54
+  offset: 1, 1
+  index: -1
+ruyi
+  rotate: true
+  xy: 740, 138
+  size: 50, 62
+  orig: 52, 64
+  offset: 1, 1
+  index: -1
+shanguang_00102
+  rotate: false
+  xy: 167, 126
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 649, 171
+  size: 89, 83
+  orig: 89, 83
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 378, 143
+  size: 81, 111
+  orig: 83, 113
+  offset: 1, 1
+  index: -1
+wild
+  rotate: true
+  xy: 740, 190
+  size: 64, 87
+  orig: 64, 87
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 551, 173
+  size: 81, 96
+  orig: 83, 98
+  offset: 1, 1
+  index: -1
+zi_d
+  rotate: true
+  xy: 461, 106
+  size: 51, 59
+  orig: 53, 61
+  offset: 1, 1
+  index: -1
+zi_i
+  rotate: true
+  xy: 2, 5
+  size: 26, 61
+  orig: 28, 63
+  offset: 1, 1
+  index: -1
+zi_l
+  rotate: false
+  xy: 522, 98
+  size: 41, 59
+  orig: 42, 62
+  offset: 1, 2
+  index: -1
+zi_w
+  rotate: true
+  xy: 912, 195
+  size: 59, 61
+  orig: 61, 63
+  offset: 1, 1
+  index: -1
+zui
+  rotate: true
+  xy: 65, 2
+  size: 29, 21
+  orig: 31, 23
+  offset: 1, 1
+  index: -1
+zuoshou
+  rotate: false
+  xy: 461, 159
+  size: 88, 95
+  orig: 90, 97
+  offset: 1, 1
+  index: -1

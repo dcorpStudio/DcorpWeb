@@ -1,0 +1,41 @@
+
+yd_Fore_background.png
+size: 580,190
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baipaochang
+  rotate: true
+  xy: 518, 44
+  size: 144, 60
+  orig: 144, 60
+  offset: 0, 0
+  index: -1
+fangkuai
+  rotate: false
+  xy: 2, 16
+  size: 262, 172
+  orig: 262, 172
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: false
+  xy: 266, 118
+  size: 250, 70
+  orig: 250, 70
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 266, 51
+  size: 243, 65
+  orig: 243, 65
+  offset: 0, 0
+  index: -1
+yuanjiaojuxing
+  rotate: false
+  xy: 266, 2
+  size: 183, 47
+  orig: 183, 47
+  offset: 0, 0
+  index: -1

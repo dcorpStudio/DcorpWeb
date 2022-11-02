@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c47b599f-3043-4337-8950-88ea3402db4f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 22,
+  "height": 31,
+  "platformSettings": {},
+  "subMetas": {
+    "img_in_game_jackpot_coin_4": {
+      "ver": "1.0.6",
+      "uuid": "bb89911e-9fb5-4335-85b7-c50d64e85f74",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c47b599f-3043-4337-8950-88ea3402db4f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 22,
+      "height": 31,
+      "rawWidth": 22,
+      "rawHeight": 31,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

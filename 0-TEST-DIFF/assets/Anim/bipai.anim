@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bipai",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.06666666666666667,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "5266c1f1-6cdb-4f24-adc8-b6af5227c4d8"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "bf3ba6c2-2645-469d-a0e9-1378af141a80"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "84b161e8-5824-46d6-b4f0-9b3f0049242d"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "dcb9bdd0-4e53-4c31-b89c-5b6e915d4400"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

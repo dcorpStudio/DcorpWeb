@@ -1,0 +1,237 @@
+
+viproomicon.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI01/UI01_00000
+  rotate: false
+  xy: 2, 391
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+UI01/UI01_00002
+  rotate: false
+  xy: 206, 766
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+UI01/UI01_00004
+  rotate: false
+  xy: 2, 139
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+UI01/UI01_00006
+  rotate: false
+  xy: 358, 766
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+UI01/UI01_00008
+  rotate: false
+  xy: 510, 766
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+UI01/UI01_00010
+  rotate: false
+  xy: 662, 766
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+UI01/UI01_00012
+  rotate: false
+  xy: 814, 766
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+UI01/UI01_00014
+  rotate: false
+  xy: 610, 369
+  size: 150, 243
+  orig: 150, 250
+  offset: 0, 1
+  index: -1
+UI01/UI01_00016
+  rotate: true
+  xy: 206, 614
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+UI01/UI01_00018
+  rotate: true
+  xy: 458, 614
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+UI01/UI01_00020
+  rotate: true
+  xy: 710, 614
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+UI01/UI01_00022
+  rotate: false
+  xy: 154, 362
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+UI01/UI01_00024
+  rotate: false
+  xy: 306, 362
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+UI01/UI01_00026
+  rotate: true
+  xy: 154, 210
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+UI01/UI01_00028
+  rotate: false
+  xy: 458, 364
+  size: 150, 248
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 643
+  size: 202, 373
+  orig: 204, 375
+  offset: 1, 1
+  index: -1
+deng01
+  rotate: false
+  xy: 762, 464
+  size: 148, 148
+  orig: 150, 150
+  offset: 1, 1
+  index: -1
+deng02
+  rotate: false
+  xy: 762, 314
+  size: 148, 148
+  orig: 150, 150
+  offset: 1, 1
+  index: -1
+j_01
+  rotate: false
+  xy: 40, 5
+  size: 17, 22
+  orig: 19, 24
+  offset: 1, 1
+  index: -1
+j_02
+  rotate: false
+  xy: 966, 945
+  size: 21, 22
+  orig: 23, 24
+  offset: 1, 1
+  index: -1
+j_03
+  rotate: false
+  xy: 992, 993
+  size: 20, 23
+  orig: 22, 25
+  offset: 1, 1
+  index: -1
+j_04
+  rotate: false
+  xy: 94, 114
+  size: 21, 23
+  orig: 23, 25
+  offset: 1, 1
+  index: -1
+j_05
+  rotate: true
+  xy: 341, 125
+  size: 17, 23
+  orig: 19, 25
+  offset: 1, 1
+  index: -1
+j_06
+  rotate: false
+  xy: 406, 337
+  size: 21, 23
+  orig: 23, 25
+  offset: 1, 1
+  index: -1
+j_07
+  rotate: false
+  xy: 912, 551
+  size: 18, 23
+  orig: 20, 25
+  offset: 1, 1
+  index: -1
+s01
+  rotate: true
+  xy: 2, 2
+  size: 25, 36
+  orig: 27, 38
+  offset: 1, 1
+  index: -1
+s02
+  rotate: false
+  xy: 966, 969
+  size: 24, 47
+  orig: 26, 49
+  offset: 1, 1
+  index: -1
+s03
+  rotate: false
+  xy: 912, 576
+  size: 34, 36
+  orig: 36, 38
+  offset: 1, 1
+  index: -1
+s04
+  rotate: true
+  xy: 154, 617
+  size: 24, 43
+  orig: 26, 45
+  offset: 1, 1
+  index: -1
+slotscatter
+  rotate: false
+  xy: 341, 144
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+zi01
+  rotate: false
+  xy: 2, 29
+  size: 90, 108
+  orig: 92, 110
+  offset: 1, 1
+  index: -1
+zi02
+  rotate: true
+  xy: 248, 125
+  size: 83, 91
+  orig: 85, 93
+  offset: 1, 1
+  index: -1
+zi03
+  rotate: true
+  xy: 154, 127
+  size: 81, 92
+  orig: 83, 94
+  offset: 1, 1
+  index: -1

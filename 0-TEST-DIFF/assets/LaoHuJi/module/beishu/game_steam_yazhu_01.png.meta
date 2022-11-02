@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8186227c-f22e-4743-9a05-cae53f46719d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 106,
+  "height": 32,
+  "platformSettings": {},
+  "subMetas": {
+    "game_steam_yazhu_01": {
+      "ver": "1.0.6",
+      "uuid": "faeaf30b-218d-419f-8409-3dba82b3f7f0",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8186227c-f22e-4743-9a05-cae53f46719d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 1,
+      "width": 99,
+      "height": 30,
+      "rawWidth": 106,
+      "rawHeight": 32,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

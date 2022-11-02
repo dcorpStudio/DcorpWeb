@@ -1,0 +1,34 @@
+
+denglongyu2DUI_a1.png
+size: 518,185
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg1
+  rotate: false
+  xy: 2, 11
+  size: 262, 172
+  orig: 262, 172
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: false
+  xy: 266, 113
+  size: 250, 70
+  orig: 250, 70
+  offset: 0, 0
+  index: -1
+shurukuang
+  rotate: false
+  xy: 266, 64
+  size: 183, 47
+  orig: 183, 47
+  offset: 0, 0
+  index: -1
+title_tiyan
+  rotate: false
+  xy: 266, 2
+  size: 162, 60
+  orig: 162, 60
+  offset: 0, 0
+  index: -1

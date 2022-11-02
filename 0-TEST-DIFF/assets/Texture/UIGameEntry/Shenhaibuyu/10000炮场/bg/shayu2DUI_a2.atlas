@@ -1,0 +1,20 @@
+
+shayu2DUI_a2.png
+size: 650,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spineGX1
+  rotate: true
+  xy: 2, 2
+  size: 356, 579
+  orig: 356, 579
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: true
+  xy: 583, 115
+  size: 243, 65
+  orig: 243, 65
+  offset: 0, 0
+  index: -1

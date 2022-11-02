@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "bc2c8a5b-5d77-488f-a026-eeb4c2a59fc1",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1196,
+  "height": 480,
+  "platformSettings": {},
+  "subMetas": {
+    "BankButtons": {
+      "ver": "1.0.6",
+      "uuid": "b7a21c5e-7cf9-4517-a579-b62ad620f21f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "bc2c8a5b-5d77-488f-a026-eeb4c2a59fc1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1191,
+      "height": 476,
+      "rawWidth": 1196,
+      "rawHeight": 480,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

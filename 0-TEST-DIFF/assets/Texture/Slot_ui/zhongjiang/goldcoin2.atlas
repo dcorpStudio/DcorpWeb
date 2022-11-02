@@ -1,0 +1,118 @@
+
+goldcoin2.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gold_10a
+  rotate: false
+  xy: 445, 53
+  size: 60, 31
+  orig: 64, 64
+  offset: 2, 16
+  index: -1
+Gold_11a
+  rotate: false
+  xy: 382, 42
+  size: 60, 35
+  orig: 64, 64
+  offset: 2, 13
+  index: -1
+Gold_12a
+  rotate: false
+  xy: 445, 86
+  size: 61, 40
+  orig: 64, 64
+  offset: 1, 10
+  index: -1
+Gold_13a
+  rotate: false
+  xy: 382, 79
+  size: 61, 47
+  orig: 64, 64
+  offset: 1, 6
+  index: -1
+Gold_14a
+  rotate: false
+  xy: 319, 74
+  size: 61, 52
+  orig: 64, 64
+  offset: 1, 4
+  index: -1
+Gold_15a
+  rotate: false
+  xy: 130, 69
+  size: 61, 57
+  orig: 64, 64
+  offset: 1, 2
+  index: -1
+Gold_16a
+  rotate: false
+  xy: 2, 2
+  size: 62, 60
+  orig: 64, 64
+  offset: 1, 1
+  index: -1
+Gold_1a
+  rotate: false
+  xy: 2, 64
+  size: 62, 62
+  orig: 64, 64
+  offset: 1, 1
+  index: -1
+Gold_2a
+  rotate: false
+  xy: 66, 64
+  size: 62, 62
+  orig: 64, 64
+  offset: 1, 1
+  index: -1
+Gold_3a
+  rotate: false
+  xy: 66, 2
+  size: 61, 60
+  orig: 64, 64
+  offset: 2, 3
+  index: -1
+Gold_4a
+  rotate: false
+  xy: 193, 69
+  size: 61, 57
+  orig: 64, 64
+  offset: 2, 5
+  index: -1
+Gold_5a
+  rotate: false
+  xy: 256, 72
+  size: 61, 54
+  orig: 64, 64
+  offset: 2, 7
+  index: -1
+Gold_6a
+  rotate: true
+  xy: 129, 2
+  size: 60, 48
+  orig: 64, 64
+  offset: 3, 10
+  index: -1
+Gold_7a
+  rotate: false
+  xy: 179, 25
+  size: 59, 42
+  orig: 64, 64
+  offset: 3, 13
+  index: -1
+Gold_8a
+  rotate: false
+  xy: 256, 35
+  size: 59, 35
+  orig: 64, 64
+  offset: 3, 16
+  index: -1
+Gold_9a
+  rotate: false
+  xy: 444, 20
+  size: 60, 31
+  orig: 64, 64
+  offset: 2, 17
+  index: -1

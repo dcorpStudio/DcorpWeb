@@ -1,0 +1,41 @@
+
+hua.png
+size: 264,134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LIZI
+  rotate: false
+  xy: 2, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hua/hua1_01
+  rotate: false
+  xy: 132, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+hua/hua1_02
+  rotate: false
+  xy: 198, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+hua/hua1_03
+  rotate: false
+  xy: 132, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+hua/hua1_04
+  rotate: false
+  xy: 198, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

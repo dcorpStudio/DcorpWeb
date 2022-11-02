@@ -1,0 +1,115 @@
+{
+    "frameRate": 24,
+    "armature": [{
+        "defaultActions": [{
+            "gotoAndPlay": "db_Award"
+        }],
+        "animation": [{
+            "duration": 48,
+            "frame": [],
+            "bone": [{
+                "frame": [{
+                    "duration": 48,
+                    "tweenEasing": null,
+                    "transform": {}
+                }],
+                "name": "root"
+            },
+            {
+                "frame": [{
+                    "duration": 24,
+                    "tweenEasing": 0,
+                    "transform": {
+                        "scX": 0.8,
+                        "scY": 0.8
+                    }
+                },
+                {
+                    "duration": 24,
+                    "tweenEasing": 0,
+                    "transform": {
+                        "scX": 0.8,
+                        "scY": 0.8,
+                        "skY": 90,
+                        "skX": 90
+                    }
+                },
+                {
+                    "duration": 0,
+                    "tweenEasing": null,
+                    "transform": {
+                        "scX": 0.8,
+                        "scY": 0.8,
+                        "skY": 180,
+                        "skX": 180
+                    }
+                }],
+                "name": "emissive light_1_1"
+            }],
+            "slot": [{
+                "frame": [{
+                    "duration": 24,
+                    "tweenEasing": 0,
+                    "color": {
+                        "aM": 0
+                    }
+                },
+                {
+                    "duration": 24,
+                    "tweenEasing": 0,
+                    "color": {}
+                },
+                {
+                    "duration": 0,
+                    "tweenEasing": null,
+                    "color": {
+                        "aM": 0
+                    }
+                }],
+                "name": "emissive light_1_1"
+            }],
+            "ffd": [],
+            "playTimes": 0,
+            "name": "db_Award"
+        }],
+        "type": "MovieClip",
+        "frameRate": 24,
+        "skin": [{
+            "name": "",
+            "slot": [{
+                "display": [{
+                    "type": "image",
+                    "name": "组-202",
+                    "transform": {}
+                }],
+                "name": "emissive light_1_1"
+            }]
+        }],
+        "aabb": {
+            "width": 220,
+            "y": -120.5,
+            "height": 241,
+            "x": -110
+        },
+        "ik": [],
+        "name": "db_Award",
+        "slot": [{
+            "color": {},
+            "name": "emissive light_1_1",
+            "parent": "emissive light_1_1",
+            "displayIndex": -1
+        }],
+        "bone": [{
+            "transform": {},
+            "name": "root"
+        },
+        {
+            "transform": {},
+            "name": "emissive light_1_1",
+            "parent": "root"
+        }]
+    }],
+    "isGlobal": 0,
+    "name": "db_Award",
+    "version": "4.5"
+}

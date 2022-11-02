@@ -1,0 +1,153 @@
+
+slots_51_2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+13
+  rotate: false
+  xy: 422, 165
+  size: 100, 29
+  orig: 100, 29
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 752, 205
+  size: 100, 29
+  orig: 100, 29
+  offset: 0, 0
+  index: -1
+bigbeijingzong
+  rotate: false
+  xy: 251, 2
+  size: 160, 154
+  orig: 160, 154
+  offset: 0, 0
+  index: -1
+d
+  rotate: true
+  xy: 450, 539
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+i
+  rotate: false
+  xy: 422, 534
+  size: 26, 54
+  orig: 26, 54
+  offset: 0, 0
+  index: -1
+l
+  rotate: true
+  xy: 524, 151
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+w
+  rotate: true
+  xy: 868, 243
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+xh_biyan
+  rotate: false
+  xy: 582, 153
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+xh_bozi
+  rotate: true
+  xy: 2, 4
+  size: 152, 247
+  orig: 152, 247
+  offset: 0, 0
+  index: -1
+xh_hongying
+  rotate: true
+  xy: 780, 307
+  size: 225, 120
+  orig: 225, 120
+  offset: 0, 0
+  index: -1
+xh_lichi2
+  rotate: false
+  xy: 519, 734
+  size: 382, 279
+  orig: 382, 279
+  offset: 0, 0
+  index: -1
+xh_lichi3
+  rotate: true
+  xy: 519, 534
+  size: 198, 407
+  orig: 198, 407
+  offset: 0, 0
+  index: -1
+xh_maozi
+  rotate: false
+  xy: 422, 326
+  size: 356, 206
+  orig: 356, 206
+  offset: 0, 0
+  index: -1
+xh_shange
+  rotate: true
+  xy: 903, 770
+  size: 131, 89
+  orig: 131, 89
+  offset: 0, 0
+  index: -1
+xh_shenti
+  rotate: false
+  xy: 422, 196
+  size: 259, 128
+  orig: 259, 128
+  offset: 0, 0
+  index: -1
+xh_tou
+  rotate: false
+  xy: 903, 903
+  size: 118, 110
+  orig: 118, 110
+  offset: 0, 0
+  index: -1
+xh_waichi2
+  rotate: false
+  xy: 2, 158
+  size: 418, 430
+  orig: 418, 430
+  offset: 0, 0
+  index: -1
+xh_waichi3
+  rotate: false
+  xy: 2, 590
+  size: 515, 423
+  orig: 515, 423
+  offset: 0, 0
+  index: -1
+xh_xiaba
+  rotate: true
+  xy: 683, 195
+  size: 129, 67
+  orig: 129, 67
+  offset: 0, 0
+  index: -1
+xh_xianglian1
+  rotate: false
+  xy: 752, 236
+  size: 114, 69
+  orig: 114, 69
+  offset: 0, 0
+  index: -1
+xh_xianglian2
+  rotate: true
+  xy: 994, 816
+  size: 85, 28
+  orig: 85, 28
+  offset: 0, 0
+  index: -1

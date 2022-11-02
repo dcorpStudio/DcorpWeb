@@ -1,0 +1,160 @@
+
+lingdangyouxi4_beijing.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ldyx_yanhua_01
+  rotate: false
+  xy: 2, 312
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ldyx_yanhua_02
+  rotate: false
+  xy: 2, 160
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ldyx_yanhua_03
+  rotate: false
+  xy: 2, 8
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ldyx_yanhua_04
+  rotate: false
+  xy: 682, 845
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ldyx_yanhua_05
+  rotate: false
+  xy: 834, 845
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ldyx_yanhua_06
+  rotate: false
+  xy: 234, 762
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ldyx_yanhua_07
+  rotate: false
+  xy: 197, 610
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ldyx_yanhua_08
+  rotate: false
+  xy: 192, 458
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ldyx_yanhua_09
+  rotate: false
+  xy: 154, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ldyx_yanhua_10
+  rotate: false
+  xy: 154, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ldyx_yanhua_11
+  rotate: false
+  xy: 154, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ldyx_yanhua_12
+  rotate: false
+  xy: 457, 750
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+ldyx_yanhua_13
+  rotate: false
+  xy: 306, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+lingdangyouxi4_dengguang
+  rotate: false
+  xy: 2, 655
+  size: 193, 186
+  orig: 193, 186
+  offset: 0, 0
+  index: -1
+lingdangyouxi4_fangzi
+  rotate: false
+  xy: 489, 902
+  size: 191, 93
+  orig: 191, 93
+  offset: 0, 0
+  index: -1
+lingdangyouxi4_feiting
+  rotate: false
+  xy: 306, 186
+  size: 140, 118
+  orig: 140, 118
+  offset: 0, 0
+  index: -1
+lingdangyouxi4_fengshan
+  rotate: false
+  xy: 609, 863
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+lingdangyouxi4_motianlun
+  rotate: false
+  xy: 2, 464
+  size: 188, 189
+  orig: 188, 189
+  offset: 0, 0
+  index: -1
+lingdangyouxi4_motianlun_glow
+  rotate: false
+  xy: 2, 843
+  size: 230, 152
+  orig: 230, 152
+  offset: 0, 0
+  index: -1
+lingdangyouxi4_nengliang
+  rotate: false
+  xy: 986, 978
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+lingdangyouxi4_shuibiao
+  rotate: true
+  xy: 234, 914
+  size: 81, 253
+  orig: 81, 253
+  offset: 0, 0
+  index: -1
+lingdangyouxi4_zhijia
+  rotate: false
+  xy: 386, 770
+  size: 69, 142
+  orig: 69, 142
+  offset: 0, 0
+  index: -1

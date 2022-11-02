@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6f6c4c58-71ce-42fa-80f4-2a27c8f6c32b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 74,
+  "height": 75,
+  "platformSettings": {},
+  "subMetas": {
+    "setting_btn_musicSlide_normal": {
+      "ver": "1.0.6",
+      "uuid": "deb5baa5-3c15-40a7-8f3a-5ff27adcc628",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6f6c4c58-71ce-42fa-80f4-2a27c8f6c32b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 74,
+      "height": 75,
+      "rawWidth": 74,
+      "rawHeight": 75,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

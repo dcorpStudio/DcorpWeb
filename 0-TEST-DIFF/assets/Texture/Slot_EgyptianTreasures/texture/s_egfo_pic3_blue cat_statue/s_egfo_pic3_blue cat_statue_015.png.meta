@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "af4e148f-61b3-4fb3-98c8-0a0b255a1167",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 349,
+  "height": 349,
+  "platformSettings": {},
+  "subMetas": {
+    "s_egfo_pic3_blue cat_statue_015": {
+      "ver": "1.0.6",
+      "uuid": "8efea5b3-96d7-4899-b936-45947fa618df",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "af4e148f-61b3-4fb3-98c8-0a0b255a1167",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -5,
+      "offsetY": 2.5,
+      "trimX": 11,
+      "trimY": 27,
+      "width": 317,
+      "height": 290,
+      "rawWidth": 349,
+      "rawHeight": 349,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

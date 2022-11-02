@@ -1,0 +1,352 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "pb_GrabBullCard",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [],
+    "_tag": -1,
+    "_active": false,
+    "_components": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 5
+      }
+    ],
+    "_prefab": {
+      "__id__": 6
+    },
+    "_id": "",
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_cascadeOpacityEnabled": true,
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 117,
+      "height": 151
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_localZOrder": 0,
+    "_globalZOrder": 0,
+    "_opacityModifyRGB": false,
+    "groupIndex": 0,
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_spriteFrame": {
+      "__uuid__": "93cc0ecf-6298-4f66-a319-91a60c9a9436"
+    },
+    "_type": 0,
+    "_sizeMode": 1,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_atlas": null
+  },
+  {
+    "__type__": "cc.Button",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "transition": 0,
+    "pressedColor": {
+      "__type__": "cc.Color",
+      "r": 211,
+      "g": 211,
+      "b": 211,
+      "a": 255
+    },
+    "hoverColor": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "duration": 0.1,
+    "zoomScale": 1.2,
+    "pressedSprite": null,
+    "hoverSprite": null,
+    "clickEvents": [
+      {
+        "__id__": 4
+      }
+    ],
+    "_N$interactable": false,
+    "_N$enableAutoGrayEffect": false,
+    "_N$normalColor": {
+      "__type__": "cc.Color",
+      "r": 214,
+      "g": 214,
+      "b": 214,
+      "a": 255
+    },
+    "_N$disabledColor": {
+      "__type__": "cc.Color",
+      "r": 124,
+      "g": 124,
+      "b": 124,
+      "a": 255
+    },
+    "_N$normalSprite": null,
+    "_N$disabledSprite": null,
+    "_N$target": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.ClickEvent",
+    "target": {
+      "__id__": 1
+    },
+    "component": "GrabBullCard",
+    "handler": "clickCard_Function",
+    "customEventData": ""
+  },
+  {
+    "__type__": "559cfhcMbNIWqFxwYKv+TH1",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "sp_CardSprite": [
+      {
+        "__uuid__": "93cc0ecf-6298-4f66-a319-91a60c9a9436"
+      },
+      {
+        "__uuid__": "f1c06767-27b5-496e-97e5-045e47edfcb3"
+      },
+      {
+        "__uuid__": "72e04386-b888-4093-bc84-8666a92b03f9"
+      },
+      {
+        "__uuid__": "23da403d-d457-4540-bfb7-dace9e746892"
+      },
+      {
+        "__uuid__": "555ef377-a690-4157-848a-447957809c06"
+      },
+      {
+        "__uuid__": "6ae0f40a-7197-408f-8587-330e31ca937d"
+      },
+      {
+        "__uuid__": "fffa85b6-8836-46f6-bb06-6a254d3d1afd"
+      },
+      {
+        "__uuid__": "6ef4edea-bcbd-4eb5-92d3-f21baa3fc477"
+      },
+      {
+        "__uuid__": "ba350e83-1cde-4ee1-8243-b546199be06b"
+      },
+      {
+        "__uuid__": "c3f525d0-bfae-4ba4-8b4b-df0724eb21bd"
+      },
+      {
+        "__uuid__": "80955d0e-2bae-4552-820c-61281adfa172"
+      },
+      {
+        "__uuid__": "f42c3209-90d9-42db-8981-9e17c169e4de"
+      },
+      {
+        "__uuid__": "403709ba-6c82-4af1-9a68-171d3cc4e762"
+      },
+      {
+        "__uuid__": "90e7be3f-8fc2-4170-abfa-8c7e472fbda8"
+      },
+      {
+        "__uuid__": "824f57b1-edb2-4762-b7f9-095a2b8859e9"
+      },
+      {
+        "__uuid__": "fa8be94b-efcd-49b0-84d6-e49acdf78e58"
+      },
+      {
+        "__uuid__": "cb50f0a8-2e49-4970-8d6b-7a3c2cf8f40d"
+      },
+      {
+        "__uuid__": "5e0f943b-7323-473e-85c6-390746ea8bb4"
+      },
+      {
+        "__uuid__": "02d9bee1-b674-4e5f-a904-883dc542341c"
+      },
+      {
+        "__uuid__": "4271b9bc-8d63-421d-a2e5-bb8500448074"
+      },
+      {
+        "__uuid__": "e0fe1a77-3a43-4d00-90b4-adf73e5ffed5"
+      },
+      {
+        "__uuid__": "3144da5e-7bd5-4f95-bfd5-0070845c82b4"
+      },
+      {
+        "__uuid__": "4bae25d7-0326-4d17-af10-b9776ab788ad"
+      },
+      {
+        "__uuid__": "67ad9356-7a35-48eb-94cb-1a1e09089cc9"
+      },
+      {
+        "__uuid__": "fee51b50-3e94-4f52-8b9b-bf522e2e88a5"
+      },
+      {
+        "__uuid__": "1f8a6f8e-6e02-42b5-8260-3c434b275426"
+      },
+      {
+        "__uuid__": "3e84077b-79b4-4da3-8a5a-e3e90928b470"
+      },
+      {
+        "__uuid__": "e2351664-414a-4cca-966f-a6a7e73556e3"
+      },
+      {
+        "__uuid__": "5d4a58f6-6d4e-4b19-a55f-4cfac7d95f00"
+      },
+      {
+        "__uuid__": "1dc7f0eb-3756-4f11-8e25-3426341b576e"
+      },
+      {
+        "__uuid__": "95d1df50-9f3e-459e-a5c6-3c73c367e24b"
+      },
+      {
+        "__uuid__": "14f44dd3-77bc-4cca-98d9-03dc53663820"
+      },
+      {
+        "__uuid__": "ae9f14a7-e1c2-411a-ab86-c186d951d830"
+      },
+      {
+        "__uuid__": "21fc2f6a-9721-4829-b644-654b36f8b7fb"
+      },
+      {
+        "__uuid__": "6371f0a1-1bc9-4881-9c69-079c8e20dc77"
+      },
+      {
+        "__uuid__": "6485a39f-c976-41dc-83eb-8f1bd7986a20"
+      },
+      {
+        "__uuid__": "6c908925-528a-4680-a399-14a13a7a18c8"
+      },
+      {
+        "__uuid__": "87d31f41-443d-40aa-8490-2ddcef60fe18"
+      },
+      {
+        "__uuid__": "ac654eba-19dd-45ed-8d80-b101e9fbd31c"
+      },
+      {
+        "__uuid__": "b72f7688-73cc-457f-a75f-b0a6543ad561"
+      },
+      {
+        "__uuid__": "a728ba85-9a68-46b1-85d1-fb3aa06c8adb"
+      },
+      {
+        "__uuid__": "fd02de34-6c35-44aa-a904-99999efac270"
+      },
+      {
+        "__uuid__": "0de3cda5-3e8e-4d8a-a2b3-9bf8cf71c447"
+      },
+      {
+        "__uuid__": "9bea958a-f6ef-4a2b-b975-d45e3d7caacd"
+      },
+      {
+        "__uuid__": "9ca5c2ae-7fb5-4c56-bb5e-7030e7c0f1b7"
+      },
+      {
+        "__uuid__": "d4d35b03-7c16-4893-8c36-bbb6de9da9d3"
+      },
+      {
+        "__uuid__": "c1b0d66b-8847-44cb-940f-83ffed3f8c4c"
+      },
+      {
+        "__uuid__": "b3fc22f6-90ac-46c0-a070-7572a859ae8c"
+      },
+      {
+        "__uuid__": "84937af4-f9c3-4762-bf6e-31be8e551f1d"
+      },
+      {
+        "__uuid__": "0d622984-db84-4eb4-b856-277974432d16"
+      },
+      {
+        "__uuid__": "0946c5eb-07aa-4bd1-bacb-0f65ba8812d2"
+      },
+      {
+        "__uuid__": "b085050c-2f1d-48a5-be67-fbcfd8b7655d"
+      },
+      {
+        "__uuid__": "edcaa594-070b-401d-b6f1-45f6aa86055c"
+      },
+      {
+        "__uuid__": "93cc0ecf-6298-4f66-a319-91a60c9a9436"
+      }
+    ],
+    "canvasNode": null,
+    "type": 0,
+    "point": 0
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    },
+    "fileId": "1c4cbqBD/pAVbB/aqA6ps7f",
+    "sync": false
+  }
+]

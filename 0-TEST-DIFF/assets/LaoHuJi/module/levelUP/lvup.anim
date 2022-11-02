@@ -1,0 +1,175 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "lvup",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "paths": {
+      "左翅膀": {
+        "props": {
+          "width": [
+            {
+              "frame": 0,
+              "value": 150
+            },
+            {
+              "frame": 0.5,
+              "value": 375
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": -100
+            },
+            {
+              "frame": 0.5,
+              "value": 46.5
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 50
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "右翅膀": {
+        "props": {
+          "width": [
+            {
+              "frame": 0,
+              "value": 150
+            },
+            {
+              "frame": 0.5,
+              "value": 376
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": -100
+            },
+            {
+              "frame": 0.5,
+              "value": 46.5
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": -50
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "背景": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -181
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "width": [
+            {
+              "frame": 0,
+              "value": 50
+            },
+            {
+              "frame": 0.5,
+              "value": 213
+            }
+          ],
+          "height": [
+            {
+              "frame": 0,
+              "value": 25
+            },
+            {
+              "frame": 0.5,
+              "value": 111
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 10
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "等级": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -100
+            },
+            {
+              "frame": 0.5,
+              "value": -7
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 2
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 20
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "标题": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -120
+            },
+            {
+              "frame": 0.5,
+              "value": 69
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

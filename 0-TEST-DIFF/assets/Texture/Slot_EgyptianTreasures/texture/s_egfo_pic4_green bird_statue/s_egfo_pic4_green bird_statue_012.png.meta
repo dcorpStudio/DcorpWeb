@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "dca666fc-a462-4750-aed9-d7cbbfaf3f52",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 349,
+  "height": 349,
+  "platformSettings": {},
+  "subMetas": {
+    "s_egfo_pic4_green bird_statue_012": {
+      "ver": "1.0.6",
+      "uuid": "f31c3200-c8d7-4ebf-ad4e-76ebb04d708f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "dca666fc-a462-4750-aed9-d7cbbfaf3f52",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 14,
+      "trimX": 46,
+      "trimY": 0,
+      "width": 256,
+      "height": 321,
+      "rawWidth": 349,
+      "rawHeight": 349,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

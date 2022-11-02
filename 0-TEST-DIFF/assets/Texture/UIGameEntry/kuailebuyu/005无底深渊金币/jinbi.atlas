@@ -1,0 +1,55 @@
+
+jinbi.png
+size: 499,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liubianxing/liubianxing_01
+  rotate: false
+  xy: 386, 127
+  size: 64, 57
+  orig: 64, 64
+  offset: 0, 4
+  index: -1
+liubianxing/liubianxing_02
+  rotate: false
+  xy: 386, 69
+  size: 64, 56
+  orig: 64, 64
+  offset: 0, 4
+  index: -1
+liubianxing/liubianxing_03
+  rotate: false
+  xy: 386, 11
+  size: 63, 56
+  orig: 64, 64
+  offset: 0, 3
+  index: -1
+liubianxing/liubianxing_04
+  rotate: true
+  xy: 452, 27
+  size: 53, 45
+  orig: 64, 64
+  offset: 7, 8
+  index: -1
+shuzibg
+  rotate: false
+  xy: 2, 2
+  size: 382, 182
+  orig: 382, 183
+  offset: 0, 0
+  index: -1
+ty
+  rotate: true
+  xy: 452, 82
+  size: 102, 30
+  orig: 106, 34
+  offset: 2, 2
+  index: -1
+yjjx
+  rotate: true
+  xy: 484, 104
+  size: 80, 10
+  orig: 82, 12
+  offset: 1, 1
+  index: -1

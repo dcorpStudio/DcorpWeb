@@ -1,0 +1,195 @@
+
+icon_hot.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+07_icon_hot/15_icon_hot_0000
+  rotate: false
+  xy: 2, 111
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+07_icon_hot/15_icon_hot_0001
+  rotate: false
+  xy: 2, 2
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+07_icon_hot/15_icon_hot_0002
+  rotate: false
+  xy: 87, 111
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+07_icon_hot/15_icon_hot_0003
+  rotate: false
+  xy: 87, 2
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+07_icon_hot/15_icon_hot_0004
+  rotate: false
+  xy: 172, 111
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+07_icon_hot/15_icon_hot_0005
+  rotate: false
+  xy: 172, 2
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+07_icon_hot/15_icon_hot_0006
+  rotate: false
+  xy: 257, 111
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+07_icon_hot/15_icon_hot_0007
+  rotate: false
+  xy: 257, 2
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+07_icon_hot/15_icon_hot_0008
+  rotate: false
+  xy: 342, 111
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+07_icon_hot/15_icon_hot_0009
+  rotate: false
+  xy: 342, 2
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+07_icon_hot/15_icon_hot_0010
+  rotate: false
+  xy: 427, 111
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+07_icon_hot/15_icon_hot_0011
+  rotate: false
+  xy: 427, 2
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+07_icon_hot/15_icon_hot_0012
+  rotate: false
+  xy: 512, 111
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+07_icon_hot/15_icon_hot_0013
+  rotate: false
+  xy: 512, 2
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+07_icon_hot/15_icon_hot_0014
+  rotate: false
+  xy: 597, 111
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+07_icon_hot/15_icon_hot_0015
+  rotate: false
+  xy: 597, 111
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+07_icon_hot/15_icon_hot_0016
+  rotate: false
+  xy: 597, 2
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+07_icon_hot/15_icon_hot_0017
+  rotate: false
+  xy: 682, 111
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+07_icon_hot/15_icon_hot_0018
+  rotate: false
+  xy: 682, 2
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+07_icon_hot/15_icon_hot_0019
+  rotate: false
+  xy: 767, 111
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+07_icon_hot/15_icon_hot_0020
+  rotate: false
+  xy: 767, 2
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+07_icon_hot/15_icon_hot_0021
+  rotate: false
+  xy: 852, 111
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+07_icon_hot/15_icon_hot_0022
+  rotate: false
+  xy: 852, 2
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+07_icon_hot/15_icon_hot_0023
+  rotate: false
+  xy: 937, 111
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+07_icon_hot/15_icon_hot_0024
+  rotate: false
+  xy: 937, 2
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+07_icon_hot/15_icon_hot_0025
+  rotate: false
+  xy: 937, 2
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+07_icon_hot/15_icon_hot_0026
+  rotate: false
+  xy: 937, 2
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1

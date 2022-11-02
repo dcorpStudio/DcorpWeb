@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "eeaad63a-cfa1-4613-9f8b-38e87a881e1e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 200,
+  "height": 200,
+  "platformSettings": {},
+  "subMetas": {
+    "MadameDestiny": {
+      "ver": "1.0.6",
+      "uuid": "2bbac0eb-70b5-4085-afcc-0aa5b8d35532",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "eeaad63a-cfa1-4613-9f8b-38e87a881e1e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 2,
+      "trimX": 0,
+      "trimY": 2,
+      "width": 200,
+      "height": 192,
+      "rawWidth": 200,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

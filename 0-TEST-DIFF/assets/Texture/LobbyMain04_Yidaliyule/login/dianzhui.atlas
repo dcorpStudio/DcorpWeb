@@ -1,0 +1,41 @@
+
+dianzhui.png
+size: 261,261
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jj01
+  rotate: false
+  xy: 2, 78
+  size: 141, 181
+  orig: 141, 181
+  offset: 0, 0
+  index: -1
+jj02
+  rotate: false
+  xy: 145, 133
+  size: 97, 126
+  orig: 97, 126
+  offset: 0, 0
+  index: -1
+jj03
+  rotate: true
+  xy: 88, 12
+  size: 64, 83
+  orig: 64, 83
+  offset: 0, 0
+  index: -1
+jj04
+  rotate: true
+  xy: 173, 65
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: -1
+jj11
+  rotate: false
+  xy: 2, 2
+  size: 84, 74
+  orig: 84, 74
+  offset: 0, 0
+  index: -1

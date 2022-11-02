@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "24069335-1399-43d6-8c22-9485f7b705e6",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 303,
+  "height": 57,
+  "platformSettings": {},
+  "subMetas": {
+    "ludan_logo": {
+      "ver": "1.0.6",
+      "uuid": "7b741950-1a56-4eea-b965-f27d301af794",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "24069335-1399-43d6-8c22-9485f7b705e6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 303,
+      "height": 57,
+      "rawWidth": 303,
+      "rawHeight": 57,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

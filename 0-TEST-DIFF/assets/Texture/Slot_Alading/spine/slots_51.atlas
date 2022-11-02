@@ -1,0 +1,160 @@
+
+slots_51.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ds_biyan
+  rotate: false
+  xy: 77, 25
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+ds_cs
+  rotate: false
+  xy: 156, 116
+  size: 132, 137
+  orig: 132, 137
+  offset: 0, 0
+  index: -1
+ds_erd
+  rotate: true
+  xy: 199, 47
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+ds_erh
+  rotate: false
+  xy: 440, 135
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+ds_sh
+  rotate: false
+  xy: 466, 202
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+ds_tf
+  rotate: true
+  xy: 253, 62
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+ds_tou
+  rotate: true
+  xy: 290, 112
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+ds_ywt
+  rotate: false
+  xy: 290, 170
+  size: 43, 83
+  orig: 43, 83
+  offset: 0, 0
+  index: -1
+ds_zsydb
+  rotate: false
+  xy: 77, 40
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+ds_zsys
+  rotate: false
+  xy: 281, 60
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ds_zsysz
+  rotate: false
+  xy: 60, 7
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+ds_zsyxb
+  rotate: false
+  xy: 2, 38
+  size: 73, 65
+  orig: 73, 65
+  offset: 0, 0
+  index: -1
+ds_zszdb
+  rotate: false
+  xy: 388, 205
+  size: 75, 48
+  orig: 75, 48
+  offset: 0, 0
+  index: -1
+ds_zszxb
+  rotate: false
+  xy: 388, 157
+  size: 76, 46
+  orig: 76, 46
+  offset: 0, 0
+  index: -1
+ds_zszxb1
+  rotate: false
+  xy: 342, 122
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+ds_zwt
+  rotate: false
+  xy: 335, 179
+  size: 51, 74
+  orig: 51, 74
+  offset: 0, 0
+  index: -1
+renkuang
+  rotate: false
+  xy: 2, 105
+  size: 152, 148
+  orig: 152, 148
+  offset: 0, 0
+  index: -1
+w_d
+  rotate: true
+  xy: 382, 105
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+w_i
+  rotate: true
+  xy: 2, 2
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+w_l
+  rotate: false
+  xy: 466, 145
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+w_w
+  rotate: false
+  xy: 141, 47
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+xiae
+  rotate: false
+  xy: 199, 62
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1

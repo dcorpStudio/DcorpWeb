@@ -1,0 +1,335 @@
+
+rnw_ui_spinbutton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/normal_button_bg
+  rotate: false
+  xy: 2, 930
+  size: 227, 87
+  orig: 1386, 96
+  offset: 1024, 8
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0000
+  rotate: false
+  xy: 870, 478
+  size: 152, 107
+  orig: 180, 130
+  offset: 0, 15
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0040
+  rotate: false
+  xy: 870, 478
+  size: 152, 107
+  orig: 180, 130
+  offset: 0, 15
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0001
+  rotate: false
+  xy: 356, 470
+  size: 171, 98
+  orig: 180, 130
+  offset: 0, 7
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0002
+  rotate: false
+  xy: 350, 257
+  size: 172, 103
+  orig: 180, 130
+  offset: 0, 5
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0003
+  rotate: false
+  xy: 355, 682
+  size: 174, 108
+  orig: 180, 130
+  offset: 0, 4
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0004
+  rotate: false
+  xy: 180, 542
+  size: 174, 111
+  orig: 180, 130
+  offset: 0, 4
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0005
+  rotate: false
+  xy: 174, 423
+  size: 174, 117
+  orig: 180, 130
+  offset: 0, 2
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0006
+  rotate: false
+  xy: 180, 779
+  size: 173, 124
+  orig: 180, 130
+  offset: 1, 0
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0007
+  rotate: false
+  xy: 2, 149
+  size: 170, 129
+  orig: 180, 130
+  offset: 4, 0
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0008
+  rotate: false
+  xy: 2, 412
+  size: 170, 130
+  orig: 180, 130
+  offset: 4, 0
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0009
+  rotate: false
+  xy: 2, 280
+  size: 170, 130
+  orig: 180, 130
+  offset: 4, 0
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0010
+  rotate: false
+  xy: 349, 47
+  size: 170, 99
+  orig: 180, 130
+  offset: 4, 2
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0011
+  rotate: true
+  xy: 891, 724
+  size: 170, 95
+  orig: 180, 130
+  offset: 4, 2
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0012
+  rotate: false
+  xy: 837, 380
+  size: 170, 96
+  orig: 180, 130
+  offset: 4, 2
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0013
+  rotate: false
+  xy: 665, 383
+  size: 170, 98
+  orig: 180, 130
+  offset: 4, 2
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0014
+  rotate: false
+  xy: 698, 483
+  size: 170, 102
+  orig: 180, 130
+  offset: 4, 2
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0015
+  rotate: false
+  xy: 350, 362
+  size: 170, 106
+  orig: 180, 130
+  offset: 4, 2
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0016
+  rotate: false
+  xy: 356, 570
+  size: 169, 110
+  orig: 180, 130
+  offset: 5, 4
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0017
+  rotate: false
+  xy: 174, 306
+  size: 174, 115
+  orig: 180, 130
+  offset: 0, 4
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0018
+  rotate: false
+  xy: 180, 655
+  size: 172, 122
+  orig: 180, 130
+  offset: 0, 2
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0019
+  rotate: false
+  xy: 2, 20
+  size: 171, 127
+  orig: 180, 130
+  offset: 0, 2
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0020
+  rotate: false
+  xy: 529, 358
+  size: 134, 126
+  orig: 180, 130
+  offset: 0, 4
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0021
+  rotate: false
+  xy: 529, 486
+  size: 167, 108
+  orig: 180, 130
+  offset: 4, 4
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0022
+  rotate: false
+  xy: 524, 259
+  size: 168, 97
+  orig: 180, 130
+  offset: 4, 5
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0023
+  rotate: false
+  xy: 711, 692
+  size: 172, 98
+  orig: 180, 130
+  offset: 2, 4
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0024
+  rotate: false
+  xy: 531, 596
+  size: 173, 94
+  orig: 180, 130
+  offset: 1, 4
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0025
+  rotate: false
+  xy: 535, 692
+  size: 174, 99
+  orig: 180, 130
+  offset: 0, 2
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0026
+  rotate: false
+  xy: 535, 793
+  size: 176, 102
+  orig: 180, 130
+  offset: 0, 2
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0027
+  rotate: false
+  xy: 355, 792
+  size: 178, 107
+  orig: 180, 130
+  offset: 1, 2
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0028
+  rotate: false
+  xy: 231, 905
+  size: 179, 112
+  orig: 180, 130
+  offset: 1, 2
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0029
+  rotate: false
+  xy: 412, 901
+  size: 179, 116
+  orig: 180, 130
+  offset: 1, 2
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0030
+  rotate: false
+  xy: 593, 897
+  size: 178, 120
+  orig: 180, 130
+  offset: 2, 2
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0031
+  rotate: false
+  xy: 2, 671
+  size: 176, 127
+  orig: 180, 130
+  offset: 4, 2
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0032
+  rotate: false
+  xy: 773, 896
+  size: 176, 121
+  orig: 180, 130
+  offset: 4, 2
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0033
+  rotate: false
+  xy: 2, 544
+  size: 176, 125
+  orig: 180, 130
+  offset: 4, 2
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0034
+  rotate: false
+  xy: 2, 800
+  size: 176, 128
+  orig: 180, 130
+  offset: 4, 2
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0035
+  rotate: false
+  xy: 713, 792
+  size: 176, 102
+  orig: 180, 130
+  offset: 4, 2
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0036
+  rotate: false
+  xy: 706, 587
+  size: 171, 103
+  orig: 180, 130
+  offset: 5, 4
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0037
+  rotate: false
+  xy: 349, 148
+  size: 169, 107
+  orig: 180, 130
+  offset: 5, 4
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0038
+  rotate: false
+  xy: 175, 80
+  size: 172, 110
+  orig: 180, 130
+  offset: 0, 5
+  index: -1
+img/spinbutton_idle/70/spinbutton_idle_0039
+  rotate: false
+  xy: 174, 192
+  size: 171, 112
+  orig: 180, 130
+  offset: 0, 7
+  index: -1
+img/spinbutton_idle/hold_for_auto
+  rotate: false
+  xy: 2, 2
+  size: 114, 16
+  orig: 1386, 96
+  offset: 1081, 20
+  index: -1
+img/spinbutton_idle/i
+  rotate: true
+  xy: 180, 912
+  size: 16, 47
+  orig: 1386, 96
+  offset: 1144, 38
+  index: -1
+img/spinbutton_idle/n
+  rotate: false
+  xy: 175, 31
+  size: 39, 47
+  orig: 1386, 96
+  offset: 1160, 38
+  index: -1
+img/spinbutton_idle/p
+  rotate: false
+  xy: 951, 970
+  size: 36, 47
+  orig: 1386, 96
+  offset: 1109, 38
+  index: -1
+img/spinbutton_idle/s
+  rotate: true
+  xy: 216, 44
+  size: 34, 48
+  orig: 1386, 96
+  offset: 1076, 38
+  index: -1

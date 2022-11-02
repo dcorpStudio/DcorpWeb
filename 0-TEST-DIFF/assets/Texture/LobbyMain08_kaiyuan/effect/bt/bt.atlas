@@ -1,0 +1,27 @@
+
+bt.png
+size: 134,182
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Tex_0762
+  rotate: true
+  xy: 2, 2
+  size: 112, 120
+  orig: 128, 128
+  offset: 8, 4
+  index: -1
+images/gg2
+  rotate: false
+  xy: 2, 116
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/star1
+  rotate: false
+  xy: 68, 116
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

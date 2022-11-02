@@ -1,0 +1,286 @@
+
+jiarenweituoyi12.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+by
+  rotate: true
+  xy: 909, 1769
+  size: 67, 38
+  orig: 67, 38
+  offset: 0, 0
+  index: -1
+eh
+  rotate: true
+  xy: 1605, 1761
+  size: 15, 36
+  orig: 15, 36
+  offset: 0, 0
+  index: -1
+eh2
+  rotate: true
+  xy: 567, 1336
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1
+htf
+  rotate: true
+  xy: 567, 1422
+  size: 132, 306
+  orig: 132, 306
+  offset: 0, 0
+  index: -1
+lll
+  rotate: false
+  xy: 1868, 1764
+  size: 169, 281
+  orig: 169, 281
+  offset: 0, 0
+  index: -1
+pd1
+  rotate: true
+  xy: 278, 1290
+  size: 338, 147
+  orig: 338, 147
+  offset: 0, 0
+  index: -1
+pd10
+  rotate: true
+  xy: 567, 1556
+  size: 111, 340
+  orig: 111, 340
+  offset: 0, 0
+  index: -1
+pd11
+  rotate: true
+  xy: 407, 1838
+  size: 207, 541
+  orig: 207, 541
+  offset: 0, 0
+  index: -1
+pd12
+  rotate: true
+  xy: 407, 1669
+  size: 167, 500
+  orig: 167, 500
+  offset: 0, 0
+  index: -1
+pd13
+  rotate: true
+  xy: 425, 1007
+  size: 125, 89
+  orig: 125, 89
+  offset: 0, 0
+  index: -1
+pd14
+  rotate: true
+  xy: 338, 944
+  size: 222, 85
+  orig: 222, 85
+  offset: 0, 0
+  index: -1
+pd15
+  rotate: true
+  xy: 407, 1631
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+pd2
+  rotate: false
+  xy: 2, 1630
+  size: 403, 415
+  orig: 403, 415
+  offset: 0, 0
+  index: -1
+pd3
+  rotate: false
+  xy: 1279, 1761
+  size: 324, 284
+  orig: 324, 284
+  offset: 0, 0
+  index: -1
+pd4
+  rotate: false
+  xy: 950, 1765
+  size: 327, 280
+  orig: 327, 280
+  offset: 0, 0
+  index: -1
+pd5
+  rotate: true
+  xy: 2, 734
+  size: 412, 334
+  orig: 412, 334
+  offset: 0, 0
+  index: -1
+pd6
+  rotate: true
+  xy: 322, 530
+  size: 191, 70
+  orig: 191, 70
+  offset: 0, 0
+  index: -1
+pd7
+  rotate: true
+  xy: 567, 1349
+  size: 71, 282
+  orig: 71, 282
+  offset: 0, 0
+  index: -1
+pd8
+  rotate: false
+  xy: 427, 1330
+  size: 138, 337
+  orig: 138, 337
+  offset: 0, 0
+  index: -1
+pd9
+  rotate: true
+  xy: 909, 1589
+  size: 95, 222
+  orig: 95, 222
+  offset: 0, 0
+  index: -1
+qz1
+  rotate: true
+  xy: 322, 365
+  size: 163, 99
+  orig: 163, 99
+  offset: 0, 0
+  index: -1
+qz2
+  rotate: true
+  xy: 2, 1148
+  size: 480, 274
+  orig: 480, 274
+  offset: 0, 0
+  index: -1
+qz3
+  rotate: false
+  xy: 2, 4
+  size: 310, 331
+  orig: 310, 331
+  offset: 0, 0
+  index: -1
+qz4
+  rotate: false
+  xy: 338, 723
+  size: 54, 219
+  orig: 54, 219
+  offset: 0, 0
+  index: -1
+qz5
+  rotate: false
+  xy: 1605, 1778
+  size: 261, 267
+  orig: 261, 267
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 2, 337
+  size: 318, 395
+  orig: 318, 395
+  offset: 0, 0
+  index: -1
+tf1
+  rotate: false
+  xy: 909, 1686
+  size: 258, 77
+  orig: 258, 77
+  offset: 0, 0
+  index: -1
+tf2
+  rotate: true
+  xy: 427, 1250
+  size: 78, 137
+  orig: 78, 137
+  offset: 0, 0
+  index: -1
+ts1
+  rotate: false
+  xy: 425, 964
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+ts2
+  rotate: false
+  xy: 909, 1556
+  size: 5, 31
+  orig: 5, 31
+  offset: 0, 0
+  index: -1
+ts3
+  rotate: false
+  xy: 314, 306
+  size: 5, 29
+  orig: 5, 29
+  offset: 0, 0
+  index: -1
+ts4
+  rotate: false
+  xy: 2039, 2017
+  size: 6, 28
+  orig: 6, 28
+  offset: 0, 0
+  index: -1
+ts5
+  rotate: false
+  xy: 851, 1393
+  size: 5, 27
+  orig: 5, 27
+  offset: 0, 0
+  index: -1
+ts6
+  rotate: false
+  xy: 1133, 1659
+  size: 4, 25
+  orig: 4, 25
+  offset: 0, 0
+  index: -1
+ts7
+  rotate: true
+  xy: 278, 1161
+  size: 5, 23
+  orig: 5, 23
+  offset: 0, 0
+  index: -1
+ts8
+  rotate: false
+  xy: 394, 923
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+ys
+  rotate: false
+  xy: 1169, 1707
+  size: 85, 56
+  orig: 85, 56
+  offset: 0, 0
+  index: -1
+zgb
+  rotate: false
+  xy: 278, 1168
+  size: 145, 120
+  orig: 145, 120
+  offset: 0, 0
+  index: -1
+zs
+  rotate: false
+  xy: 425, 1134
+  size: 123, 114
+  orig: 123, 114
+  offset: 0, 0
+  index: -1
+zsb
+  rotate: true
+  xy: 875, 1426
+  size: 128, 62
+  orig: 128, 62
+  offset: 0, 0
+  index: -1

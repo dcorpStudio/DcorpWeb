@@ -1,0 +1,153 @@
+
+rnw_ui_bonus_button.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/ui_bonus_button/loop_particle/bonus_button_particle_0000
+  rotate: false
+  xy: 726, 227
+  size: 210, 80
+  orig: 250, 96
+  offset: 15, 15
+  index: -1
+img/ui_bonus_button/loop_particle/bonus_button_particle_0001
+  rotate: false
+  xy: 485, 212
+  size: 235, 81
+  orig: 250, 96
+  offset: 15, 15
+  index: -1
+img/ui_bonus_button/loop_particle/bonus_button_particle_0002
+  rotate: false
+  xy: 726, 309
+  size: 235, 81
+  orig: 250, 96
+  offset: 15, 15
+  index: -1
+img/ui_bonus_button/loop_particle/bonus_button_particle_0003
+  rotate: false
+  xy: 2, 2
+  size: 234, 95
+  orig: 250, 96
+  offset: 16, 0
+  index: -1
+img/ui_bonus_button/loop_particle/bonus_button_particle_0004
+  rotate: false
+  xy: 240, 100
+  size: 234, 95
+  orig: 250, 96
+  offset: 16, 0
+  index: -1
+img/ui_bonus_button/loop_particle/bonus_button_particle_0005
+  rotate: false
+  xy: 490, 295
+  size: 234, 95
+  orig: 250, 96
+  offset: 16, 0
+  index: -1
+img/ui_bonus_button/loop_particle/bonus_button_particle_0006
+  rotate: false
+  xy: 252, 295
+  size: 236, 95
+  orig: 250, 96
+  offset: 14, 0
+  index: -1
+img/ui_bonus_button/loop_particle/bonus_button_particle_0007
+  rotate: false
+  xy: 2, 295
+  size: 248, 95
+  orig: 250, 96
+  offset: 2, 0
+  index: -1
+img/ui_bonus_button/loop_particle/bonus_button_particle_0008
+  rotate: false
+  xy: 2, 392
+  size: 248, 96
+  orig: 250, 96
+  offset: 0, 0
+  index: -1
+img/ui_bonus_button/loop_particle/bonus_button_particle_0009
+  rotate: false
+  xy: 252, 392
+  size: 244, 96
+  orig: 250, 96
+  offset: 0, 0
+  index: -1
+img/ui_bonus_button/loop_particle/bonus_button_particle_0010
+  rotate: false
+  xy: 2, 197
+  size: 244, 96
+  orig: 250, 96
+  offset: 0, 0
+  index: -1
+img/ui_bonus_button/loop_particle/bonus_button_particle_0011
+  rotate: false
+  xy: 498, 392
+  size: 238, 96
+  orig: 250, 96
+  offset: 0, 0
+  index: -1
+img/ui_bonus_button/loop_particle/bonus_button_particle_0012
+  rotate: false
+  xy: 2, 99
+  size: 236, 96
+  orig: 250, 96
+  offset: 0, 0
+  index: -1
+img/ui_bonus_button/loop_particle/bonus_button_particle_0013
+  rotate: false
+  xy: 248, 197
+  size: 235, 96
+  orig: 250, 96
+  offset: 0, 0
+  index: -1
+img/ui_bonus_button/loop_particle/bonus_button_particle_0014
+  rotate: false
+  xy: 738, 392
+  size: 235, 96
+  orig: 250, 96
+  offset: 0, 0
+  index: -1
+img/ui_bonus_button/loop_particle/bonus_button_particle_0015
+  rotate: false
+  xy: 485, 129
+  size: 234, 81
+  orig: 250, 96
+  offset: 0, 15
+  index: -1
+img/ui_bonus_button/loop_particle/bonus_button_particle_0016
+  rotate: false
+  xy: 476, 46
+  size: 223, 81
+  orig: 250, 96
+  offset: 10, 15
+  index: -1
+img/ui_bonus_button/loop_particle/bonus_button_particle_0017
+  rotate: false
+  xy: 721, 62
+  size: 204, 81
+  orig: 250, 96
+  offset: 28, 15
+  index: -1
+img/ui_bonus_button/loop_particle/bonus_button_particle_0018
+  rotate: false
+  xy: 240, 17
+  size: 200, 81
+  orig: 250, 96
+  offset: 38, 15
+  index: -1
+img/ui_bonus_button/loop_particle/bonus_button_particle_0019
+  rotate: true
+  xy: 938, 118
+  size: 189, 81
+  orig: 250, 96
+  offset: 36, 15
+  index: -1
+img/ui_bonus_button/loop_particle/bonus_button_particle_0020
+  rotate: false
+  xy: 722, 145
+  size: 210, 80
+  orig: 250, 96
+  offset: 15, 15
+  index: -1

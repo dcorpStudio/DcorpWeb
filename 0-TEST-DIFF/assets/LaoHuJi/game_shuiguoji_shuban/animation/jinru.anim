@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "jinru",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.38333333333333336,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "22",
+  "curveData": {
+    "props": {
+      "width": [
+        {
+          "frame": 0,
+          "value": 477
+        },
+        {
+          "frame": 0.38333333333333336,
+          "value": 571
+        }
+      ],
+      "height": [
+        {
+          "frame": 0,
+          "value": 171
+        },
+        {
+          "frame": 0.38333333333333336,
+          "value": 205
+        }
+      ]
+    }
+  },
+  "events": []
+}

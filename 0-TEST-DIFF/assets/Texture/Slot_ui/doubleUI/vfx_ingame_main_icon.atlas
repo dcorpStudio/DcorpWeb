@@ -1,0 +1,1174 @@
+
+vfx_ingame_main_icon.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+collect_01
+  rotate: true
+  xy: 401, 627
+  size: 64, 46
+  orig: 64, 47
+  offset: 0, 0
+  index: -1
+collect_02
+  rotate: false
+  xy: 867, 104
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+collect_light_40
+  rotate: true
+  xy: 546, 356
+  size: 35, 34
+  orig: 37, 39
+  offset: 1, 4
+  index: -1
+collect_light_41
+  rotate: true
+  xy: 546, 322
+  size: 33, 34
+  orig: 37, 39
+  offset: 2, 4
+  index: -1
+img_icon
+  rotate: false
+  xy: 938, 787
+  size: 85, 84
+  orig: 87, 87
+  offset: 1, 1
+  index: -1
+vfx_collect_tiket_light_28
+  rotate: false
+  xy: 581, 827
+  size: 10, 32
+  orig: 53, 42
+  offset: 0, 5
+  index: -1
+vfx_collect_tiket_light_29
+  rotate: false
+  xy: 844, 654
+  size: 12, 36
+  orig: 53, 42
+  offset: 0, 2
+  index: -1
+vfx_collect_tiket_light_30
+  rotate: true
+  xy: 996, 239
+  size: 40, 27
+  orig: 49, 29
+  offset: 0, 2
+  index: -1
+vfx_collect_tiket_light_31
+  rotate: false
+  xy: 569, 2
+  size: 44, 27
+  orig: 49, 29
+  offset: 0, 2
+  index: -1
+vfx_collect_tiket_light_32
+  rotate: true
+  xy: 996, 328
+  size: 47, 27
+  orig: 49, 29
+  offset: 0, 2
+  index: -1
+vfx_collect_tiket_light_33
+  rotate: true
+  xy: 996, 280
+  size: 47, 27
+  orig: 49, 29
+  offset: 0, 2
+  index: -1
+vfx_collect_tiket_light_34
+  rotate: true
+  xy: 981, 112
+  size: 47, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+vfx_collect_tiket_light_35
+  rotate: false
+  xy: 491, 17
+  size: 47, 29
+  orig: 49, 29
+  offset: 1, 0
+  index: -1
+vfx_collect_tiket_light_36
+  rotate: false
+  xy: 401, 597
+  size: 46, 29
+  orig: 49, 29
+  offset: 2, 0
+  index: -1
+vfx_collect_tiket_light_37
+  rotate: false
+  xy: 967, 14
+  size: 46, 29
+  orig: 49, 29
+  offset: 3, 0
+  index: -1
+vfx_collect_tiket_light_38
+  rotate: false
+  xy: 447, 1
+  size: 43, 28
+  orig: 49, 29
+  offset: 6, 0
+  index: -1
+vfx_collect_tiket_light_39
+  rotate: false
+  xy: 539, 1
+  size: 29, 28
+  orig: 49, 29
+  offset: 20, 0
+  index: -1
+vfx_collect_tiket_light_40
+  rotate: true
+  xy: 1, 1
+  size: 23, 28
+  orig: 49, 29
+  offset: 26, 0
+  index: -1
+vfx_collect_tiket_light_41
+  rotate: false
+  xy: 920, 844
+  size: 17, 27
+  orig: 49, 29
+  offset: 30, 1
+  index: -1
+vfx_collect_tiket_light_42
+  rotate: false
+  xy: 877, 822
+  size: 21, 31
+  orig: 53, 42
+  offset: 32, 8
+  index: -1
+vfx_ingame_back_par_00
+  rotate: true
+  xy: 304, 151
+  size: 60, 68
+  orig: 128, 150
+  offset: 49, 57
+  index: -1
+vfx_ingame_back_par_01
+  rotate: false
+  xy: 857, 647
+  size: 80, 81
+  orig: 128, 150
+  offset: 39, 47
+  index: -1
+vfx_ingame_back_par_02
+  rotate: true
+  xy: 581, 490
+  size: 99, 101
+  orig: 128, 150
+  offset: 29, 34
+  index: -1
+vfx_ingame_back_par_03
+  rotate: false
+  xy: 116, 236
+  size: 109, 119
+  orig: 128, 150
+  offset: 19, 23
+  index: -1
+vfx_ingame_back_par_04
+  rotate: true
+  xy: 717, 577
+  size: 113, 126
+  orig: 128, 150
+  offset: 15, 18
+  index: -1
+vfx_ingame_back_par_05
+  rotate: true
+  xy: 581, 590
+  size: 117, 135
+  orig: 128, 150
+  offset: 11, 12
+  index: -1
+vfx_ingame_back_par_06
+  rotate: true
+  xy: 776, 903
+  size: 120, 143
+  orig: 128, 150
+  offset: 8, 6
+  index: -1
+vfx_ingame_back_par_07
+  rotate: false
+  xy: 1, 25
+  size: 116, 145
+  orig: 128, 150
+  offset: 12, 5
+  index: -1
+vfx_ingame_back_par_08
+  rotate: true
+  xy: 581, 708
+  size: 113, 143
+  orig: 128, 150
+  offset: 15, 4
+  index: -1
+vfx_ingame_back_par_09
+  rotate: true
+  xy: 401, 526
+  size: 66, 105
+  orig: 128, 150
+  offset: 58, 31
+  index: -1
+vfx_ingame_circle_01_12
+  rotate: false
+  xy: 448, 726
+  size: 132, 133
+  orig: 132, 133
+  offset: 0, 0
+  index: -1
+vfx_ingame_circle_02_12
+  rotate: false
+  xy: 448, 593
+  size: 132, 132
+  orig: 132, 133
+  offset: 0, 0
+  index: -1
+vfx_ingame_collect_beck_16
+  rotate: true
+  xy: 507, 523
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+vfx_ingame_collect_beck_17
+  rotate: true
+  xy: 844, 577
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+vfx_ingame_collect_beck_18
+  rotate: true
+  xy: 231, 79
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+vfx_ingame_collect_beck_19
+  rotate: false
+  xy: 547, 30
+  size: 69, 70
+  orig: 69, 73
+  offset: 0, 3
+  index: -1
+vfx_ingame_collect_beck_20
+  rotate: false
+  xy: 305, 79
+  size: 69, 71
+  orig: 69, 73
+  offset: 0, 2
+  index: -1
+vfx_ingame_collect_beck_21
+  rotate: true
+  xy: 734, 171
+  size: 69, 72
+  orig: 69, 73
+  offset: 0, 1
+  index: -1
+vfx_ingame_collect_beck_22
+  rotate: false
+  xy: 617, 100
+  size: 69, 72
+  orig: 69, 73
+  offset: 0, 1
+  index: -1
+vfx_ingame_collect_beck_23
+  rotate: false
+  xy: 617, 28
+  size: 69, 71
+  orig: 69, 73
+  offset: 0, 2
+  index: -1
+vfx_ingame_collect_beck_24
+  rotate: true
+  xy: 796, 101
+  size: 69, 70
+  orig: 69, 73
+  offset: 0, 3
+  index: -1
+vfx_ingame_collect_beck_25
+  rotate: false
+  xy: 807, 171
+  size: 69, 69
+  orig: 69, 73
+  offset: 0, 4
+  index: -1
+vfx_ingame_collect_beck_26
+  rotate: false
+  xy: 897, 32
+  size: 69, 71
+  orig: 69, 73
+  offset: 0, 2
+  index: -1
+vfx_ingame_collect_beck_27
+  rotate: true
+  xy: 950, 160
+  size: 69, 71
+  orig: 69, 73
+  offset: 0, 2
+  index: -1
+vfx_ingame_collect_beck_28
+  rotate: true
+  xy: 723, 101
+  size: 69, 72
+  orig: 69, 73
+  offset: 0, 1
+  index: -1
+vfx_ingame_collect_beck_29
+  rotate: true
+  xy: 507, 453
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+vfx_ingame_collect_beck_33
+  rotate: false
+  xy: 547, 101
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+vfx_ingame_collect_beck_34
+  rotate: false
+  xy: 687, 28
+  size: 69, 72
+  orig: 69, 73
+  offset: 0, 1
+  index: -1
+vfx_ingame_collect_beck_35
+  rotate: false
+  xy: 757, 28
+  size: 69, 72
+  orig: 69, 73
+  offset: 0, 1
+  index: -1
+vfx_ingame_collect_beck_43
+  rotate: false
+  xy: 827, 28
+  size: 69, 72
+  orig: 69, 73
+  offset: 0, 1
+  index: -1
+vfx_ingame_collect_beck_45
+  rotate: true
+  xy: 877, 160
+  size: 69, 72
+  orig: 69, 73
+  offset: 0, 1
+  index: -1
+vfx_ingame_collect_beck_55
+  rotate: true
+  xy: 660, 173
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+vfx_ingame_collect_circle_line_16
+  rotate: true
+  xy: 683, 480
+  size: 96, 98
+  orig: 97, 98
+  offset: 1, 0
+  index: -1
+vfx_ingame_collect_coin_16
+  rotate: true
+  xy: 877, 854
+  size: 48, 42
+  orig: 190, 124
+  offset: 118, 38
+  index: -1
+vfx_ingame_collect_coin_17
+  rotate: true
+  xy: 452, 455
+  size: 70, 54
+  orig: 190, 124
+  offset: 103, 34
+  index: -1
+vfx_ingame_collect_coin_18
+  rotate: true
+  xy: 862, 485
+  size: 91, 61
+  orig: 190, 124
+  offset: 91, 32
+  index: -1
+vfx_ingame_collect_coin_19
+  rotate: true
+  xy: 231, 149
+  size: 109, 72
+  orig: 190, 124
+  offset: 81, 32
+  index: -1
+vfx_ingame_collect_coin_20
+  rotate: true
+  xy: 226, 259
+  size: 119, 72
+  orig: 190, 124
+  offset: 70, 34
+  index: -1
+vfx_ingame_collect_coin_21
+  rotate: false
+  xy: 743, 822
+  size: 133, 80
+  orig: 190, 124
+  offset: 57, 28
+  index: -1
+vfx_ingame_collect_coin_22
+  rotate: false
+  xy: 597, 822
+  size: 145, 87
+  orig: 190, 124
+  offset: 45, 23
+  index: -1
+vfx_ingame_collect_coin_23
+  rotate: true
+  xy: 920, 872
+  size: 151, 94
+  orig: 190, 124
+  offset: 32, 17
+  index: -1
+vfx_ingame_collect_coin_24
+  rotate: true
+  xy: 299, 525
+  size: 166, 101
+  orig: 190, 124
+  offset: 21, 11
+  index: -1
+vfx_ingame_collect_coin_25
+  rotate: false
+  xy: 597, 910
+  size: 178, 113
+  orig: 190, 124
+  offset: 12, 2
+  index: -1
+vfx_ingame_collect_coin_26
+  rotate: true
+  xy: 1, 171
+  size: 184, 114
+  orig: 190, 124
+  offset: 1, 0
+  index: -1
+vfx_ingame_collect_coin_27
+  rotate: false
+  xy: 897, 2
+  size: 33, 29
+  orig: 190, 124
+  offset: 154, 82
+  index: -1
+vfx_ingame_collect_coin_28
+  rotate: true
+  xy: 782, 480
+  size: 2, 3
+  orig: 190, 124
+  offset: 158, 78
+  index: -1
+vfx_ingame_collect_loop_63
+  rotate: false
+  xy: 1, 356
+  size: 148, 163
+  orig: 148, 167
+  offset: 0, 2
+  index: -1
+vfx_ingame_collect_loop_64
+  rotate: false
+  xy: 1, 856
+  size: 148, 167
+  orig: 148, 167
+  offset: 0, 0
+  index: -1
+vfx_ingame_collect_loop_65
+  rotate: false
+  xy: 1, 688
+  size: 148, 167
+  orig: 148, 167
+  offset: 0, 0
+  index: -1
+vfx_ingame_collect_loop_66
+  rotate: false
+  xy: 150, 856
+  size: 148, 167
+  orig: 148, 167
+  offset: 0, 0
+  index: -1
+vfx_ingame_collect_loop_67
+  rotate: false
+  xy: 1, 520
+  size: 148, 167
+  orig: 148, 167
+  offset: 0, 0
+  index: -1
+vfx_ingame_collect_loop_68
+  rotate: false
+  xy: 150, 688
+  size: 148, 167
+  orig: 148, 167
+  offset: 0, 0
+  index: -1
+vfx_ingame_collect_loop_69
+  rotate: false
+  xy: 299, 856
+  size: 148, 167
+  orig: 148, 167
+  offset: 0, 0
+  index: -1
+vfx_ingame_collect_loop_70
+  rotate: false
+  xy: 150, 524
+  size: 148, 163
+  orig: 148, 167
+  offset: 0, 2
+  index: -1
+vfx_ingame_collect_loop_71
+  rotate: false
+  xy: 299, 692
+  size: 148, 163
+  orig: 148, 167
+  offset: 0, 2
+  index: -1
+vfx_ingame_collect_loop_72
+  rotate: false
+  xy: 448, 860
+  size: 148, 163
+  orig: 148, 167
+  offset: 0, 2
+  index: -1
+vfx_ingame_collect_loop_73
+  rotate: false
+  xy: 150, 379
+  size: 141, 144
+  orig: 148, 167
+  offset: 7, 12
+  index: -1
+vfx_ingame_collect_loop_74
+  rotate: false
+  xy: 118, 119
+  size: 112, 116
+  orig: 148, 167
+  offset: 26, 27
+  index: -1
+vfx_ingame_collect_loop_75
+  rotate: true
+  xy: 381, 298
+  size: 58, 62
+  orig: 148, 167
+  offset: 66, 75
+  index: -1
+vfx_ingame_collect_loop_76
+  rotate: true
+  xy: 387, 1
+  size: 52, 59
+  orig: 148, 167
+  offset: 72, 81
+  index: -1
+vfx_ingame_collect_loop_77
+  rotate: false
+  xy: 967, 44
+  size: 47, 59
+  orig: 148, 167
+  offset: 71, 84
+  index: -1
+vfx_ingame_icon_collect_00
+  rotate: false
+  xy: 749, 400
+  size: 80, 79
+  orig: 88, 94
+  offset: 3, 3
+  index: -1
+vfx_ingame_icon_collect_01
+  rotate: false
+  xy: 831, 319
+  size: 81, 80
+  orig: 88, 94
+  offset: 2, 2
+  index: -1
+vfx_ingame_icon_collect_02
+  rotate: true
+  xy: 465, 289
+  size: 81, 80
+  orig: 88, 94
+  offset: 1, 0
+  index: -1
+vfx_ingame_icon_collect_03
+  rotate: false
+  xy: 830, 400
+  size: 82, 82
+  orig: 88, 94
+  offset: 3, 4
+  index: -1
+vfx_ingame_icon_collect_04
+  rotate: false
+  xy: 465, 207
+  size: 81, 81
+  orig: 88, 94
+  offset: 6, 11
+  index: -1
+vfx_ingame_icon_collect_05
+  rotate: true
+  xy: 387, 54
+  size: 79, 77
+  orig: 88, 94
+  offset: 9, 16
+  index: -1
+vfx_ingame_icon_collect_06
+  rotate: false
+  xy: 822, 243
+  size: 73, 75
+  orig: 88, 94
+  offset: 12, 17
+  index: -1
+vfx_ingame_icon_collect_07
+  rotate: true
+  xy: 292, 383
+  size: 49, 71
+  orig: 88, 94
+  offset: 24, 19
+  index: -1
+vfx_ingame_icon_collect_09
+  rotate: true
+  xy: 924, 104
+  size: 55, 56
+  orig: 88, 94
+  offset: 18, 24
+  index: -1
+vfx_ingame_icon_collect_10
+  rotate: false
+  xy: 444, 318
+  size: 20, 38
+  orig: 88, 94
+  offset: 33, 30
+  index: -1
+vfx_ingame_icon_collect_11
+  rotate: true
+  xy: 401, 593
+  size: 3, 10
+  orig: 88, 94
+  offset: 39, 41
+  index: -1
+vfx_ingame_icon_hit_00
+  rotate: false
+  xy: 299, 296
+  size: 81, 86
+  orig: 95, 102
+  offset: 14, 16
+  index: -1
+vfx_ingame_icon_hit_01
+  rotate: true
+  xy: 938, 620
+  size: 86, 83
+  orig: 95, 102
+  offset: 9, 11
+  index: -1
+vfx_ingame_icon_hit_02
+  rotate: false
+  xy: 924, 537
+  size: 90, 82
+  orig: 95, 102
+  offset: 5, 6
+  index: -1
+vfx_ingame_icon_hit_03
+  rotate: true
+  xy: 857, 729
+  size: 92, 80
+  orig: 95, 102
+  offset: 3, 3
+  index: -1
+vfx_ingame_icon_hit_04
+  rotate: true
+  xy: 782, 483
+  size: 93, 79
+  orig: 95, 102
+  offset: 2, 1
+  index: -1
+vfx_ingame_icon_hit_05
+  rotate: false
+  xy: 924, 458
+  size: 91, 78
+  orig: 95, 102
+  offset: 4, 1
+  index: -1
+vfx_ingame_icon_hit_06
+  rotate: true
+  xy: 292, 433
+  size: 90, 79
+  orig: 95, 102
+  offset: 5, 1
+  index: -1
+vfx_ingame_icon_hit_07
+  rotate: false
+  xy: 938, 707
+  size: 85, 79
+  orig: 95, 102
+  offset: 8, 4
+  index: -1
+vfx_ingame_icon_hit_08
+  rotate: false
+  xy: 662, 243
+  size: 79, 76
+  orig: 95, 102
+  offset: 12, 9
+  index: -1
+vfx_ingame_icon_hit_09
+  rotate: false
+  xy: 742, 241
+  size: 79, 77
+  orig: 95, 102
+  offset: 10, 7
+  index: -1
+vfx_ingame_icon_hit_10
+  rotate: false
+  xy: 383, 134
+  size: 81, 79
+  orig: 95, 103
+  offset: 9, 6
+  index: -1
+vfx_ingame_icon_light_12
+  rotate: true
+  xy: 896, 230
+  size: 63, 74
+  orig: 86, 84
+  offset: 11, 6
+  index: -1
+vfx_ingame_icon_light_13
+  rotate: false
+  xy: 547, 175
+  size: 73, 75
+  orig: 86, 84
+  offset: 11, 5
+  index: -1
+vfx_ingame_icon_light_14
+  rotate: false
+  xy: 306, 1
+  size: 80, 77
+  orig: 86, 84
+  offset: 4, 3
+  index: -1
+vfx_ingame_icon_light_15
+  rotate: false
+  xy: 224, 1
+  size: 81, 77
+  orig: 86, 84
+  offset: 3, 3
+  index: -1
+vfx_ingame_icon_light_16
+  rotate: true
+  xy: 304, 212
+  size: 83, 78
+  orig: 86, 84
+  offset: 3, 2
+  index: -1
+vfx_ingame_icon_light_17
+  rotate: true
+  xy: 372, 441
+  size: 83, 79
+  orig: 86, 84
+  offset: 3, 2
+  index: -1
+vfx_ingame_icon_light_18
+  rotate: false
+  xy: 581, 410
+  size: 83, 79
+  orig: 86, 84
+  offset: 3, 2
+  index: -1
+vfx_ingame_icon_light_19
+  rotate: false
+  xy: 665, 400
+  size: 83, 79
+  orig: 86, 84
+  offset: 3, 2
+  index: -1
+vfx_ingame_icon_light_20
+  rotate: false
+  xy: 665, 320
+  size: 82, 79
+  orig: 86, 84
+  offset: 3, 2
+  index: -1
+vfx_ingame_icon_light_21
+  rotate: false
+  xy: 465, 127
+  size: 81, 79
+  orig: 86, 84
+  offset: 3, 2
+  index: -1
+vfx_ingame_icon_light_22
+  rotate: false
+  xy: 748, 319
+  size: 82, 80
+  orig: 86, 84
+  offset: 2, 1
+  index: -1
+vfx_ingame_icon_light_23
+  rotate: false
+  xy: 463, 371
+  size: 82, 81
+  orig: 86, 84
+  offset: 2, 0
+  index: -1
+vfx_ingame_icon_light_24
+  rotate: false
+  xy: 913, 294
+  size: 82, 81
+  orig: 86, 84
+  offset: 2, 0
+  index: -1
+vfx_ingame_icon_light_25
+  rotate: false
+  xy: 913, 376
+  size: 83, 81
+  orig: 86, 84
+  offset: 1, 0
+  index: -1
+vfx_ingame_icon_light_26
+  rotate: true
+  xy: 381, 357
+  size: 83, 81
+  orig: 86, 84
+  offset: 1, 0
+  index: -1
+vfx_ingame_icon_light_27
+  rotate: true
+  xy: 383, 214
+  size: 83, 81
+  orig: 86, 84
+  offset: 1, 0
+  index: -1
+vfx_ingame_icon_light_28
+  rotate: false
+  xy: 581, 330
+  size: 83, 79
+  orig: 86, 84
+  offset: 1, 2
+  index: -1
+vfx_ingame_icon_light_29
+  rotate: false
+  xy: 465, 47
+  size: 81, 79
+  orig: 86, 84
+  offset: 2, 2
+  index: -1
+vfx_ingame_icon_light_30
+  rotate: false
+  xy: 581, 251
+  size: 80, 78
+  orig: 86, 84
+  offset: 2, 3
+  index: -1
+vfx_ingame_icon_light_31
+  rotate: true
+  xy: 621, 186
+  size: 64, 38
+  orig: 86, 84
+  offset: 15, 43
+  index: -1
+vfx_ingame_icon_light_32
+  rotate: true
+  xy: 687, 110
+  size: 62, 35
+  orig: 86, 84
+  offset: 16, 45
+  index: -1
+vfx_ingame_icon_light_33
+  rotate: true
+  xy: 546, 392
+  size: 60, 34
+  orig: 86, 84
+  offset: 16, 46
+  index: -1
+vfx_ingame_icon_light_34
+  rotate: true
+  xy: 547, 271
+  size: 50, 33
+  orig: 86, 84
+  offset: 17, 47
+  index: -1
+vfx_ingame_icon_light_35
+  rotate: true
+  xy: 30, 1
+  size: 23, 28
+  orig: 86, 84
+  offset: 18, 49
+  index: -1
+vfx_ingame_icon_light_36
+  rotate: false
+  xy: 899, 826
+  size: 20, 27
+  orig: 86, 84
+  offset: 18, 49
+  index: -1
+vfx_ingame_icon_light_37
+  rotate: true
+  xy: 971, 275
+  size: 18, 24
+  orig: 86, 84
+  offset: 20, 52
+  index: -1
+vfx_ingame_special_circle_06
+  rotate: false
+  xy: 725, 691
+  size: 131, 130
+  orig: 131, 130
+  offset: 0, 0
+  index: -1
+vfx_ingame_special_circle_2_09
+  rotate: true
+  xy: 118, 16
+  size: 102, 105
+  orig: 102, 105
+  offset: 0, 0
+  index: -1
+
+vfx_ingame_main_icon2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+collect_light_27
+  rotate: false
+  xy: 38, 1
+  size: 35, 36
+  orig: 37, 39
+  offset: 1, 2
+  index: -1
+collect_light_28
+  rotate: false
+  xy: 111, 2
+  size: 35, 36
+  orig: 37, 39
+  offset: 1, 2
+  index: -1
+collect_light_29
+  rotate: false
+  xy: 1, 1
+  size: 36, 36
+  orig: 37, 39
+  offset: 1, 2
+  index: -1
+collect_light_30
+  rotate: false
+  xy: 74, 2
+  size: 36, 36
+  orig: 37, 39
+  offset: 1, 2
+  index: -1
+collect_light_31
+  rotate: false
+  xy: 147, 3
+  size: 36, 36
+  orig: 37, 39
+  offset: 1, 2
+  index: -1
+collect_light_32
+  rotate: false
+  xy: 184, 3
+  size: 36, 36
+  orig: 37, 39
+  offset: 1, 2
+  index: -1
+collect_light_33
+  rotate: false
+  xy: 221, 4
+  size: 36, 36
+  orig: 37, 39
+  offset: 1, 2
+  index: -1
+collect_light_34
+  rotate: false
+  xy: 258, 4
+  size: 36, 36
+  orig: 37, 39
+  offset: 1, 2
+  index: -1
+collect_light_35
+  rotate: false
+  xy: 295, 4
+  size: 36, 36
+  orig: 37, 39
+  offset: 1, 2
+  index: -1
+collect_light_36
+  rotate: false
+  xy: 332, 4
+  size: 36, 36
+  orig: 37, 39
+  offset: 1, 2
+  index: -1
+collect_light_37
+  rotate: false
+  xy: 369, 6
+  size: 36, 35
+  orig: 37, 39
+  offset: 1, 3
+  index: -1
+collect_light_38
+  rotate: false
+  xy: 406, 6
+  size: 35, 35
+  orig: 37, 39
+  offset: 1, 3
+  index: -1
+collect_light_39
+  rotate: false
+  xy: 442, 13
+  size: 35, 35
+  orig: 37, 39
+  offset: 1, 3
+  index: -1
+collect_light_42
+  rotate: false
+  xy: 478, 14
+  size: 32, 34
+  orig: 37, 39
+  offset: 3, 4
+  index: -1
+vfx_ingame_collect_beck_30
+  rotate: false
+  xy: 71, 39
+  size: 69, 70
+  orig: 69, 73
+  offset: 0, 3
+  index: -1
+vfx_ingame_collect_beck_31
+  rotate: false
+  xy: 1, 182
+  size: 69, 71
+  orig: 69, 73
+  offset: 0, 2
+  index: -1
+vfx_ingame_collect_beck_32
+  rotate: false
+  xy: 1, 110
+  size: 69, 71
+  orig: 69, 73
+  offset: 0, 2
+  index: -1
+vfx_ingame_collect_beck_36
+  rotate: false
+  xy: 71, 182
+  size: 69, 71
+  orig: 69, 73
+  offset: 0, 2
+  index: -1
+vfx_ingame_collect_beck_37
+  rotate: false
+  xy: 141, 111
+  size: 69, 70
+  orig: 69, 73
+  offset: 0, 3
+  index: -1
+vfx_ingame_collect_beck_38
+  rotate: false
+  xy: 421, 115
+  size: 69, 67
+  orig: 69, 73
+  offset: 0, 6
+  index: -1
+vfx_ingame_collect_beck_39
+  rotate: false
+  xy: 351, 42
+  size: 69, 69
+  orig: 69, 73
+  offset: 0, 4
+  index: -1
+vfx_ingame_collect_beck_40
+  rotate: false
+  xy: 211, 183
+  size: 69, 70
+  orig: 69, 73
+  offset: 0, 3
+  index: -1
+vfx_ingame_collect_beck_41
+  rotate: false
+  xy: 141, 40
+  size: 69, 70
+  orig: 69, 73
+  offset: 0, 3
+  index: -1
+vfx_ingame_collect_beck_42
+  rotate: false
+  xy: 211, 112
+  size: 69, 70
+  orig: 69, 73
+  offset: 0, 3
+  index: -1
+vfx_ingame_collect_beck_44
+  rotate: false
+  xy: 1, 38
+  size: 69, 71
+  orig: 69, 73
+  offset: 0, 2
+  index: -1
+vfx_ingame_collect_beck_46
+  rotate: false
+  xy: 71, 110
+  size: 69, 71
+  orig: 69, 73
+  offset: 0, 2
+  index: -1
+vfx_ingame_collect_beck_47
+  rotate: false
+  xy: 281, 183
+  size: 69, 70
+  orig: 69, 73
+  offset: 0, 3
+  index: -1
+vfx_ingame_collect_beck_48
+  rotate: false
+  xy: 211, 41
+  size: 69, 70
+  orig: 69, 73
+  offset: 0, 3
+  index: -1
+vfx_ingame_collect_beck_49
+  rotate: false
+  xy: 281, 112
+  size: 69, 70
+  orig: 69, 73
+  offset: 0, 3
+  index: -1
+vfx_ingame_collect_beck_50
+  rotate: false
+  xy: 351, 183
+  size: 69, 70
+  orig: 69, 73
+  offset: 0, 3
+  index: -1
+vfx_ingame_collect_beck_51
+  rotate: false
+  xy: 281, 41
+  size: 69, 70
+  orig: 69, 73
+  offset: 0, 3
+  index: -1
+vfx_ingame_collect_beck_52
+  rotate: false
+  xy: 351, 112
+  size: 69, 70
+  orig: 69, 73
+  offset: 0, 3
+  index: -1
+vfx_ingame_collect_beck_53
+  rotate: false
+  xy: 421, 183
+  size: 69, 70
+  orig: 69, 73
+  offset: 0, 3
+  index: -1
+vfx_ingame_collect_beck_54
+  rotate: false
+  xy: 141, 182
+  size: 69, 71
+  orig: 69, 73
+  offset: 0, 2
+  index: -1
+vfx_ingame_icon_collect_08
+  rotate: false
+  xy: 421, 49
+  size: 66, 65
+  orig: 88, 94
+  offset: 14, 22
+  index: -1

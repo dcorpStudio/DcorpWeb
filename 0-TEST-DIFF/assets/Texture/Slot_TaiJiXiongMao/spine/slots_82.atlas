@@ -1,0 +1,90 @@
+
+slots_82.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 121
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 17
+  size: 95, 102
+  orig: 95, 102
+  offset: 0, 0
+  index: -1
+ke01
+  rotate: true
+  xy: 99, 31
+  size: 88, 80
+  orig: 88, 80
+  offset: 0, 0
+  index: -1
+ke02
+  rotate: false
+  xy: 134, 153
+  size: 82, 99
+  orig: 82, 99
+  offset: 0, 0
+  index: -1
+slots
+  rotate: false
+  xy: 181, 96
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+yanjingL01
+  rotate: false
+  xy: 181, 74
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+yanjingL02
+  rotate: false
+  xy: 218, 178
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+yanjingL03
+  rotate: false
+  xy: 99, 19
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+yanjingR01
+  rotate: false
+  xy: 134, 128
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+yanjingR02
+  rotate: false
+  xy: 2, 2
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+yanjingR03
+  rotate: false
+  xy: 160, 140
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: true
+  xy: 218, 193
+  size: 59, 28
+  orig: 59, 28
+  offset: 0, 0
+  index: -1

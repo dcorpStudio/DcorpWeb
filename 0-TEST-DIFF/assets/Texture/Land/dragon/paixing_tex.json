@@ -1,0 +1,116 @@
+{
+    "SubTexture": [{
+        "width": 298,
+        "y": 153,
+        "height": 29,
+        "name": "未标题-1",
+        "x": 1
+    },
+    {
+        "width": 242,
+        "y": 1,
+        "height": 150,
+        "name": "图层-716",
+        "x": 1
+    },
+    {
+        "width": 1,
+        "y": 251,
+        "height": 1,
+        "name": "图层-555",
+        "x": 10
+    },
+    {
+        "width": 86,
+        "y": 1,
+        "height": 86,
+        "name": "图层-1",
+        "x": 245
+    },
+    {
+        "width": 127,
+        "y": 184,
+        "height": 62,
+        "name": "顺子",
+        "x": 130
+    },
+    {
+        "width": 127,
+        "y": 184,
+        "height": 62,
+        "name": "连对",
+        "x": 1
+    },
+    {
+        "width": 1,
+        "y": 248,
+        "height": 1,
+        "name": "15",
+        "x": 7
+    },
+    {
+        "width": 1,
+        "y": 251,
+        "height": 1,
+        "name": "22",
+        "x": 1
+    },
+    {
+        "width": 1,
+        "y": 248,
+        "height": 1,
+        "name": "21",
+        "x": 1
+    },
+    {
+        "width": 1,
+        "y": 251,
+        "height": 1,
+        "name": "25",
+        "x": 4
+    },
+    {
+        "width": 1,
+        "y": 254,
+        "height": 1,
+        "name": "5",
+        "x": 4
+    },
+    {
+        "width": 1,
+        "y": 248,
+        "height": 1,
+        "name": "24",
+        "x": 4
+    },
+    {
+        "width": 1,
+        "y": 248,
+        "height": 1,
+        "name": "20",
+        "x": 10
+    },
+    {
+        "width": 1,
+        "y": 251,
+        "height": 1,
+        "name": "18",
+        "x": 7
+    },
+    {
+        "width": 1,
+        "y": 254,
+        "height": 1,
+        "name": "19",
+        "x": 7
+    },
+    {
+        "width": 1,
+        "y": 254,
+        "height": 1,
+        "name": "23",
+        "x": 1
+    }],
+    "imagePath": "paixing_tex.png",
+    "name": "paixing"
+}

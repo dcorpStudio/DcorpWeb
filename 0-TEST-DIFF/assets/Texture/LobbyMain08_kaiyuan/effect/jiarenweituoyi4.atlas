@@ -1,0 +1,125 @@
+
+jiarenweituoyi4.png
+size: 1030,1030
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sfy01
+  rotate: false
+  xy: 566, 100
+  size: 20, 67
+  orig: 20, 67
+  offset: 0, 0
+  index: -1
+sfy02
+  rotate: false
+  xy: 0, 147
+  size: 342, 163
+  orig: 342, 163
+  offset: 0, 0
+  index: -1
+sfy03
+  rotate: false
+  xy: 879, 126
+  size: 105, 181
+  orig: 105, 181
+  offset: 0, 0
+  index: -1
+sfy04
+  rotate: false
+  xy: 795, 83
+  size: 84, 206
+  orig: 84, 206
+  offset: 0, 0
+  index: -1
+sfy05
+  rotate: false
+  xy: 623, 442
+  size: 256, 189
+  orig: 256, 189
+  offset: 0, 0
+  index: -1
+sfy06
+  rotate: false
+  xy: 243, 95
+  size: 84, 52
+  orig: 84, 52
+  offset: 0, 0
+  index: -1
+sfy07
+  rotate: false
+  xy: 879, 419
+  size: 121, 212
+  orig: 121, 212
+  offset: 0, 0
+  index: -1
+sfy08
+  rotate: true
+  xy: 879, 23
+  size: 103, 117
+  orig: 103, 117
+  offset: 0, 0
+  index: -1
+sfy09
+  rotate: false
+  xy: 589, 85
+  size: 206, 204
+  orig: 206, 204
+  offset: 0, 0
+  index: -1
+sfy10
+  rotate: false
+  xy: 1000, 566
+  size: 17, 65
+  orig: 17, 65
+  offset: 0, 0
+  index: -1
+sfy11
+  rotate: true
+  xy: 342, 167
+  size: 143, 247
+  orig: 143, 247
+  offset: 0, 0
+  index: -1
+sfy12
+  rotate: false
+  xy: 853, 307
+  size: 168, 112
+  orig: 168, 112
+  offset: 0, 0
+  index: -1
+sfy13
+  rotate: false
+  xy: 623, 289
+  size: 230, 153
+  orig: 230, 153
+  offset: 0, 0
+  index: -1
+sfy14
+  rotate: false
+  xy: 342, 70
+  size: 224, 97
+  orig: 224, 97
+  offset: 0, 0
+  index: -1
+sfy15
+  rotate: false
+  xy: 0, 310
+  size: 623, 720
+  orig: 623, 720
+  offset: 0, 0
+  index: -1
+sfy16
+  rotate: false
+  xy: 623, 631
+  size: 406, 399
+  orig: 406, 399
+  offset: 0, 0
+  index: -1
+sfy17
+  rotate: true
+  xy: 0, 0
+  size: 147, 243
+  orig: 147, 243
+  offset: 0, 0
+  index: -1

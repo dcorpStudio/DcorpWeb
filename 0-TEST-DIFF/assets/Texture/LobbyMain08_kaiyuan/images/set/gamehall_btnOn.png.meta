@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "b49ca2a8-79b6-4193-a510-18dcc5e41ccb",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 151,
+  "height": 52,
+  "platformSettings": {},
+  "subMetas": {
+    "gamehall_btnOn": {
+      "ver": "1.0.6",
+      "uuid": "e390158b-8650-4b69-a86c-8c5585502df9",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "b49ca2a8-79b6-4193-a510-18dcc5e41ccb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 151,
+      "height": 52,
+      "rawWidth": 151,
+      "rawHeight": 52,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

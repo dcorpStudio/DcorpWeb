@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "afd27748-f2ba-4d8b-a95c-9e7e9c644a99",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 408,
+  "height": 54,
+  "platformSettings": {},
+  "subMetas": {
+    "playingbunchboomways_1136": {
+      "ver": "1.0.6",
+      "uuid": "9ba3dcc5-4522-4536-adb2-e1328b273e60",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "afd27748-f2ba-4d8b-a95c-9e7e9c644a99",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 2,
+      "width": 408,
+      "height": 51,
+      "rawWidth": 408,
+      "rawHeight": 54,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

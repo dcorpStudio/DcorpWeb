@@ -1,0 +1,27 @@
+
+jd_tx_jiqiren.png
+size: 209,227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye1
+  rotate: true
+  xy: 168, 153
+  size: 73, 40
+  orig: 73, 40
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 168, 78
+  size: 73, 40
+  orig: 73, 40
+  offset: 0, 0
+  index: -1
+jiqiren
+  rotate: true
+  xy: 1, 1
+  size: 225, 165
+  orig: 225, 165
+  offset: 0, 0
+  index: -1
