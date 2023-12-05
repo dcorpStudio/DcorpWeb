@@ -1,0 +1,26 @@
+
+.menu_editor { margin-bottom:40px; padding-left:20px; }
+.menu_editor li { padding:16px 0px 0px 40px; display:block; float:left; width:100%; position:relative; z-index:1; }
+.menu_editor a { color:#fff; zoom:1; }
+.menu_editor a:hover { color:#fc0; }
+.menu_editor i { width:9px; height:9px; background:url(Menu_Editor/minus.gif) no-repeat; position:absolute; left:24px; top:19px; cursor:pointer; }
+
+.menu_editor_a_faded a { filter:alpha(opacity=50); } /* for IE7 only */
+.menu_editor_a_faded li { filter:alpha(opacity=50); } /* for IE8 only */
+
+/* expand collapse icon */
+i.menu_editor_plus { background:url(Menu_Editor/plus.gif) no-repeat; }
+
+
+/* The floating form */
+#menu_editor_bar { position:absolute; z-index:200; border:1px solid #333; height:22px; width:428px; display:none; background:#eee; overflow:hidden; }
+#menu_editor_bar form { width:500px; }
+#menu_editor_bar form a{ display:block; float:left; height:22px; width:28px; background-repeat:no-repeat; background-position:center center; }
+#menu_editor_bar form input { width:168px; height:22px; line-height:22px; border:0px; background:#fff; display:block; float:left; border-right:1px solid #666; color:#000; }
+#menu_editor_bar form b { background:url(IMG/ButBG.jpg); display:block; float:left; height:22px; width:57px; line-height:22px;
+						text-align:center; cursor:pointer; border-left:1px solid #666; font-size:11px; color:#000; }
+#menu_editor_bar form b:hover { background:url(IMG/ButBG_On.jpg); }
+
+
+.menu_editor_root { display:block; font-size:13px; width:26px; font-weight:bold; color:#fff; padding:0px 20px 0px 20px; position:relative; }
+.menu_editor_root b {cursor:pointer; background:url(Menu_Editor/Add.gif) no-repeat; position:absolute; right:0px; top:0px; display:block; width:20px; height:20px;}

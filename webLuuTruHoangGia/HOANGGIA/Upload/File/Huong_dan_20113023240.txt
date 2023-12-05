@@ -1,0 +1,36 @@
+
+Day la` bo cong cu dung` de chuyen toan` bo cau' truc table + Data tu` CSDL MSAccess sang CSDL MSSQL 2000.
+
+
+(Transfer du~ lieu chinh xac den tung` ID cua cac Record de dam bao su chinh xac trong cac Table chua cau truc)
+
+Cach dung` :  
+
+
+1.  Config cac connection trong 3 file  :   DB_Empty.asp /  DB_Trans.asp  /  DB_Fill.asp
+2.  Run file  "DB_Empty.asp"  de xoa sach du~ lieu trong MSSQL
+3.  Run file  "DB_Trans.asp"  de chuyen het cau truc table cua  MSAccess sang.
+4.  Run file  "DB_Fill.asp"  de chuyen he du~ lieu. tu` MSAccess sang
+
+
+OK.
+
+
+********Chu y : 
+
+1.  Bo cong cu nay ko the chuyen duoc cac  Relation hay cac Constraint, tru` Constraint identity & Primary key cua ID
+
+2. Mac dinh, neu' Field Name la` ID thi` se duoc gan' cho :    int identity(1,1) primarykey
+
+3. Mac dinh, neu kieu du lieu la` DateTime thi` se~ gan' cho default value la` GetDate()
+
+
+********Chu y :
+
+1.  Khi tao CSDL MSAccess :  ko duoc phep tao cac field, cac Table co' ten la` "User" , "Pass" , "version" "order" .....Neu' ko se~ phai sua rat met vi` day la` cac' tu` khoa' cua MSSQL
+
+
+2.  Khi hien thi 1 truong` co the se la "Ntext"  thi` ko duoc phep' dun`g tu`k hoa tim` kiem' nhu "like"  hoac so sanh nhu  :
+
+if  noi_dung<>''
+

@@ -1,0 +1,75 @@
+
+
+
+/*==========================JFORM & DBOM_FORM CSS======================================*/
+.success_msg, .failed_msg { display:none; font-size:13px; color:#fc0; font-weight:bold; margin:10px 0px 20px 0px; }
+.formErr { color:#fc0; display:none; }
+
+.JForm { width:600px; margin-left:30px; display:block; }
+.JForm b { display:block; float:left; width:100px; margin-bottom:10px; }	/*intro text*/
+.JForm input, .JForm textarea { display:block; float:left; width:400px;  margin-bottom:10px; }
+.JForm textarea { height:180px; overflow:auto; }
+.JForm a { float:right; margin-right:10px; }	/*submit & reset button*/
+.JForm i { display:block; float:left; width:420px; padding-left:100px; }	/*error messgae*/
+
+
+
+
+
+
+/* PASSBOX */
+.passbox u,.passbox input{ display:block; float:left; margin:3px; margin-left:0px; }
+.passbox u{ width:100px; text-decoration:none; font-style:italic; }
+.passbox input{ width:300px; }
+
+
+/* HTML BOX  */
+div.htmlbox { text-align:center; margin-bottom:10px; margin-top:10px; clear:both; }
+div.htmlbox div a{display:block; float:left; width:27px; height:27px; text-align:center; position:relative; margin:0px; padding:0px; }
+div.htmlbox div a:hover { background:url(Control_IMG/bg.gif); }
+div.htmlbox div a.unlink { margin-right:50px; }
+
+div.htmlbox div a img{ position:relative; top:3px; }
+
+div.htmlbox div select { display:block; float:left; background:#fff; position:relative; top:3px; margin:0px 2px 0px 2px; color:#222; }
+
+
+div.htmlbox iframe { background:#222; border:1px solid #ccc; width:99%; margin-bottom:1px; color:#fff; }
+div.JColor_Palette span a, div.JColor_Palette div a{ display:block;float:left;border-top:1px solid #fff;border-left:1px solid #fff; font-size:0px; margin:0px; }
+
+
+/* FILEBOX  */
+div.filebox { width:300px; }
+div.filebox span { width:65px; height:20px; text-align:center; line-height:18px; margin:0px; font-size:10px; font-weight:bold; color:#000;
+					border:1px solid #ccc; float:left; cursor:pointer; padding:0px; background:#eee; display:block; float:left; overflow:hidden; }
+div.filebox span font { font-size:16px; color:#c00; } /* the delete X sign */
+div.filebox img { width:115px; height:107px; float:left; margin:0px 15px 5px 0px; }
+div.filebox label { display:block; margin-bottom:10px; }
+div.filebox span form input { position:absolute; cursor:pointer; right:0px; top:0px; height:20px; width:195px; margin:0px; opacity:0; filter:alpha(opacity=0); }
+
+
+/* DBBOM FORM CSS */
+.DBOMForm { width:600px; margin-top:20px; margin-left:20px; display:block; }
+.DBOMForm b { display:block; float:left; width:100px; margin:0px; margin-bottom:10px;  }	/*intro text*/
+.DBOMForm input,.DBOMForm textarea,.DBOMForm select { display:block; float:left; width:380px;  margin-bottom:10px; margin-left:0px; }
+.DBOMForm textarea { height:240px; overflow:auto; }
+.DBOMForm a { float:right; margin-right:10px; }	/*submit & reset button*/
+.DBOMForm i { display:block; float:left; width:400px; display:none; }	/*error messgae*/
+.DBOMForm table td { *padding-bottom:10px; _padding-bottom:0px; }
+
+
+/* DBBOM FORM ALTERNATIVE CSS */
+div.DBOMForm1 { width:600px; margin-top:20px; margin-left:10px; display:block; }
+div.DBOMForm1 b { display:block; float:left; width:100px; margin-bottom:0px; }	/*intro text*/
+div.DBOMForm1 input, div.DBOMForm1 textarea, div.DBOMForm1 select { display:block; float:left; width:500px;  margin-bottom:10px; }
+div.DBOMForm1 textarea { height:240px; overflow:auto; }
+div.DBOMForm1 i { display:block; float:left; width:400px; display:none; }
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,86 @@
+<script language="VBSCRIPT" runat="server">
+
+	Public sub Application_OnStart
+		Application("Admin_Email") = "Coma6@Gmail.com"
+		'Application("Admin_CC_Email") = "DiaChiKhac@yahoo.com"
+
+		Application("Conn_Str")= "PROVIDER=MICROSOFT.JET.OLEDB.4.0;DATA SOURCE=" +Server.Mappath("/HOANGGIA/DB/DB.mdb")						'--MSACCESS
+		'Application("Conn_Str")= "Provider=SQLOLEDB;Data Provider=SQLOLEDB;Server=FIONA;Database=AGIANG;Uid=sa;Pwd=sa"		'--MSSQL 2000
+		'Application("Conn_Str")= 'Driver={SQL Native Client};Server=localhost;Database=DB_Name;Uid=User;Pwd=Pass;'						'--MSSQL 2005
+
+		'Application("Conn_Str")="Driver={SQL Native Client};Server=localhost;Database=agiang;Uid=dung;Pwd=motconvit;"
+
+		Application("Img_Path") =  "/HOANGGIA/Upload/Image"
+		Application("Upload_File_Path") =  "/HOANGGIA/Upload/File"
+
+		Application("Editor_Img_Path") = "/HOANGGIA/Lib/Editor"
+		Application("FileBox_Path") = "/HOANGGIA/Lib/FileBox"
+
+		Application("Menu_Editor_Path") = "/HOANGGIA/Lib/NMENU"
+		Application("NImage_Path") = "/HOANGGIA/Lib/NImage"
+		Application("PColor_Path") = "/HOANGGIA/Lib/PColor"
+
+		Application("FLV_Path") = "/HOANGGIA/Lib/Flash_Player"
+
+		'----Counter & Online
+		Set Conn = CreateObject("ADODB.Connection")
+		Conn.open Application("Conn_Str")
+		Application("visitor") = Conn.execute("Select top 1 visitor from [counter]").Fields(0).value
+		Conn.Close
+		Set Conn= nothing
+		Application("online") = 0
+		Application("IP_List")= chr(13)			'---List cac Ip da truy cap de tinh so ng` online
+												' Cau truc ID_List la`  chr(13) & IP & "*" & Time & chr(13)
+	End Sub
+
+
+	Public sub Session_OnStart
+		session.TimeOut = 20
+		Session("Cart") = ","
+		client_IP = Request.ServerVariables("HTTP_X_FORWARDED_FOR")
+		If client_IP="" Then client_IP = Request.ServerVariables("REMOTE_ADDR")  end if
+		new_Session = false
+
+		Set Re = new Regexp
+		Re.Global=true
+		Re.IgnoreCase=true
+		Re.Pattern = "\r(" & Client_IP & ")\*(.+?)\r"
+		Set A = Re.Execute(Application("IP_List"))
+
+		if  A.Count < 1 then
+			new_Session = true
+			Application("IP_List") = Application("IP_List") & Client_IP & "*" & Now() & chr(13)
+		else
+			T = CDate(A(0).SubMatches(1))
+			if DateDiff("n" , T , Now()) > 2 then
+				new_Session = true
+				Application("IP_List") = Replace( Application("IP_List") , A(0).value , chr(13) & Client_IP & "*" & Now() & chr(13) )
+			end if
+		end if
+
+		if new_Session then
+			Application.lock()
+			Application("visitor") = Application("visitor") + 1
+			Application("online") = Application("online") + 1
+			Application.unLock()
+
+			Set Conn = CreateObject("ADODB.Connection")
+			Conn.open Application("Conn_Str")
+			Conn.execute("Update [counter] set visitor=" & Application("visitor"))
+			Conn.Close
+			Set Conn=nothing
+		end if
+
+		Set A= nothing
+		Set Re = nothing
+	End sub
+
+	Public Sub Session_OnEnd
+		Application.lock()
+			if Application("online")>0 then
+				Application("online") = Application("online") - 1
+			end if
+		Application.unLock()
+	End Sub
+
+</script>

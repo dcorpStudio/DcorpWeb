@@ -1,0 +1,10 @@
+.paging_normal,.paging_focus,.paging_sep {
+	display:block; float:left; margin:0px 6px 0px 6px; padding:3px 9px 3px 9px;
+	font:12px Tahoma; color:#333; font-weight:bold; cursor:pointer;
+}
+
+.paging_normal { border:1px solid #999; }
+.paging_normal:hover { border:1px solid #ccc; background:#eee; }
+.paging_focus {  border:1px solid #800; color:#800;}
+.paging_focus:hover { border:1px solid #800; }
+.paging_sep {  }

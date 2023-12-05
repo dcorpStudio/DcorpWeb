@@ -1,0 +1,127 @@
+	/* THE MOST COMMONLY PROPERTIES */
+	p,div,body,span,li,ul, img,input,textarea,select,b,u,i,label,h1,h2,h3,h4,h5,h6,big{
+		border:0px; list-style:none;
+		margin:0px; padding:0px;
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:12px;
+		color:#000;
+		background:none;
+		*zoom:1;
+	}
+
+
+	td {
+		margin:0px; padding:0px;
+		font:12px Arial;
+	}
+
+	td {vertical-align:top;}
+	a {text-decoration:none;}
+	a img {border:0px;}
+	a:focus, a:visited, a:hover, a:active {border:0px; outline:none;}
+
+	/* this is replacement for table nuisance cellpadding=0 cellspaing=0*/
+	table { border-collapse: collapse; }
+	table td, table th { padding: 0px; }
+
+	/* ---remove dotted border around focus object (in FF & IE8) -- */
+    *::-moz-focus-inner { border : 0px; } 		/*for FireFox*/
+    *:focus{ outline : none; }					/*for IE8 */
+	fieldset {border:none; padding:0px; margin:0px;}
+
+	/* IE6 & IE7 stupid 1px margin at top * bottom of each input, the background is for IE7 unclickable(sometimes) if background is 'none' */
+	input {*margin:-1px 0px -1px 0px; *background:url('x'); }
+
+
+/*
+	img { vertical-align: bottom; }				/*---this will remove the space upon & below an image by default */
+*/
+	.img_middle { vertical-align:middle; }
+
+
+
+	/* This class is for clear a div container */
+	div.box:after {
+		content: ""; float:none; position:realtive;
+		display: block; height: 0px; clear: both; visibility: hidden;
+	}
+
+	/* The perfect div to be separator */
+	div.sep_ { font-size:0px; }
+
+	/* The div to be clear:both */
+	.clear_ {clear:both;}
+
+	/* These are for vertical alignment width content inside a div. For example : 
+		<div style="height:100px;">
+			<div class="valign_out"><div class="valign_middle"><div class="valign_in">
+				Content that need to be align middle in vertical
+			</div></div></div>
+		</div>
+		Note that we need to set the height for the container of all this div (in this example is 100px; */
+
+	.valign_out {display: table; #position: relative; overflow:hidden; height:100%; width:100%;}
+	.valign_middle {#position: absolute; #top: 50%; width:100%; display: table-cell; vertical-align: middle;}
+	.valign_in {#position: relative; #top: -50%; width:100%;}
+
+
+
+	/* set the width to 100% of the container's width */
+	.w100 {width:100%;}
+	.h100 {height:100%;}
+
+	/* some border class for fast border */
+		.border_red {border:1px solid #c00;}
+		.border_blue {border:1px solid #369;}
+
+
+	/* fast float method */
+		.left {float:left;}
+
+
+	/*some useful link color */
+		.white_link {color:#fff;}
+		.red_link {color:#c00;}
+		.blue_link {color:#369;}
+
+
+	/* fast format text */
+		.b_ {font-weight:bold;}
+		.u_ {text-decoration:underline;}
+		.i_ {font-style:italic;}
+
+
+	/*fast position */
+		.relative_ {position:relative;}
+		.abs_ {position:absolute;}
+		.hide_ {display:none;}
+		.inline_block_ { display:-moz-inline-stack; display:inline-block;  }
+		.inline_ {display:inline;}
+
+
+
+
+	/********************* Some common Style */
+
+		/* use this instead of real button (input type=button|submit|reset) cause the complication of devil IE */
+		.but {line-height:20px; text-align:center; background:#fff url('IMG/But_Bg.jpg') repeat-x;
+				font-family:Arial; padding:2px 10px 2px 10px; border:1px solid #ccc; cursor:pointer; }
+
+		/* the "display:block" object has strange padding size against normal object */
+		.block_but {line-height:20px; text-align:center; background:#fff url('IMG/But_Bg.jpg') repeat-x;
+					font-family:Arial; padding:0px 10px 0px 10px; border:1px solid #ccc; cursor:pointer;}
+
+	/********************/
+
+
+
+	/*=====================================================================*/
+	/*====The style defined espescially for this website===*/
+
+	/* the light-gray-border box*/
+		.gray_border {border:1px solid #EBEBEB;}
+
+	/*Tab_news*/
+	.tab_news_header { width:246px; height:26px; line-height:26px; text-align:center; }
+	.tab_news_header a {font-weight:bold; color:#fff;}
+
