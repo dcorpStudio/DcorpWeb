@@ -9,40 +9,46 @@ window.onload = function () {
 }
 
 function Slider(obj) {
+    var slider = this;
+    var i = 0;
 
     this.images = document.querySelectorAll(obj.images);
+    this.btnPrev = document.querySelector(obj.btnPrev);
+    this.btnNext = document.querySelector(obj.btnNext);
     this.auto = obj.auto;
-    this.btnPrev = obj.btnPrev;
-    this.btnNext = obj.btnNext;
     this.rate = obj.rate || 1000;
 
-    var i = 0;
-    var slider = this;
+
+    // count total project
+    var totalProjectNumber = 0;
+    for (var j = 0; j < this.images.length; j++)totalProjectNumber += this.images[j].children.length;
+    document.getElementById('total_project_number').innerText = '' + totalProjectNumber;
+
+    var updateUI = function () {
+        slider.btnPrev.style.display = (i < 1 ? 'none' : 'block');
+        slider.btnNext.style.display = (i > slider.images.length - 2 ? 'none' : 'block');
+
+        var lastCount = i * 5 + slider.images[i].children.length
+        document.getElementById('project_page_status').innerText = 'Showing ' + (i * 5 + 1) + ' to ' + lastCount;
+    }
 
     this.prev = function () {
-        slider.images[i].classList.remove('shown');
-        i--;
-
-        if (i < 0) {
-            i = slider.images.length - 1;
-        }
-
+        i = Math.max(0, i - 1);
+        updateUI();
+        slider.images[i + 1].classList.remove('shown');
         slider.images[i].classList.add('shown');
     }
 
     this.next = function () {
-        slider.images[i].classList.remove('shown');
-        i++;
-
-        if (i >= slider.images.length) {
-            i = 0;
-        }
-
+        i = Math.min(slider.images.length - 1, i + 1);
+        updateUI();
+        slider.images[i - 1].classList.remove('shown');
         slider.images[i].classList.add('shown');
     }
 
-    document.querySelector(slider.btnPrev).onclick = slider.prev;
-    document.querySelector(slider.btnNext).onclick = slider.next;
+    this.btnPrev.onclick = this.prev;
+    this.btnNext.onclick = this.next;
+    updateUI();
 
     if (slider.auto) {
         setInterval(slider.next, slider.rate);
