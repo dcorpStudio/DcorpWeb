@@ -1,17 +1,9 @@
 window.onload = function () {
-
-    var slider1 = new Slider({
-        images: '.slider-1 img',
-        btnPrev: '.slider-1 .buttons .prev',
-        btnNext: '.slider-1 .buttons .next',
-        auto: false
-    });
-
     var slider2 = new Slider({
-        images: '.slider-2 img',
+        images: '.slider-2 div.sliderContent',
         btnPrev: '.slider-2 .buttons .prev',
         btnNext: '.slider-2 .buttons .next',
-        auto: true,
+        // auto: true,
         rate: 2000
     });
 }
