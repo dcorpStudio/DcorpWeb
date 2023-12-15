@@ -7,7 +7,7 @@ window.onload = function () {
             btnPrev: '.slider-2 .buttons .prev',
             btnNext: '.slider-2 .buttons .next',
             // auto: true,
-            rate: 2000
+            // rate: 2000
         },
         function (firstCount, lastCount, totalItemCount) {
             document.getElementById('total_project_number').innerText = '' + totalItemCount;
@@ -16,8 +16,41 @@ window.onload = function () {
     );
 
     // singleProject image auto fade slider
-
+    var projectImgContainerArr = document.querySelectorAll('.flashingImgContainer');
+    for (var k = 0; k < projectImgContainerArr.length; k++) {
+        var x = new AutoImageFlashing(projectImgContainerArr[k].children, 4000);
+    }
 }
+
+
+
+function AutoImageFlashing(imgArr, rate) {
+    var randomDelay = Math.random() * (rate || 1000);
+    if (imgArr.length == 1) return console.log('imgArr.length = ' + imgArr.length);
+    var i = 0;
+
+    var show = function (index) {
+        imgArr[index].classList.add('imgFlashingShow');
+    }
+
+    var hide = function (index) {
+        imgArr[index].classList.remove('imgFlashingShow');
+    }
+
+    var next = function () {
+        hide(i);
+        i++;
+        if (i >= imgArr.length) { i = 0; }
+        show(i);
+    }
+
+    for (var j = 0; j < imgArr.length; j++) { hide(j); }
+    show(0);
+    setTimeout(function () {
+        setInterval(next, rate || 1000);
+    }, randomDelay)
+};
+
 
 
 function Slider(obj, onSlideCallback = null) {
@@ -40,8 +73,8 @@ function Slider(obj, onSlideCallback = null) {
     }
 
     var updateUI = function () {
-        slider.btnPrev.style.display = (i < 1 ? 'none' : 'block');
-        slider.btnNext.style.display = (i > slider.images.length - 2 ? 'none' : 'block');
+        if (slider.btnPrev) slider.btnPrev.style.display = (i < 1 ? 'none' : 'block');
+        if (slider.btnNext) slider.btnNext.style.display = (i > slider.images.length - 2 ? 'none' : 'block');
 
         if (onSlideCallback) {
             var firstCount = (i * sldierContentCount + 1);
@@ -64,8 +97,8 @@ function Slider(obj, onSlideCallback = null) {
         slider.images[i].classList.add('shown');
     }
 
-    this.btnPrev.onclick = this.prev;
-    this.btnNext.onclick = this.next;
+    if (this.btnPrev) this.btnPrev.onclick = this.prev;
+    if (this.btnNext) this.btnNext.onclick = this.next;
     updateUI();
 
     if (slider.auto) {

@@ -2147,6 +2147,31 @@ section:last-child,
 
 
 
+/* autoImageFlashing  ------------------------------------------------------------------------ */
+
+.flashingImgContainer {
+	position: relative !important;
+	aspect-ratio: 1;
+}
+
+.flashingImgContainer img {
+	position: absolute !important;
+	left: 0 !important;
+	transition: opacity 0.5s;
+	opacity: 0;
+	/* width: 200px !important;
+	height: 200px !important; */
+	/* border: 2px solid #ED391B; */
+}
+
+.imgFlashingShow {
+	opacity: 1 !important;
+}
+
+/* autoImageFlashing ------------------------------------------------------------------------ */
+
+
+
 /* sliders ------------------------------------------------------------------------ */
 
 .slider {
