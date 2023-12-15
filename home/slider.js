@@ -1,14 +1,28 @@
+
 window.onload = function () {
-    var slider2 = new Slider({
-        images: '.slider-2 div.sliderContent',
-        btnPrev: '.slider-2 .buttons .prev',
-        btnNext: '.slider-2 .buttons .next',
-        // auto: true,
-        rate: 2000
-    });
+    // projectSlider
+    var projectSlider = new Slider(
+        {
+            images: '.slider-2 div.sliderContent',
+            btnPrev: '.slider-2 .buttons .prev',
+            btnNext: '.slider-2 .buttons .next',
+            // auto: true,
+            rate: 2000
+        },
+        function (firstCount, lastCount, totalItemCount) {
+            document.getElementById('total_project_number').innerText = '' + totalItemCount;
+            document.getElementById('project_page_status').innerText = 'Showing ' + firstCount + ' to ' + lastCount;
+        }
+    );
+
+    // singleProject image auto fade slider
+
 }
 
-function Slider(obj) {
+
+function Slider(obj, onSlideCallback = null) {
+    var sldierContentCount = 5;
+
     var slider = this;
     var i = 0;
 
@@ -20,16 +34,20 @@ function Slider(obj) {
 
 
     // count total project
-    var totalProjectNumber = 0;
-    for (var j = 0; j < this.images.length; j++)totalProjectNumber += this.images[j].children.length;
-    document.getElementById('total_project_number').innerText = '' + totalProjectNumber;
+    var totalItemCount = 0;
+    for (var j = 0; j < this.images.length; j++) {
+        totalItemCount += this.images[j].children.length;
+    }
 
     var updateUI = function () {
         slider.btnPrev.style.display = (i < 1 ? 'none' : 'block');
         slider.btnNext.style.display = (i > slider.images.length - 2 ? 'none' : 'block');
 
-        var lastCount = i * 5 + slider.images[i].children.length
-        document.getElementById('project_page_status').innerText = 'Showing ' + (i * 5 + 1) + ' to ' + lastCount;
+        if (onSlideCallback) {
+            var firstCount = (i * sldierContentCount + 1);
+            var lastCount = i * sldierContentCount + slider.images[i].children.length
+            onSlideCallback(firstCount, lastCount, totalItemCount)
+        }
     }
 
     this.prev = function () {
