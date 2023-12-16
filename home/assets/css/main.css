@@ -2193,7 +2193,7 @@ section:last-child,
 }
 
 .sliderContainerFull {
-	height: 1020px !important;
+	height: 1670px !important;
 	margin-bottom: 0 !important;
 }
 
@@ -2215,6 +2215,7 @@ div.sliderColumn {
 	width: 18.3% !important;
 	margin: 0.5%;
 	display: inline-block;
+	vertical-align: top !important;
 }
 
 div.sliderContent img {
@@ -2254,7 +2255,7 @@ div.sliderContent img {
 	}
 
 	.sliderContainerFull {
-		margin-bottom: 160px !important;
+		margin-bottom: 300px !important;
 	}
 
 
@@ -2319,7 +2320,7 @@ div.sliderContent img {
 }
 
 
-@media(max-width: 320px) {
+@media(max-width: 432px) {
 	.flashingImgContainer img {
 		left: 4px !important;
 		top: 4px !important;
@@ -2327,7 +2328,7 @@ div.sliderContent img {
 	}
 
 	.sliderContainerFull {
-		margin-bottom: 160px !important;
+		margin-bottom: 250px !important;
 	}
 
 	div.sliderColumn .sliderContentIntro {
