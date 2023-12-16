@@ -2188,8 +2188,13 @@ section:last-child,
 .slider .sliderContainer {
 	width: 100%;
 	position: relative !important;
-	height: 340px !important;
+	height: 340px;
 	/* border: 3px solid #336699; */
+}
+
+.sliderContainerFull {
+	height: 1020px !important;
+	margin-bottom: 0 !important;
 }
 
 .slider .sliderContainer div.sliderContent {
@@ -2246,6 +2251,10 @@ div.sliderContent img {
 		left: 4px !important;
 		top: 4px !important;
 		width: calc(100% - 8px) !important;
+	}
+
+	.sliderContainerFull {
+		margin-bottom: 160px !important;
 	}
 
 
@@ -2315,6 +2324,10 @@ div.sliderContent img {
 		left: 4px !important;
 		top: 4px !important;
 		width: calc(100%-8px) !important;
+	}
+
+	.sliderContainerFull {
+		margin-bottom: 160px !important;
 	}
 
 	div.sliderColumn .sliderContentIntro {

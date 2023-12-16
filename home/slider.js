@@ -10,8 +10,10 @@ window.onload = function () {
             // rate: 2000
         },
         function (firstCount, lastCount, totalItemCount) {
-            document.getElementById('total_project_number').innerText = '' + totalItemCount;
-            document.getElementById('project_page_status').innerText = 'Showing ' + firstCount + ' to ' + lastCount;
+            var total = document.getElementById('total_project_number');
+            var pageStatus = document.getElementById('project_page_status');
+            if (total) total.innerText = '' + totalItemCount;
+            if (pageStatus) pageStatus.innerText = 'Showing ' + firstCount + ' to ' + lastCount;
         }
     );
 
@@ -60,6 +62,7 @@ function Slider(obj, onSlideCallback = null) {
     var i = 0;
 
     this.images = document.querySelectorAll(obj.images);
+    if (!this.images || !this.images.length) return;
     this.btnPrev = document.querySelector(obj.btnPrev);
     this.btnNext = document.querySelector(obj.btnNext);
     this.auto = obj.auto;
