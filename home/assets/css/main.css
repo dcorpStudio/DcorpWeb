@@ -2162,6 +2162,7 @@ section:last-child,
 	transition: opacity 0.5s;
 	opacity: 0;
 	width: calc(100% - 20px) !important;
+	aspect-ratio: 1 !important;
 	/* width: 200px !important;
 	height: 200px !important; */
 	/* border: 2px solid #ED391B; */
