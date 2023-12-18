@@ -1728,20 +1728,21 @@ section:last-child,
 
 #content section {
 	background: #fff;
-	padding: 40px 30px 45px 30px;
+	padding: 25px 15px 25px 15px;
 	box-shadow: 2px 2px 2px 1px rgba(128, 128, 128, 0.1);
-	margin: 0 0 25px 0;
+	margin: 0 0 20px 0;
 }
 
 #content h2 {
-	font-size: 1.8em;
-	color: #373f42;
+	font-size: 1.4em;
+	font-weight: 400;
+	color: #1AEDDF;
 	margin: 0 0 0.25em 0;
 }
 
 #content h3 {
-	color: #96a9b5;
-	font-size: 1.25em;
+	color: #464646;
+	font-size: 1.15em;
 }
 
 #content a {
@@ -1749,7 +1750,7 @@ section:last-child,
 }
 
 #content header {
-	margin: 0 0 2em 0;
+	margin: 0 0 1em 0;
 }
 
 #content .quote-list li {
@@ -1761,7 +1762,9 @@ section:last-child,
 }
 
 #content .check-list li {
+	font-size: 1.1em;
 	border-bottom: solid 1px #e2e6e8;
+	padding-left: 30px;
 }
 
 /* Footer */
@@ -1875,7 +1878,7 @@ section:last-child,
 	/* Content */
 
 	#content h2 {
-		font-size: 1.4em;
+		font-size: 1.2em;
 	}
 
 	#content h3 {
