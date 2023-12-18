@@ -1767,20 +1767,21 @@ section:last-child,
 /* Footer */
 
 #footer {
-	padding: 45px 0 45px 0;
+	padding: 15px 0 15px 0;
 	text-shadow: 1px 1px 1px white;
-	color: #546b76;
-	text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.5);
+	color: #ffffff;
+	text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.5);
+	background-image: url('../../assets/css/images/bg01.jpg');
 }
 
 #footer h2 {
 	font-size: 1.25em;
-	color: #212f35;
-	margin: 0 0 1em 0;
+	color: #daf4ff;
+	margin: 0 0 10px 0;
 }
 
 #footer a {
-	color: #546b76;
+	color: #e1f5ff;
 }
 
 #footer .quote-list li {
@@ -1804,7 +1805,7 @@ section:last-child,
 	border-top: solid 1px #b5bec3;
 	box-shadow: inset 0px 1px 0px 0px #e0e4e7;
 	text-align: center;
-	padding: 45px 0 80px 0;
+	padding: 25px 0 50px 0;
 	color: #8d9ca3;
 	text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.5);
 }
@@ -2246,8 +2247,37 @@ div.sliderContent img {
 }
 
 
+/* contactLinks -- */
+.contactLinks div {
+	width: 150px;
+	display: inline-block;
+	margin: 0 10px 0 10px;
+}
+
+.contactLinks a {
+	color: aqua !important;
+	text-decoration: none;
+	text-shadow: none;
+	font-weight: 300;
+}
+
+.contactLinks img {
+	width: 20px !important;
+	position: relative;
+	top: 3px;
+	margin-right: 2px;
+}
+
+/* --------------- */
+
+
 
 @media screen and (max-width: 736px) {
+
+	.contactLinks div {
+		width: 100%;
+	}
+
 	.flashingImgContainer img {
 		left: 4px !important;
 		top: 4px !important;
@@ -2307,7 +2337,7 @@ div.sliderContent img {
 	.prev,
 	.next {
 		position: absolute !important;
-		top: 160px !important;
+		top: 100px !important;
 		cursor: pointer !important;
 		width: 40px;
 		margin: 0 !important;
@@ -2321,6 +2351,11 @@ div.sliderContent img {
 
 
 @media(max-width: 432px) {
+	.contactLinks div {
+		width: 100%;
+	}
+
+
 	.flashingImgContainer img {
 		left: 4px !important;
 		top: 4px !important;
@@ -2344,7 +2379,7 @@ div.sliderContent img {
 	.prev,
 	.next {
 		position: absolute !important;
-		top: 220px !important;
+		top: 170px !important;
 	}
 }
 
