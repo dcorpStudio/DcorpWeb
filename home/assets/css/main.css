@@ -1746,7 +1746,13 @@ section:last-child,
 }
 
 #content a {
-	color: #ED391B;
+	color: rgb(255, 255, 255);
+	background-color: rgb(252, 144, 67);
+	padding: 0 16px 0 16px;
+	text-decoration: none;
+	border-radius: 16px;
+	float: right;
+	margin-right: 10px;
 }
 
 #content header {
@@ -1766,6 +1772,8 @@ section:last-child,
 	border-bottom: solid 1px #e2e6e8;
 	padding-left: 30px;
 }
+
+.contentColumn {}
 
 /* Footer */
 
