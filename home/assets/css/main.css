@@ -1521,11 +1521,14 @@ section:last-child,
 
 .quote-list li img {
 	float: left;
+	width: 26%;
+	margin-right: 10px;
 }
 
 .quote-list li p {
 	margin: 0 0 0 90px;
-	font-size: 1.2em;
+	font-size: 1.1em;
+	line-height: 1.1em;
 	font-style: italic;
 }
 
@@ -1846,7 +1849,7 @@ section:last-child,
 
 	.quote-list li p {
 		margin: 0 0 0 80px;
-		font-size: 1em;
+		font-size: 0.9em;
 		font-style: italic;
 		line-height: 1.8em;
 	}
@@ -2104,7 +2107,7 @@ section:last-child,
 	}
 
 	.quote-list li p {
-		margin-bottom: 0.5em;
+		margin-bottom: 0.45em;
 	}
 
 	.check-list li {
