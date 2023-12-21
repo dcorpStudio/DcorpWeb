@@ -19,26 +19,30 @@
 
 			<div class="container">
 				<div class="row myRow">
-					<div class="col-12">
+					<div class="col-3">
 
 						<!-- Logo -->
 						<h1>
 							<a href="index.html" id="logo" style="color: rgb(255, 255, 255);">
 								<img src="images/favicon.png"
-									style="height: 30px !important; position: relative; top:3px;" /> &nbsp;David's
-								developer profile
+									style="height: 30px !important; position: relative; top:3px;" />
+								&nbsp;David the developer
 							</a>
 						</h1>
 
 						<!-- Nav -->
 						<nav id="nav">
-							<a href="#" style="text-decoration: underline; color: chocolate;">Home</a>
-							<a href="projects.html">My projects</a>
-							<a href="services.html">My services</a>
+							<a href="#"
+								style="text-decoration: underline !important; color: chocolate  !important;">Home</a>
+							<a href="bio.html">About Me</a>
+							<a href="projects.html">Games</a>
+							<a href="gallery3d.html">3D Models</a>
+							<a href="galleryGameArt.html">Game Arts</a>
+							<a href="galleryWeb.html">Web Designs</a>
+							<a href="services.html">Services</a>
 							<a href="price.html">Pricing</a>
-							<a href="#contact">Contacts</a>
+							<a href="#contact">Contact</a>
 						</nav>
-
 					</div>
 				</div>
 			</div>
@@ -666,6 +670,17 @@
 	<script src="assets/js/breakpoints.min.js"></script>
 	<script src="assets/js/util.js"></script>
 	<script src="assets/js/main.js"></script>
+
+
+	<img id="btnScrollTop" src="images/btn_back_to_top.fw.png"
+		style="position: fixed; right: 10px; bottom:10px; opacity: 0;"
+		onclick="window.scrollTo({ top: 0, behavior: 'smooth' });" />
+	<script>
+		window.onscroll = function () {
+			var currentScroll = document.documentElement.scrollTop || document.body.scrollTop;
+			document.getElementById('btnScrollTop').style.opacity = currentScroll / window.screen.height;
+		}
+	</script>
 
 </body>
 

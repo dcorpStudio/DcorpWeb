@@ -7,10 +7,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="icon" type="image/x-icon" href="images/favicon.ico">
 	<link rel="stylesheet" href="assets/css/main.css" />
-	<script src="slider.js"></script>
+	<!-- <script src="slider.js"></script> -->
 </head>
 
-<body class="subpage">
+<body>
+
 	<div id="page-wrapper">
 
 		<!-- Header -->
@@ -18,25 +19,30 @@
 
 			<div class="container">
 				<div class="row myRow">
-					<div class="col-12">
+					<div class="col-3">
 
 						<!-- Logo -->
 						<h1>
 							<a href="index.html" id="logo" style="color: rgb(255, 255, 255);">
 								<img src="images/favicon.png"
-									style="height: 30px !important; position: relative; top:3px;" /> &nbsp;David's
-								developer profile
+									style="height: 30px !important; position: relative; top:3px;" />
+								&nbsp;David the developer
 							</a>
 						</h1>
 
 						<!-- Nav -->
 						<nav id="nav">
 							<a href="index.html">Home</a>
-							<a href="projects.html">My projects</a>
-							<a href="bio.html">My skills</a>
-							<a href="#contact">Contacts</a>
+							<a href="bio.html">About Me</a>
+							<a href="projects.html">Games</a>
+							<a href="gallery3d.html">3D Models</a>
+							<a href="galleryGameArt.html">Game Arts</a>
+							<a href="galleryWeb.html">Web Designs</a>
+							<a href="services.html">Services</a>
+							<a href="#"
+								style="text-decoration: underline !important; color: chocolate  !important;">Pricing</a>
+							<a href="#contact">Contact</a>
 						</nav>
-
 					</div>
 				</div>
 			</div>
@@ -65,6 +71,7 @@
 		</section>
 
 
+
 		<!-- Content -->
 		<section id="content">
 			<div class="container">
@@ -72,38 +79,16 @@
 
 					<div class="col-6 col-12-medium">
 						<section>
-
-							<img src="images/pic05.fw.png" alt="" style="width: 80%;" />
-							<br>
-							<br>
-
 							<header>
-								<h2>My tech stacks</h2>
-								<h3>Javascript/Typescript/HTML5 - Cocos Creator - Adobe Fireworks - Blender</h3>
+								<h2>Price list</h2>
+								<h3>New game project</h3>
 							</header>
 
 							<ul style="padding:0  20px 0 20px; list-style-type:circle;">
 								<li>
-									My Game Engine: <b style="font-weight: 400;">Cocos Creator</b> (6 years of
-									experience) - Current engine version: V2.4.10
-								</li>
-								<li>
-									My programming language: <b style="font-weight: 400;">TypeSript/Javascript </b> (17
-									years of experience)
-								</li>
-								<li>
-									My 2D graphic software: <b style="font-weight: 400;">Adobe Fireworks</b>
-								</li>
-								<li>
-									My 3D modeling software: <b style="font-weight: 400;">Blender v4.0</b>
-								</li>
-								<li>
-									My target game platform: <b style="font-weight: 400;">HTML5/Webgame & Android</b>
+									Price 1
 								</li>
 							</ul>
-							<b style="font-weight: 400; font-style: italic;">
-								" In short, I am 70% of a developer & 30% of a designer "
-							</b>
 						</section>
 
 					</div>
@@ -113,47 +98,13 @@
 						<section>
 
 							<header>
-								<h2>My working manner</h2>
-								<h3>" I jump directly into the problems & solve them "</h3>
+								<h2>Time needed for project types</h2>
+								<h3>Time estimate</h3>
 							</header>
 							<p>
-								<b style="font-weight: 400;"> What I give a customer before start their project </b>
+								<b style="font-weight: 400;"> Time </b>
 								<br>
-								- A detailed list of <u>time & budget</u> needed or every work milestone - <u>detailed
-									to each hour</u> <br>
-								- Advices for game infrastructure & asssets/human they need to prepare to get the work
-								done soon & properly <br><br>
-
-								<b style="font-weight: 400;"> What I give a customer after the project gets done
-								</b> <br>
-								- All source code & build bundle <br>
-								- Free bug fixes & small adjustment <br>
-								- Discount for subsequent feature update fees of the project <br>
 							</p>
-
-							<header>
-								<h2>My developer milestones </h2>
-								<h3>Webs > to desktop apps > to games</h3>
-							</header>
-							<ul style="padding:0  20px 0 20px; list-style-type:circle;">
-								<li>
-									I started coding as a <b style="font-weight: 400;">web</b> developer since 17
-								</li>
-								<li>
-									Started developing <b style="font-weight: 400;">desktop apps</b> since 23
-								</li>
-								<li>
-									Started <b style="font-weight: 400;">game developement</b> since 29 til now
-								</li>
-								<li>I had 3 years working fulltime in a game company of size 90 people - as a
-									<b style="font-weight: 400;">tech leader</b> for a team of 8
-								</li>
-								<li>
-									I have been trained to work under <b style="font-weight: 400;">Agile Scrum</b>
-									work flow there <br>
-								</li>
-							</ul>
-
 
 						</section>
 					</div>
@@ -222,6 +173,17 @@
 	<script src="assets/js/breakpoints.min.js"></script>
 	<script src="assets/js/util.js"></script>
 	<script src="assets/js/main.js"></script>
+
+	<img id="btnScrollTop" src="images/btn_back_to_top.fw.png"
+		style="position: fixed; right: 10px; bottom:10px; opacity: 0;"
+		onclick="window.scrollTo({ top: 0, behavior: 'smooth' });" />
+	<script>
+		window.onscroll = function () {
+			var currentScroll = document.documentElement.scrollTop || document.body.scrollTop;
+			document.getElementById('btnScrollTop').style.opacity = currentScroll / window.screen.height;
+		}
+	</script>
+
 
 </body>
 
