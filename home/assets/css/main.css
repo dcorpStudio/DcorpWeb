@@ -2246,7 +2246,7 @@ div.sliderContent img {
 .prev,
 .next {
 	position: absolute !important;
-	top: 100px !important;
+	top: 90px !important;
 	cursor: pointer !important;
 	width: 40px;
 	margin: 0 !important;
