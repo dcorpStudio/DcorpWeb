@@ -2416,3 +2416,9 @@ div.sliderContent img {
 
 
 /* sliders ------------------------------------------------------------------------ */
+
+
+
+.galleryImg {
+	opacity: 1 !important;
+}
