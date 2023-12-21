@@ -405,16 +405,16 @@
 			style="width: 100%; height: 100%; position: relative; display: flex;justify-content: center;">
 
 			<div id="ImageViewerBlackBg"
-				style="background-color: #000; width: 100%; height: 100%; opacity: 0.5; position: absolute;"></div>
+				style="background-color: #000; width: 100%; height: 100%; opacity: 0.8; position: absolute;"></div>
 
 			<img id="ImageViewerMainImage" src="" style="color: #fff; display: block; position: absolute; top: 0; bottom: 0; margin: auto;
 				min-height: 50px; max-width: calc(100% - 150px); max-height: calc(100% - 50px);">
 		</div>
 
 		<div class="buttons">
-			<img id="ImageViewerPrev" class="prev" src="images/btn_next.fw.png"
+			<img id="ImageViewerPrev" class="prev" src="images/btn_next.fw.png" draggable="false"
 				style="top:50% !important; left: 20px !important; width: 50px;" />
-			<img id="ImageViewerNext" class="next" src="images/btn_next.fw.png"
+			<img id="ImageViewerNext" class="next" src="images/btn_next.fw.png" draggable="false"
 				style="top:50% !important; right: 20px !important; width: 50px;" />
 		</div>
 	</div>
@@ -447,23 +447,32 @@
 	document.getElementById('ImageViewerBlackBg').onclick = hideImageViewer;
 
 	// bind image in grid touch handlers
-	var imageArr = document.querySelectorAll('.galleryImg');
-	for (var i in imageArr) {
-		if (!imageArr[i].tagName) continue;
-		let imgSrc = imageArr[i].src;
-		// console.log('imgSrc=' + imgSrc + ' tagName = ' + imageArr[i].tagName);
-		imageArr[i].onclick = function () {
-			showImageViewer(imgSrc);
+	var gallery3dImageArrRough = document.querySelectorAll('.galleryImg');
+	var gallery3dImageArr = [];
+	for (var i in gallery3dImageArrRough) {
+		let imgElem = gallery3dImageArrRough[i];
+		if (!imgElem.tagName) continue;
+		gallery3dImageArr.push(imgElem);
+		// console.log('imgSrc=' + imgElem.src + ' tagName = ' + imgElem.tagName);
+		imgElem.onclick = function () {
+			showImageViewer(imgElem.src);
 		}
 	}
 
 
 	// button prev & next
 	document.getElementById('ImageViewerPrev').onclick = function () {
-
+		var currentSrc = document.getElementById('ImageViewerMainImage').src;
+		var index = gallery3dImageArr.findIndex(elem => elem.src == currentSrc);
+		if (index == 0) index = gallery3dImageArr.length - 1;
+		showImageViewer(gallery3dImageArr[index - 1].src);
 	}
-	document.getElementById('ImageViewerNext').onclick = function () {
 
+	document.getElementById('ImageViewerNext').onclick = function () {
+		var currentSrc = document.getElementById('ImageViewerMainImage').src;
+		var index = gallery3dImageArr.findIndex(elem => elem.src == currentSrc);
+		if (index == gallery3dImageArr.length - 1) index = -1;
+		showImageViewer(gallery3dImageArr[index + 1].src);
 	}
 
 </script>

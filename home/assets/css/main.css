@@ -2295,6 +2295,11 @@ div.sliderContent img {
 	margin-bottom: 0 !important;
 }
 
+@media screen and (max-width: 1024px) {
+	.galleryContainerFull {
+		height: 1880px !important;
+	}
+}
 
 
 @media screen and (max-width: 736px) {
@@ -2456,3 +2461,12 @@ div.sliderContent img {
 	/* aspect-ratio: initial !important; */
 	object-fit: cover;
 }
+
+/* 
+img {
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+} */
