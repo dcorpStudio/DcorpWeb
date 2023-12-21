@@ -2295,9 +2295,29 @@ div.sliderContent img {
 	margin-bottom: 0 !important;
 }
 
+.galleryContainerWebFull {
+	height: 300px !important;
+	margin-bottom: 0 !important;
+}
+
+.galleryContainerArtFull {
+	height: 800px !important;
+	margin-bottom: 0 !important;
+}
+
 @media screen and (max-width: 1024px) {
 	.galleryContainerFull {
 		height: 1880px !important;
+	}
+
+	.galleryContainerWebFull {
+		height: 200px !important;
+		margin-bottom: 0 !important;
+	}
+
+	.galleryContainerArtFull {
+		height: 560px !important;
+		margin-bottom: 0 !important;
 	}
 }
 
@@ -2320,6 +2340,15 @@ div.sliderContent img {
 
 	.galleryContainerFull {
 		height: 800px !important;
+	}
+
+	.galleryContainerWebFull {
+		height: 200px !important;
+	}
+
+	.galleryContainerArtFull {
+		height: 250px !important;
+		margin-bottom: 0 !important;
 	}
 
 
@@ -2418,6 +2447,11 @@ div.sliderContent img {
 	.galleryContainerFull {
 		height: 800px !important;
 	}
+
+	.galleryContainerWebFull {
+		height: 200px !important;
+	}
+
 
 	div.sliderColumn .sliderContentIntro {
 		font-size: 0.84em;
