@@ -70,7 +70,7 @@
 			<div class="container">
 				<div style="padding: 10px 0 0px 10px; border-bottom: 1px dashed #595959; background-color: #6b6662;">
 					<h2 id="projectListHeadline">
-						MY 3D MODELS (Blender)
+						MY 3D MODELS MADE WITH BLENDER (<b id="GalleryImageCount"></b>)
 					</h2>
 
 				</div>
@@ -458,6 +458,7 @@
 			showImageViewer(imgElem.src);
 		}
 	}
+	document.getElementById('GalleryImageCount').innerText = gallery3dImageArr.length;
 
 
 	// button prev & next
