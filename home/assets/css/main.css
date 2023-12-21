@@ -2170,6 +2170,8 @@ a.orangeLink {
 	position: relative !important;
 	aspect-ratio: 1;
 	padding: 0 !important;
+	overflow: hidden;
+	cursor: pointer;
 }
 
 .flashingImgContainer img {
@@ -2213,6 +2215,7 @@ a.orangeLink {
 	height: 1670px !important;
 	margin-bottom: 0 !important;
 }
+
 
 .slider .sliderContainer div.sliderContent {
 	position: absolute !important;
@@ -2287,6 +2290,12 @@ div.sliderContent img {
 /* --------------- */
 
 
+.galleryContainerFull {
+	height: 2330px !important;
+	margin-bottom: 0 !important;
+}
+
+
 
 @media screen and (max-width: 736px) {
 
@@ -2302,6 +2311,10 @@ div.sliderContent img {
 
 	.sliderContainerFull {
 		margin-bottom: 300px !important;
+	}
+
+	.galleryContainerFull {
+		height: 800px !important;
 	}
 
 
@@ -2324,11 +2337,26 @@ div.sliderContent img {
 		height: 80px;
 	}
 
+	div.galleryCell {
+		width: 18.3% !important;
+		margin: 0.5% !important;
+		display: inline-block !important;
+		vertical-align: top !important;
+	}
+
 	div.sliderColumn .bordered-feature-image {
 		margin: 0 10px 0 0 !important;
 		padding: 0 !important;
 		display: inline-block;
 		width: 20%;
+		max-width: 120px;
+	}
+
+	div.galleryCell .bordered-feature-image {
+		margin: 0 10px 0 0 !important;
+		padding: 0 !important;
+		display: inline-block;
+		width: 100% !important;
 		max-width: 120px;
 	}
 
@@ -2382,6 +2410,10 @@ div.sliderContent img {
 		margin-bottom: 250px !important;
 	}
 
+	.galleryContainerFull {
+		height: 800px !important;
+	}
+
 	div.sliderColumn .sliderContentIntro {
 		font-size: 0.84em;
 		line-height: 1.1em;
@@ -2421,4 +2453,6 @@ div.sliderContent img {
 
 .galleryImg {
 	opacity: 1 !important;
+	/* aspect-ratio: initial !important; */
+	object-fit: cover;
 }
