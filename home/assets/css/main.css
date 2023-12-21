@@ -1748,7 +1748,9 @@ section:last-child,
 	font-size: 1.15em;
 }
 
-#content a {
+#content a,
+a.orangeLink {
+	font-size: 1em !important;
 	color: rgb(255, 255, 255);
 	background-color: rgb(252, 144, 67);
 	padding: 0 16px 0 16px;
