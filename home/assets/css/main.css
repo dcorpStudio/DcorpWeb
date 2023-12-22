@@ -2223,18 +2223,22 @@ a.orangeLink {
 .slider .sliderContainer div.sliderContent {
 	position: absolute !important;
 	left: 0 !important;
-	opacity: 0 !important;
-	transition: opacity 0.2s !important;
-
+	/* opacity: 0 !important;
+	transition: opacity 0.2s !important; */
+	display: none;
 	width: 100%;
 	text-align: center;
 }
 
 .slider .sliderContainer div.shown {
-	opacity: 1 !important;
+	/* opacity: 1 !important; */
+	display: block;
 }
 
 div.sliderColumn {
+	position: relative;
+	text-align: center;
+	vertical-align: middle;
 	width: 18.3% !important;
 	margin: 0.5%;
 	display: inline-block;
@@ -2243,6 +2247,16 @@ div.sliderColumn {
 
 div.sliderContent img {
 	width: 100%;
+	object-fit: cover;
+}
+
+div.sliderColumn .hoverPlay {
+	width: 40%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 99;
+	opacity: 0;
 }
 
 /* .buttons {
@@ -2322,10 +2336,18 @@ div.sliderContent img {
 		height: 560px !important;
 		margin-bottom: 0 !important;
 	}
+
+	div.sliderColumn .hoverPlay {
+		display: none;
+	}
 }
 
 
 @media screen and (max-width: 736px) {
+
+	div.sliderColumn .hoverPlay {
+		display: none;
+	}
 
 	.contactLinks div {
 		width: 100%;
@@ -2424,6 +2446,14 @@ div.sliderContent img {
 		margin: 0 !important;
 	}
 
+	.prev {
+		left: -20px;
+	}
+
+	.next {
+		right: -20px;
+	}
+
 	#projectListHeadline {
 		font-size: 1.1em !important;
 		text-align: center;
@@ -2432,6 +2462,11 @@ div.sliderContent img {
 
 
 @media(max-width: 432px) {
+
+	div.sliderColumn .hoverPlay {
+		display: none;
+	}
+
 	.contactLinks div {
 		width: 100%;
 	}
@@ -2470,6 +2505,14 @@ div.sliderContent img {
 	.next {
 		position: absolute !important;
 		top: 170px !important;
+	}
+
+	.prev {
+		left: -15px !important;
+	}
+
+	.next {
+		right: -15px !important;
 	}
 }
 
