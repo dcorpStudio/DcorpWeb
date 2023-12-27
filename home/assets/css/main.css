@@ -2575,7 +2575,10 @@ img {
 
 .topNavDemo {
 	position: relative !important;
-	color: #ffffc5 !important;
+	color: #ffc686 !important;
+	font-size: 1.05em !important;
+	padding-left: 15px !important;
+	padding-right: 15px !important;
 	/* font-weight: 400; */
 	/* text-decoration: underline !important; */
 }
@@ -2584,6 +2587,8 @@ img {
 #navPanel nav a.topNavDemo {
 	position: relative !important;
 	color: #fff67b !important;
+	font-size: 1.3em !important;
+	padding-left: 30px !important;
 }
 
 
