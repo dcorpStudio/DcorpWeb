@@ -2663,19 +2663,39 @@ img {
 
 
 .priceTable {
-	width: 90%;
+	width: 95%;
 }
 
 .priceTable td {
 	font-weight: 300;
-	padding: 5px 0 5px 30px;
+	padding: 8px 0 8px 30px;
 	border-bottom: 1px solid #c4c4c4;
+	line-height: 1.2em;
+}
+
+.priceTable td a {
+	display: inline !important;
+	float: none !important;
+	position: relative !important;
+	background: none !important;
+	padding: 0 !important;
+	margin: 0 !important;
+	text-decoration: underline !important;
+	color: orangered !important;
+}
+
+.priceTable tr:hover {
+	background-color: #f7f7f7;
 }
 
 .priceTable td.priceColumn {
+	min-width: 140px;
 	text-align: right;
 	color: #17d4c8;
 	font-weight: 400;
+	line-height: 1.1em;
+	padding-right: 10px;
+	vertical-align: middle;
 }
 
 strong {
