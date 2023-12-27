@@ -2673,7 +2673,7 @@ img {
 	line-height: 1.2em;
 }
 
-.priceTable td a {
+table.priceTable a {
 	display: inline !important;
 	float: none !important;
 	position: relative !important;
@@ -2683,6 +2683,32 @@ img {
 	text-decoration: underline !important;
 	color: orangered !important;
 }
+
+/* used for contact page */
+div.priceTable a {
+	display: inline !important;
+	float: none !important;
+	position: relative !important;
+	background: none !important;
+	padding: 0 !important;
+	margin: 0 !important;
+	/* text-decoration: underline !important; */
+	color: rgb(65, 144, 94) !important;
+	font-weight: normal !important;
+}
+
+.priceTable img {
+	width: 20px !important;
+	position: relative;
+	top: 3px;
+	margin-right: 15px;
+}
+
+.priceTable div {
+	width: 100% !important;
+}
+
+/* used for contact page */
 
 .priceTable tr:hover {
 	background-color: #f7f7f7;
