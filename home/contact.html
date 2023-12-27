@@ -1,0 +1,179 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <title>David Codes Games</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <!-- <script src="slider.js"></script> -->
+</head>
+
+<body>
+
+    <div id="page-wrapper">
+
+        <!-- Header -->
+        <section id="header">
+
+            <div class="container">
+                <div class="row myRow">
+                    <div class="col-3">
+
+                        <!-- Logo -->
+                        <h1>
+                            <a href="index.html" id="logo" style="color: rgb(255, 255, 255);">
+                                <img src="images/favicon.png"
+                                    style="height: 30px !important; position: relative; top:3px;" />
+                                &nbsp;David the developer
+                            </a>
+                        </h1>
+
+                        <!-- Nav -->
+                        <div w3-include-html="top_nav.html" id="topNavContainer"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="banner" class="myRow">
+                <div class="container" class="myRow">
+                    <div class="row" class="myRow">
+
+                        <div class="col-6-medium col-12-small myCol">
+                            <a href="#" class=""><img src="images/me.png" alt=""
+                                    style="width: 70px !important; height: 70px !important; border-radius: 50%;" /></a>
+
+                        </div>
+
+                        <div class="col-6-medium col-12-small myCol"
+                            style="max-width: 70%; text-align: left; font-size: 1.2em; line-height: 1.2em; margin-top: 9px; color: rgb(69, 255, 246);">
+                            I'm a game developer with 6 years of experience. Hire me on
+                            <a href="https://www.upwork.com/freelancers/~01c2bba1060871bbe9" target="_blank">
+                                <img src="images/upworkLogo.png"
+                                    style="width: 80px !important; height: 24px !important; position: relative; top: 4px; left: 3px;" />
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+        <!-- Content -->
+        <section id="content">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-6 col-12-medium">
+                        <section>
+                            <header>
+                                <h2>Price list</h2>
+                                <h3>New game project</h3>
+                            </header>
+
+                            <ul style="padding:0  20px 0 20px; list-style-type:circle;">
+                                <li>
+                                    Price 1
+                                </li>
+                            </ul>
+                        </section>
+
+                    </div>
+
+                    <div class="col-6 col-12-medium">
+                        <!-- Main Content -->
+                        <section>
+
+                            <header>
+                                <h2>Time needed for project types</h2>
+                                <h3>Time estimate</h3>
+                            </header>
+                            <p>
+                                <b style="font-weight: 400;"> Time </b>
+                                <br>
+                            </p>
+
+                        </section>
+                    </div>
+
+
+                </div>
+            </div>
+        </section>
+
+
+        <!-- Footer -->
+        <section id="footer">
+            <div class="container">
+                <a name="contact" style="width: 0; height: 0; font-size: 0;"></a>
+                <div class="col-8 col-12-medium" style="width: 100% !important;">
+
+                    <!-- Links -->
+                    <div class="row contactLinks">
+                        <div>
+                            <a href="#contact" style="color: rgb(220, 255, 255) !important; font-weight: 500;">
+                                Contact me
+                            </a>
+                        </div>
+                        <div>
+                            <a href="https://www.upwork.com/freelancers/~01c2bba1060871bbe9" target="_blank">
+                                <img src="images/contact-icons/upwork.png" /> Upwork profile
+                            </a>
+                        </div>
+                        <div>
+                            <a href="https://stackoverflow.com/users/804799/" target="_blank">
+                                <img src="images/contact-icons/stackoverflow.png" /> Stackoverflow
+                            </a>
+                        </div>
+                        <div>
+                            <a href="https://slack.com/app_redirect?channel=U02EKRV6P6D" target="_blank">
+                                <img src="images/contact-icons/slack.png" /> Slack
+                            </a>
+                        </div>
+                        <div>
+                            <a href="https://t.me/DavidTranJS" target="_blank">
+                                <img src="images/contact-icons/telegram.png" /> Telegram
+                            </a>
+                        </div>
+                        <div style="width: 210px; margin-bottom: 10px;">
+                            <img src="images/contact-icons/gmail.png" />
+                            <a href="mailto:DcorpStudio@gmail.com" target="_blank">
+                                DcorpStudio@gmail.com
+                            </a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <!-- Copyright -->
+        <div id="copyright" style="color: chocolate; font-weight: 500;">
+            &copy; Designed by David
+        </div>
+
+    </div>
+
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+
+    <img id="btnScrollTop" src="images/btn_back_to_top.fw.png"
+        style="position: fixed; right: 10px; bottom:10px; opacity: 0; cursor: pointer;"
+        onclick="window.scrollTo({ top: 0, behavior: 'smooth' });" />
+    <script>
+        window.onscroll = function () {
+            var currentScroll = document.documentElement.scrollTop || document.body.scrollTop;
+            document.getElementById('btnScrollTop').style.opacity = currentScroll / window.screen.height;
+        }
+    </script>
+
+
+</body>
+
+</html>
