@@ -47,7 +47,9 @@
 	// ===============================================================
 
 	function focusTopNav() {
-		var pageName = document.location.pathname.match(/[^\/]+$/)[0];
+		var pageName = document.location.pathname.match(/[^\/]+$/);
+		if (pageName) pageName = pageName[0]
+		else pageName = 'index.html';
 		var childArr = document.getElementById('topNavContainer').childNodes[0].childNodes;
 		for (let i in childArr) {
 			// console.log(`pageName=${pageName} >> i=${i} > ${childArr[i].href}`);
