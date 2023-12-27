@@ -2574,11 +2574,18 @@ img {
 
 .topNavDemo {
 	position: relative !important;
-	color: #979797;
-	font-weight: 400;
+	color: #ffffb0 !important;
+	/* font-weight: 400; */
+	/* text-decoration: underline !important; */
 }
 
-.topNavDemo::after {
+.topNavDemo:hover {
+	position: relative !important;
+	color: #ffffb0;
+	text-decoration: underline !important;
+}
+
+.topNavDemo:after {
 	/* content: '★'; */
 	content: '';
 	background: url('../css/images/nav_demo.fw.png') no-repeat right center;
