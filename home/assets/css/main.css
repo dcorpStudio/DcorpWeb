@@ -2580,8 +2580,14 @@ img {
 	/* text-decoration: underline !important; */
 }
 
-.topNavDemo:hover {
+/* mobile ver */
+#navPanel nav a.topNavDemo {
 	position: relative !important;
+	color: #fff67b !important;
+}
+
+
+.topNavDemo:hover {
 	color: #ffffff !important;
 	/* text-decoration: underline !important; */
 }
@@ -2599,6 +2605,17 @@ img {
 	left: 0;
 }
 
+/* mobile ver */
+#navPanel nav a.topNavDemo:after {
+	all: unset;
+}
+
+/* mobile ver */
+#navPanel nav a.topNavDemo::before {
+	content: '# ';
+}
+
+
 .topNavFous {
 	background: url(../css/images/nav-bg.fw.png) !important;
 	background-size: 100% 100% !important;
@@ -2607,6 +2624,11 @@ img {
 	/* font-weight: 400; */
 }
 
+/* mobile ver */
+#navPanel nav a.topNavFous {
+	background-size: 120% 120% !important;
+	background-position: center center !important;
+}
 
 @media(max-width: 1092px) {
 	#logo {

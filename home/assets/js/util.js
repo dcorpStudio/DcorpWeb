@@ -5,35 +5,28 @@
 	 * @return {jQuery} jQuery object.
 	 */
 	$.fn.navList = function () {
-
 		var $this = $(this);
-		$a = $this.find('a'),
-			b = [];
+		$a = $this.find('a'), b = [];
 
 		$a.each(function () {
-
 			var $this = $(this),
 				indent = Math.max(0, $this.parents('li').length - 1),
 				href = $this.attr('href'),
 				style = $this.attr('style'),
-				target = $this.attr('target');
+				target = $this.attr('target'),
+				classList = $this.attr('class');
 
-			b.push(
-				'<a ' +
-				'class="link depth-' + indent + '"' +
+			var classAdded = (typeof classList !== 'undefined' && classList != '') ? classList : '';
+			var newLink = '<a class="link depth-' + indent + ' ' + classAdded + '"' +
 				((typeof target !== 'undefined' && target != '') ? ' target="' + target + '"' : '') +
 				((typeof href !== 'undefined' && href != '') ? ' href="' + href + '"' : '') +
 				((typeof style !== 'undefined' && style != '') ? ' style="' + style + '"' : '') +
-				'>' +
-				'<span class="indent-' + indent + '"></span>' +
-				$this.text() +
-				'</a>'
-			);
+				'><span class="indent-' + indent + '"></span>' + $this.text() + '</a>'
 
+			// console.log(`newLink = ${newLink}`);
+			b.push(newLink);
 		});
-
 		return b.join('');
-
 	};
 
 	/**
@@ -44,17 +37,14 @@
 	$.fn.panel = function (userConfig) {
 
 		// No elements?
-		if (this.length == 0)
-			return $this;
+		if (this.length == 0) return $this;
 
 		// Multiple elements?
 		if (this.length > 1) {
-
-			for (var i = 0; i < this.length; i++)
+			for (var i = 0; i < this.length; i++) {
 				$(this[i]).panel(userConfig);
-
+			}
 			return $this;
-
 		}
 
 		// Vars.
