@@ -54,7 +54,6 @@ s,
 samp,
 small,
 strike,
-strong,
 sub,
 sup,
 tt,
@@ -2656,4 +2655,29 @@ img {
 		height: 90%;
 		margin: auto;
 	}
+}
+
+
+
+/* ============================================= */
+
+
+.priceTable {
+	width: 90%;
+}
+
+.priceTable td {
+	font-weight: 300;
+	padding: 5px 0 5px 30px;
+	border-bottom: 1px solid #c4c4c4;
+}
+
+.priceTable td.priceColumn {
+	text-align: right;
+	color: #17d4c8;
+	font-weight: 400;
+}
+
+strong {
+	font-weight: 400 !important;
 }
