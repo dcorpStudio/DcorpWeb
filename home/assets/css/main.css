@@ -1669,6 +1669,7 @@ section:last-child,
 
 #header nav a:hover {
 	color: #f6f8f8;
+	text-decoration: underline;
 }
 
 
@@ -2574,15 +2575,15 @@ img {
 
 .topNavDemo {
 	position: relative !important;
-	color: #ffffb0 !important;
+	color: #ffffc5 !important;
 	/* font-weight: 400; */
 	/* text-decoration: underline !important; */
 }
 
 .topNavDemo:hover {
 	position: relative !important;
-	color: #ffffb0;
-	text-decoration: underline !important;
+	color: #ffffff !important;
+	/* text-decoration: underline !important; */
 }
 
 .topNavDemo:after {
@@ -2602,7 +2603,8 @@ img {
 	background: url(../css/images/nav-bg.fw.png) !important;
 	background-size: 100% 100% !important;
 	color: #ffffff !important;
-	font-weight: 400;
+	text-decoration: none !important;
+	/* font-weight: 400; */
 }
 
 
