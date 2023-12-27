@@ -2640,3 +2640,20 @@ img {
 		font-size: 0.7em;
 	}
 }
+
+
+/* ============================================= */
+
+#demoVfxIframe {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+
+@media(max-height: 400px) {
+	#demoVfxIframe {
+		width: 90%;
+		height: 90%;
+		margin: 0;
+	}
+}
