@@ -2727,3 +2727,17 @@ div.priceTable a {
 strong {
 	font-weight: 400 !important;
 }
+
+
+
+/* ------------------------------ */
+a.normalLink {
+	display: inline !important;
+	float: none !important;
+	position: relative !important;
+	background: none !important;
+	padding: 0 !important;
+	margin: 0 !important;
+	text-decoration: underline !important;
+	color: orangered !important;
+}
