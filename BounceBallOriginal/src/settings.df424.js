@@ -1,1 +1,0 @@
-window._CCSettings={platform:"web-mobile",groupList:["default","Static","Ball"],collisionMatrix:[[false,null,true],[false,false,true],[true,true,false]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scene/BounceBall.fire",orientation:"portrait",jsList:[],bundleVers:{internal:"620a7",main:"4698a"}};
