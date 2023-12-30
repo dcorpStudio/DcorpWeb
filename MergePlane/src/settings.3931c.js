@@ -1,1 +1,0 @@
-window._CCSettings={platform:"web-mobile",groupList:["default","scrollview"],collisionMatrix:[[true],[false,true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/merge_plane.fire",orientation:"portrait",jsList:[],bundleVers:{internal:"6c0a3",resources:"d287f",main:"a1304"}};
