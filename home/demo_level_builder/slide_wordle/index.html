@@ -9,12 +9,15 @@
 	<!-- <script src="demo_level_builder.js"></script> -->
 
 	<style>
+		@import url("https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,200");
+
 		body {
 			text-align: center;
 			width: 100%;
 			height: 100%;
 			margin: 0;
 			padding: 0;
+			font-family: 'Yanone Kaffeesatz';
 		}
 
 		div {
@@ -22,31 +25,54 @@
 			margin: 0;
 		}
 
-		h1 {
+		h1,
+		h2,
+		h3 {
 			padding: 0;
-			margin: 0;
+			margin: 10px 0 10px 0;
+		}
+
+		h2 {
+			font-weight: 400;
+			font-size: 1.2em;
+			display: inline-block;
+		}
+
+		h3 {
+			color: blue;
+		}
+
+		a {
+			color: #ffcc00;
+			text-decoration: none;
 		}
 
 		.header {
-			height: calc(0.1 * 100vh - 10px);
+			padding: 2px;
+			vertical-align: middle;
+			height: calc(0.07 * 100vh - 15px);
+			background-color: #2a2a2a;
+			color: aliceblue;
+			border-bottom: 1px solid #c68b0c;
 		}
 
 		.iframeContainer {
 			width: calc(66px + 2.7 * 56.25vh);
-			height: calc(0.9 * 100vh);
+			height: calc(0.93 * 100vh);
 			display: inline-block;
 		}
 
 		.iframeDiv {
-			width: 32%;
+			width: 29%;
 			height: 100%;
 			display: inline-block;
-			margin: 0 5px 0 5px;
+			margin: 0 15px 0 15px;
 		}
 
 		iframe {
 			width: 100%;
-			height: 100%;
+			height: calc(100% - 45px);
+			border: 0;
 		}
 	</style>
 
@@ -55,17 +81,20 @@
 <body>
 
 	<div class="header">
-		<h1>Level builder</h1>
+		<h2> <a href="../../index.html"> Home </a> &nbsp; / &nbsp; Demo of level builder for game Slide Wordle</h2>
 	</div>
 	<div class="iframeContainer">
 		<div class="iframeDiv">
-			<iframe src="web-mobile/?mode=0"></iframe>
-		</div>
-		<div class="iframeDiv">
+			<h3>Builder tool</h3>
 			<iframe src="web-mobile/?mode=2"></iframe>
 		</div>
 		<div class="iframeDiv">
+			<h3>Game play test</h3>
 			<iframe src="web-mobile/?mode=1"></iframe>
+		</div>
+		<div class="iframeDiv">
+			<h3>How to play</h3>
+			<iframe src="web-mobile/?mode=0"></iframe>
 		</div>
 	</div>
 
