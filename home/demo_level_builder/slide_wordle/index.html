@@ -74,6 +74,17 @@
 			height: calc(100% - 45px);
 			border: 0;
 		}
+
+		u {
+			font-weight: normal;
+			font-size: 0.9em;
+			text-decoration: none;
+		}
+
+		u a {
+			text-decoration: underline;
+			color: blue;
+		}
 	</style>
 
 </head>
@@ -85,8 +96,15 @@
 	</div>
 	<div class="iframeContainer">
 		<div class="iframeDiv">
-			<h3>Builder tool</h3>
-			<iframe src="web-mobile/?mode=2"></iframe>
+			<h3>
+				Builder tool
+				<u> - Sample levels (
+					<a href="javascript:showSampleLevelInBuildTool(0)">1</a> &nbsp;
+					<a href="javascript:showSampleLevelInBuildTool(1)">2</a> &nbsp;
+					<a href="javascript:showSampleLevelInBuildTool(2)">3</a>
+					)</u>
+			</h3>
+			<iframe src="web-mobile/?mode=2" id="buildToolIframe"></iframe>
 		</div>
 		<div class="iframeDiv">
 			<h3>Game play test</h3>
