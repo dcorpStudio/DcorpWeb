@@ -25,7 +25,7 @@ window._EXTERNAL_DATA = [
     },
     {
         id: 4,
-        name: 'nature_mighty_bald eagle-min.jpg',
+        name: 'Renamed nature_mighty_bald eagle-min.jpg',
         imageUrl: './external-data/pictures/nature_mighty_bald eagle-min.jpg',
         description: `Desc nature_mighty_bald eagle-min.jpg`,
         width: 12,
