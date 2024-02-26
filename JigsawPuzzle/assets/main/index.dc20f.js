@@ -275,7 +275,7 @@ window.__require = function e(t, n, r) {
       draggableRect: null,
       grandTileGroup: [],
       init() {
-        cc.find("Canvas").on("touchend", event => {
+        cc.find("Canvas/nag_screen").on("touchend", event => {
           _.log("------- Canvas on touchend >> event = ", event);
         });
         this.setUpMultiTilesSelection();
@@ -1801,7 +1801,6 @@ window.__require = function e(t, n, r) {
         const pictureTextureSize = pictureSprite.getOriginalSize();
         const fitSize = this.currentPictureFitSize = this.getPictureFitSize(pictureTextureSize);
         Object.assign(pictureTextureSize, fitSize);
-        _.log(` pictureSprite.getOriginalSize() = ${pictureSprite.getOriginalSize().width} / ${pictureSprite.getOriginalSize().height}\n                pictureTextureSize= ${pictureTextureSize.width} / ${pictureTextureSize.height}`);
         const gridPixelWidth = pictureTextureSize.width;
         const gridPixelHeight = pictureTextureSize.height;
         const formalCellSize = {

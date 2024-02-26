@@ -90,10 +90,8 @@
         clientX: firstTouch.clientX,
         clientY: firstTouch.clientY,
       });
-      Object.defineProperties(simulatedEvent, {
-        changedTouches: { value: touches }
-      });
-      console.log(` simulatedEvent === `, simulatedEvent);
+
+      Object.defineProperties(simulatedEvent, { changedTouches: { value: touches } });
 
       canvas.dispatchEvent(simulatedEvent);
       // event.preventDefault();
@@ -102,8 +100,7 @@
     function forwardMouseEvent(event) {
       // console.log(`forwardMouseEvent >> event = ${event.type}`);
       const simulatedEvent = new MouseEvent(event.type, {
-        changedTouches: { value: [{ target: canvas }] },
-        changedTouches1: 'asdadsadsadsadsas',
+        // changedTouches: { value: [{ target: canvas }] },
         bubbles: true,
         cancelable: true,
         clientX: event.clientX,
@@ -143,9 +140,7 @@
 
 
 
-
-
-  <script src="src/settings.21fc1.js" charset="utf-8"></script>
+  <script src="src/settings.4f482.js" charset="utf-8"></script>
   <script src="main.5c678.js" charset="utf-8"></script>
 
   <script type="text/javascript">

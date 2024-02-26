@@ -60,7 +60,7 @@
       width: 100vw;
       height: 100vh;
       background-color: red;
-      left: 0px;
+      left: 500px;
       top: 0px;
       opacity: 0.4;
     }
@@ -85,7 +85,7 @@
       const touches = event.changedTouches;
       const firstTouch = touches[0];
 
-      console.log(`forwardTouchEvent >> event = ${event.type}`);
+      // console.log(`forwardTouchEvent >> event = ${event.type}`);
       const simulatedEvent = new MouseEvent(event.type, {
         bubbles: true,
         cancelable: true,
@@ -93,13 +93,16 @@
         clientY: firstTouch.clientY,
       });
 
+      Object.defineProperties(simulatedEvent, { changedTouches: { value: touches } });
+
       canvas.dispatchEvent(simulatedEvent);
       // event.preventDefault();
     }
 
     function forwardMouseEvent(event) {
-      console.log(`forwardMouseEvent >> event = ${event.type}`);
+      // console.log(`forwardMouseEvent >> event = ${event.type}`);
       const simulatedEvent = new MouseEvent(event.type, {
+        // changedTouches: { value: [{ target: canvas }] },
         bubbles: true,
         cancelable: true,
         clientX: event.clientX,
@@ -109,7 +112,6 @@
       canvas.dispatchEvent(simulatedEvent);
     }
   </script>
-
 
 
   <div id="otherContent" style="padding-top: 700px;">
@@ -135,6 +137,8 @@
     <p>This content will appear below the iframe.</p>
     <p>This content will appear below the iframe.</p>
   </div>
+
+
 
 
 
