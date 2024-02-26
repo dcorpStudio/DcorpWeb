@@ -50,8 +50,8 @@
   </div>
 
 
-
-
+  <!-- /////////////////////////////////////////////////////// -->
+  <!-- MAKING THE PAGE SCROLLABLE BY ADDING AN OVERLAY DIV THAT COVERS THE MAIN-CANVAS & FORWARD TOUCH-EVENTS TO CANVAS -->
   <style>
     body,
     #Cocos2dGameContainer {
@@ -64,9 +64,9 @@
       width: 100vw;
       height: 100vh;
       background-color: red;
-      left: 500px;
-      top: 0px;
-      opacity: 0.4;
+      left: 0;
+      top: 0;
+      opacity: 0.0;
     }
   </style>
   <div id="overlayDiv"></div>
@@ -100,7 +100,7 @@
       Object.defineProperties(simulatedEvent, { changedTouches: { value: touches } });
 
       canvas.dispatchEvent(simulatedEvent);
-      // event.preventDefault();
+      if (event.type == 'touchmove' && window['_IS_GAME_USING_TOUCHMOVES']) event.preventDefault();
     }
 
     function forwardMouseEvent(event) {
@@ -116,6 +116,8 @@
       canvas.dispatchEvent(simulatedEvent);
     }
   </script>
+  <!-- /////////////////////////////////////////////////////// -->
+
 
 
   <div id="otherContent" style="padding-top: 700px;">
@@ -144,9 +146,7 @@
 
 
 
-
-
-  <script src="src/settings.4f482.js" charset="utf-8"></script>
+  <script src="src/settings.5293f.js" charset="utf-8"></script>
   <script src="main.5c678.js" charset="utf-8"></script>
 
   <script type="text/javascript">
@@ -173,7 +173,7 @@
         document.body.appendChild(domScript);
       }
 
-      loadScript(debug ? 'cocos2d-js.b7cea.js' : 'cocos2d-js-min.js', function () {
+      loadScript(debug ? 'cocos2d-js.js' : 'cocos2d-js-min.e813e.js', function () {
         if (CC_PHYSICS_BUILTIN || CC_PHYSICS_CANNON) {
           loadScript(debug ? 'physics.js' : 'physics-min.js', window.boot);
         }
