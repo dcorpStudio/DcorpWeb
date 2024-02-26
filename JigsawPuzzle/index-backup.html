@@ -51,6 +51,9 @@
 
 
 
+
+
+
   <style>
     #overlayDiv {
       position: absolute;
@@ -136,7 +139,9 @@
 
 
 
-  <script src="src/settings.21fc1.js" charset="utf-8"></script>
+
+
+  <script src="src/settings.9382f.js" charset="utf-8"></script>
   <script src="main.5c678.js" charset="utf-8"></script>
 
   <script type="text/javascript">
@@ -163,7 +168,7 @@
         document.body.appendChild(domScript);
       }
 
-      loadScript(debug ? 'cocos2d-js.b7cea.js' : 'cocos2d-js-min.js', function () {
+      loadScript(debug ? 'cocos2d-js.js' : 'cocos2d-js-min.e813e.js', function () {
         if (CC_PHYSICS_BUILTIN || CC_PHYSICS_CANNON) {
           loadScript(debug ? 'physics.js' : 'physics-min.js', window.boot);
         }
@@ -180,9 +185,10 @@
 
 
 <script>
-  window.isUsingHistoryPushState = true;
-
   var baseUrl = 'https://dcorpstudio.github.io/DcorpWeb/JigsawPuzzle/';
+  // var baseUrl = 'http://localhost:9999/web-mobile/';
+
+  window.isUsingHistoryPushState = true;
   window._EXTERNAL_DATA = [
     {
       id: 1,
@@ -213,7 +219,7 @@
     },
     {
       id: 4,
-      name: 'nature_mighty_bald_eagle-min.jpg',
+      name: 'nature_mighty_bald eagle-min.jpg',
       imageUrl: './pictures/nature_mighty_bald eagle-min.jpg',
       url: baseUrl + 'unique-url-nature_mighty_bald%20eagle-min.jpg',
       description: `Desc nature_mighty_bald eagle-min.jpg`,
