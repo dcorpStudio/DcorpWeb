@@ -658,7 +658,10 @@ window.__require = function e(t, n, r) {
         _G.utilsUI.makeButton("Canvas/layer_win/dialog/btn_replay", () => _G.gameFlow.newGame());
         const isFullScreen = window["isFullscreen"] || (x => x);
         _G.utilsUI.makeButton("Canvas/btn_full_screen", () => {
-          isFullScreen() ? window["makeFullScreen"] && window["makeFullScreen"]() : window["exitFullScreen"] && window["exitFullScreen"]();
+          if (isFullScreen()) window["exitFullScreen"] && window["exitFullScreen"](); else {
+            window["makeFullScreen"] && window["makeFullScreen"]();
+            _.log(`cc.view._isRotated = ${cc.view._isRotated} // screen=`, screen);
+          }
         });
         _.setInterval(() => {
           cc.find("Canvas/btn_full_screen/btn_full_screen").active = !isFullScreen();

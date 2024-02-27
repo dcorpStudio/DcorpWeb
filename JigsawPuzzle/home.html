@@ -84,16 +84,21 @@
 
         // full screen support
         function isFullscreen() {
-            console.log(`isFullscreen = ${window.innerHeight === screen.height}`);
-            return window.innerHeight === screen.height;
+            var tmp = document.fullScreen || document.mozFullScreen || document.webkitIsFullScreen || document.msFullscreenElement;
+            console.log(`isFullscreen = ${tmp}`);
+            return tmp;
         }
 
         function makeFullScreen() {
-            document.body.requestFullscreen();
+            // document.body.requestFullscreen();
+            document.querySelector('#gameIframe').requestFullscreen();
         }
 
         function exitFullScreen() {
             document.exitFullscreen();
+            setTimeout(() => {
+                window.scrollTo(document.body.scrollWidth + 200, 0);
+            }, 100)
         }
 
 

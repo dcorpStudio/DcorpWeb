@@ -656,14 +656,17 @@ window.__require = function e(t, n, r) {
         _G.utilsUI.makeButton("Canvas/layer_pause/btn_resume", () => _G.gameFlow.onResume());
         _G.utilsUI.makeButton("Canvas/layer_pause/btn_replay", () => _G.gameFlow.newGame());
         _G.utilsUI.makeButton("Canvas/layer_win/dialog/btn_replay", () => _G.gameFlow.newGame());
-        const isFullScreen = () => !window.screenTop && !window.screenY;
+        const isFullScreen = window["isFullscreen"] || (x => x);
         _G.utilsUI.makeButton("Canvas/btn_full_screen", () => {
-          isFullScreen() ? document.body.exitFullscreen() : document.body.requestFullscreen();
+          if (isFullScreen()) window["exitFullScreen"] && window["exitFullScreen"](); else {
+            window["makeFullScreen"] && window["makeFullScreen"]();
+            _.log(`cc.view._isRotated = ${cc.view._isRotated} // screen=`, screen);
+            cc.view._isRotated && screen && screen.orientation.lock("portrait");
+          }
         });
         _.setInterval(() => {
-          const isFullScreen = !window.screenTop && !window.screenY;
-          cc.find("Canvas/btn_full_screen/btn_full_screen").active = !isFullScreen;
-          cc.find("Canvas/btn_full_screen/btn_exit_full_screen").active = isFullScreen;
+          cc.find("Canvas/btn_full_screen/btn_full_screen").active = !isFullScreen();
+          cc.find("Canvas/btn_full_screen/btn_exit_full_screen").active = isFullScreen();
         }, 200);
         _G.utilsUI.makeButton("Canvas/btn_sound", () => {
           _G.audio.toggleSound();
