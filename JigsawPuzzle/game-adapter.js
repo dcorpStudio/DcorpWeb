@@ -39,13 +39,48 @@ setTimeout(() => {
     }
 
     window.makeFullScreen = () => {
-        __requestFullScreen.call(__gameIframe);
+        enterFullscreen(__gameIframe);
     }
 
     window.exitFullScreen = () => {
-        __cancelFullScreen.call(document);
+        leaveFullscreen();
         setTimeout(() => {
             window.scrollTo(document.body.scrollWidth + 200, 0);
         }, 50)
     }
+
+
+
+    function enterFullscreen(element) {
+        if (element.requestFullscreen) {
+            element.requestFullscreen({ navigationUI: "hide" });
+        }
+        else if (element.mozRequestFullScreen) {
+            element.mozRequestFullScreen({ navigationUI: "hide" });
+        }
+        else if (element.webkitRequestFullScreen) {
+            element.webkitRequestFullScreen();
+        }
+        else if (docElm.msRequestFullscreen) {
+            docElm.msRequestFullscreen();
+        }
+    }
+
+    function leaveFullscreen() {
+        if (document.exitFullscreen) {
+            document.exitFullscreen();
+        }
+        else if (document.mozCancelFullScreen) {
+            document.mozCancelFullScreen();
+        }
+        else if (document.webkitCancelFullScreen) {
+            document.webkitCancelFullScreen();
+        }
+        else if (document.msExitFullscreen) {
+            document.msExitFullscreen();
+        }
+    }
+
+
+
 }, 10);
