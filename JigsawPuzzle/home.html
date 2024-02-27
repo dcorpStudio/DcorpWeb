@@ -62,7 +62,7 @@
                 width: 100vh;
                 height: 56.25vh;
                 max-height: 100vw;
-                max-height: -webkit-fill-available;
+                max-height: 100dvh;
             }
         }
     </style>
@@ -77,7 +77,7 @@
         setTimeout(() => {
             const computedBodyStyle = window.getComputedStyle(document.querySelector('body'), null);
             console.log(`body display = ` + computedBodyStyle.display);
-            window.scrollTo(document.body.scrollWidth, 0);
+            window.scrollTo(document.body.scrollWidth + 200, 0);
         }, 1);
 
         // full screen support
