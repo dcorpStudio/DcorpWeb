@@ -67,16 +67,16 @@
     </style>
 
     <script>
+        // disable default restoring previous scroll position 
         if ('scrollRestoration' in history) {
-            // Back off, browser, I got this...
             history.scrollRestoration = 'manual';
         }
+        // auto scroll to top right
         setTimeout(() => {
             const computedBodyStyle = window.getComputedStyle(document.querySelector('body'), null);
             console.log(`body display = ` + computedBodyStyle.display);
             window.scrollTo(document.body.scrollWidth, 0);
         }, 1);
-
     </script>
 </head>
 
@@ -84,7 +84,7 @@
 <body>
     <iframe id="gameIframe" src="index.html"></iframe>
 
-    <div id="otherContent" style="">
+    <div id="otherContent">
         <h1>Your Additional Content Goes Here</h1>
         <p>This content will appear below the iframe.</p>
         <p>This content will appear below the iframe.</p>
