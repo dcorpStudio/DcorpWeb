@@ -77,15 +77,12 @@
 
         // auto scroll to top right
         setTimeout(() => {
-            const computedBodyStyle = window.getComputedStyle(document.querySelector('body'), null);
-            console.log(`body display = ` + computedBodyStyle.display);
             window.scrollTo(document.body.scrollWidth + 200, 0);
         }, 1);
 
         // full screen support
         function isFullscreen() {
             var tmp = document.fullScreen || document.mozFullScreen || document.webkitIsFullScreen || document.msFullscreenElement;
-            console.log(`isFullscreen = ${tmp}`);
             return tmp;
         }
 
@@ -98,7 +95,7 @@
             document.exitFullscreen();
             setTimeout(() => {
                 window.scrollTo(document.body.scrollWidth + 200, 0);
-            }, 100)
+            }, 50)
         }
 
 
