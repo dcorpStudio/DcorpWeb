@@ -1,0 +1,43 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100vw;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+#gameIframe {
+    display: block;
+    width: 100%;
+    height: 56.25vw;
+    max-height: 100vh;
+    overflow: hidden;
+    /* border: 5px solid #ffcc00; */
+}
+
+@media (max-aspect-ratio: 1/1) {
+    body {
+        scale: 1;
+        width: 100vh;
+        transform: translate(0, -100%) rotate(90deg);
+        -webkit-transform: translate(0, -100%) rotate(90deg);
+        transform-origin: bottom left;
+        -webkit-transform-origin: bottom left;
+        overflow-x: visible;
+        overflow-y: hidden;
+        /* border: 10px solid #ffcc00; */
+    }
+
+    #gameIframe {
+        width: 100vh;
+        max-width: 100dvh;
+        /*max-width - on mobile to prevent the bottom button bar (home, back, etc)*/
+
+        height: 56.25vh;
+        max-height: 100vw;
+    }
+}
