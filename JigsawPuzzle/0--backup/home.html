@@ -71,28 +71,12 @@
         if ('scrollRestoration' in history) {
             history.scrollRestoration = 'manual';
         }
-
         // auto scroll to top right
         setTimeout(() => {
             const computedBodyStyle = window.getComputedStyle(document.querySelector('body'), null);
             console.log(`body display = ` + computedBodyStyle.display);
             window.scrollTo(document.body.scrollWidth, 0);
         }, 1);
-
-        // full screen support
-        function isFullscreen() {
-            return !window.screenTop && !window.screenY;
-        }
-
-        function makeFullScreen() {
-            document.body.requestFullscreen();
-        }
-
-        function exitFullScreen() {
-            document.exitFullscreen();
-        }
-
-
     </script>
 </head>
 

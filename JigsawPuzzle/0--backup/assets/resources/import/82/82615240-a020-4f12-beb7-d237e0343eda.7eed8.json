@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "68x2uUqnBGhJiJm7Mcu1Ag"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "square-tile",
+      "rect": [
+        0,
+        0,
+        340,
+        340
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        340,
+        340
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

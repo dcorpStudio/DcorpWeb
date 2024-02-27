@@ -37289,8 +37289,8 @@
         } else {
           locFrameSize.width = h;
           locFrameSize.height = w;
-          cc.game.container.style["-webkit-transform"] = "rotate(90deg)";
-          cc.game.container.style.transform = "rotate(90deg)";
+          cc.game.container.style["-webkit-transform"] = "rotate(270deg)";
+          cc.game.container.style.transform = "rotate(270deg)";
           cc.game.container.style["-webkit-transform-origin"] = "0px 0px 0px";
           cc.game.container.style.transformOrigin = "0px 0px 0px";
           this._isRotated = true;
