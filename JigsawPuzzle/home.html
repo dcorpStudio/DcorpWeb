@@ -84,7 +84,8 @@
 
         // full screen support
         function isFullscreen() {
-            return !window.screenTop && !window.screenY;
+            console.log(`isFullscreen = ${window.innerHeight === screen.height}`);
+            return window.innerHeight === screen.height;
         }
 
         function makeFullScreen() {
