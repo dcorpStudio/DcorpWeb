@@ -23,20 +23,29 @@ setTimeout(() => {
     window.scrollTo(document.body.scrollWidth + 200, 0);
 }, 1);
 
+
+// ------------------ 
 // full screen support
-function isFullscreen() {
-    var tmp = document.fullScreen || document.mozFullScreen || document.webkitIsFullScreen || document.msFullscreenElement;
-    return tmp;
-}
+// ------------------ 
 
-function makeFullScreen() {
-    // document.body.requestFullscreen();
-    document.querySelector('#gameIframe').requestFullscreen();
-}
+setTimeout(() => {
+    var __gameIframe = document.querySelector("#gameIframe");
+    var __requestFullScreen = __gameIframe.requestFullscreen || __gameIframe.mozRequestFullScreen || __gameIframe.webkitRequestFullscreen || __gameIframe.msRequestFullscreen;
+    var __cancelFullScreen = document.exitFullscreen || document.mozCancelFullScreen || document.webkitExitFullscreen || document.msExitFullscreen;
 
-function exitFullScreen() {
-    document.exitFullscreen();
-    setTimeout(() => {
-        window.scrollTo(document.body.scrollWidth + 200, 0);
-    }, 50)
-}
+    window.isFullscreen = () => {
+        var tmp = !document.fullscreenElement && !document.mozFullScreenElement && !document.webkitFullscreenElement && !document.msFullscreenElement;
+        return !tmp;
+    }
+
+    window.makeFullScreen = () => {
+        __requestFullScreen.call(__gameIframe);
+    }
+
+    window.exitFullScreen = () => {
+        __cancelFullScreen.call(document);
+        setTimeout(() => {
+            window.scrollTo(document.body.scrollWidth + 200, 0);
+        }, 50)
+    }
+}, 10);
