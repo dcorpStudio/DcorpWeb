@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>JigsawPuzzle</title>
+
+    <style>
+        body {
+            padding: 0;
+            margin: 0;
+            width: 100vw;
+            max-width: 100%;
+            overflow-x: hidden;
+        }
+
+        #gameIframe {
+            display: block;
+            width: 100%;
+            height: 56.25vw;
+            max-height: 100vh;
+            overflow: hidden;
+        }
+
+        @media (max-aspect-ratio: 1/1) {
+            body {
+                /* display: flexbox; */
+                flex-direction: column-reverse;
+                transform: translate(0, -100%) rotate(90deg);
+                -webkit-transform: translate(0, -100%) rotate(90deg);
+                transform-origin: bottom left;
+                -webkit-transform-origin: bottom left;
+                overflow-x: visible;
+                overflow-y: hidden;
+            }
+
+            #gameIframe {
+                width: 100vh;
+                height: 56.25vh;
+                max-height: 100%;
+            }
+        }
+    </style>
+
+    <script>
+        setTimeout(() => {
+            const computedBodyStyle = window.getComputedStyle(document.querySelector('body'), null);
+            console.log(`body display = ` + computedBodyStyle.display);
+        }, 1000);
+    </script>
+</head>
+
+
+<body>
+    <iframe id="gameIframe" src="index.html"></iframe>
+
+    <div id="otherContent" style="">
+        <h1>Your Additional Content Goes Here</h1>
+        <p>This content will appear below the iframe.</p>
+        <p>This content will appear below the iframe.</p>
+        <p>This content will appear below the iframe.</p>
+        <p>This content will appear below the iframe.</p>
+        <p>This content will appear below the iframe.</p>
+        <p>This content will appear below the iframe.</p>
+        <p>This content will appear below the iframe.</p>
+        <p>This content will appear below the iframe.</p>
+        <p>This content will appear below the iframe.</p>
+        <p>This content will appear below the iframe.</p>
+        <p>This content will appear below the iframe.</p>
+        <p>This content will appear below the iframe.</p>
+        <p>This content will appear below the iframe.</p>
+        <p>This content will appear below the iframe.</p>
+        <p>This content will appear below the iframe.</p>
+        <p>This content will appear below the iframe.</p>
+        <p>This content will appear below the iframe.</p>
+        <p>This content will appear below the iframe.</p>
+        <p>This content will appear below the iframe.</p>
+        <p>This content will appear below the iframe.</p>
+    </div>
+
+</body>
+
+</html>
