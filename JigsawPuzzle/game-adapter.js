@@ -29,17 +29,13 @@ setTimeout(() => {
 // ------------------ 
 
 setTimeout(() => {
-    const __gameIframe = document.querySelector("#gameIframe");
-    const __requestFullScreen = __gameIframe.requestFullscreen || __gameIframe.mozRequestFullScreen || __gameIframe.webkitRequestFullscreen || __gameIframe.msRequestFullscreen;
-    const __cancelFullScreen = document.exitFullscreen || document.mozCancelFullScreen || document.webkitExitFullscreen || document.msExitFullscreen;
-
     window.isFullscreen = () => {
         const tmp = !document.fullscreenElement && !document.mozFullScreenElement && !document.webkitFullscreenElement && !document.msFullscreenElement;
         return !tmp;
     }
 
     window.makeFullScreen = () => {
-        enterFullscreen(__gameIframe);
+        enterFullscreen(document.querySelector("#gameIframe"));
     }
 
     window.exitFullScreen = () => {
@@ -61,8 +57,8 @@ setTimeout(() => {
         else if (element.webkitRequestFullScreen) {
             element.webkitRequestFullScreen();
         }
-        else if (docElm.msRequestFullscreen) {
-            docElm.msRequestFullscreen();
+        else if (element.msRequestFullscreen) {
+            element.msRequestFullscreen();
         }
     }
 
