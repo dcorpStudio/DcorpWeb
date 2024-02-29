@@ -1,0 +1,19 @@
+html,
+body,
+iframe {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100vw;
+    height: 261.5vw;
+    overflow-x: hidden;
+}
+
+#gameIframe {
+    display: block;
+    width: 100vw;
+    height: 261.5vw;
+    /* border: 5px solid #ffcc00; */
+}

@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+
+  <title>JigsawPuzzle</title>
+
+  <!--http://www.html5rocks.com/en/mobile/mobifying/-->
+  <meta name="viewport"
+    content="width=device-width,user-scalable=no,initial-scale=1, minimum-scale=1,maximum-scale=1" />
+
+  <!--https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html-->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="format-detection" content="telephone=no">
+
+  <!-- force webkit on 360 -->
+  <meta name="renderer" content="webkit" />
+  <meta name="force-rendering" content="webkit" />
+  <!-- force edge on IE -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="msapplication-tap-highlight" content="no">
+
+  <!-- force full screen on some browser -->
+  <meta name="full-screen" content="yes" />
+  <meta name="x5-fullscreen" content="true" />
+  <meta name="360-fullscreen" content="true" />
+
+  <!-- force screen orientation on some browser -->
+  <meta name="screen-orientation" content="portrait" />
+  <meta name="x5-orientation" content="portrait">
+
+  <!--fix fireball/issues/3568 -->
+  <!--<meta name="browsermode" content="application">-->
+  <meta name="x5-page-mode" content="app">
+
+  <!--<link rel="apple-touch-icon" href=".png" />-->
+  <!--<link rel="apple-touch-icon-precomposed" href=".png" />-->
+
+  <link rel="stylesheet" type="text/css" href="style-mobile.666d9.css" />
+</head>
+
+<body>
+  <canvas id="GameCanvas" oncontextmenu="event.preventDefault()" tabindex="0"></canvas>
+  <div id="splash">
+    <div class="progress-bar stripes">
+      <span style="width: 0%"></span>
+    </div>
+  </div>
+
+
+
+
+
+  <!-- /////////////////////////////////////////////////////// -->
+  <!-- MAKING THE PAGE SCROLLABLE BY ADDING AN OVERLAY DIV THAT COVERS THE MAIN-CANVAS & FORWARD TOUCH-EVENTS TO CANVAS -->
+  <style>
+    body,
+    #Cocos2dGameContainer {
+      z-index: 1 !important;
+    }
+
+    #overlayDiv {
+      position: absolute;
+      width: 100vw;
+      height: 100vh;
+      background-color: red;
+      /* background-image: url(overlay-texture.jpg);
+      background-repeat: repeat; */
+      left: 0;
+      top: 0;
+      opacity: 0.0;
+      z-index: 999;
+    }
+  </style>
+  <div id="overlayDiv"></div>
+
+  <script>
+    const overlayDiv = document.getElementById('overlayDiv');
+    const canvas = document.getElementById('GameCanvas');
+
+    // Forward touch events
+    overlayDiv.addEventListener('touchstart', forwardTouchEvent);
+    overlayDiv.addEventListener('touchmove', forwardTouchEvent);
+    overlayDiv.addEventListener('touchend', forwardTouchEvent);
+
+    // Forward mouse events
+    overlayDiv.addEventListener('mousedown', forwardMouseEvent);
+    overlayDiv.addEventListener('mousemove', forwardMouseEvent);
+    overlayDiv.addEventListener('mouseup', forwardMouseEvent);
+
+    function forwardTouchEvent(event) {
+      const touches = event.changedTouches;
+      const firstTouch = touches[0];
+
+      // console.log(`forwardTouchEvent >> event = ${event.type}`);
+      const simulatedEvent = new MouseEvent(event.type, {
+        bubbles: true,
+        cancelable: true,
+        clientX: firstTouch.clientX,
+        clientY: firstTouch.clientY,
+      });
+
+      Object.defineProperties(simulatedEvent, { changedTouches: { value: touches } });
+
+      canvas.dispatchEvent(simulatedEvent);
+      if (event.type == 'touchmove' && window['_IS_GAME_USING_TOUCHMOVES']) event.preventDefault();
+    }
+
+    function forwardMouseEvent(event) {
+      // console.log(`forwardMouseEvent >> event = ${event.type}`);
+      const simulatedEvent = new MouseEvent(event.type, {
+        // changedTouches: { value: [{ target: canvas }] },
+        bubbles: true,
+        cancelable: true,
+        clientX: event.clientX,
+        clientY: event.clientY,
+      });
+
+      canvas.dispatchEvent(simulatedEvent);
+    }
+  </script>
+
+  <!-- Support iframe & parent page connection -->
+  <script>
+    // full screen support
+    window.isFullscreen = window.parent.isFullscreen;
+    window.makeFullScreen = window.parent.makeFullScreen;
+    window.exitFullScreen = window.parent.exitFullScreen;
+  </script>
+
+  <!-- /////////////////////////////////////////////////////// -->
+
+
+
+  <script src="src/settings.f3067.js" charset="utf-8"></script>
+  <!-- <script src="vconsole.min.bac6b.js"></script> -->
+  <script src="main.5c678.js" charset="utf-8"></script>
+
+  <script type="text/javascript">
+    (function () {
+      // open web debugger console
+      if (typeof VConsole !== 'undefined') {
+        window.vConsole = new VConsole();
+      }
+
+      var debug = window._CCSettings.debug;
+      var splash = document.getElementById('splash');
+      splash.style.display = 'block';
+
+      function loadScript(moduleName, cb) {
+        function scriptLoaded() {
+          document.body.removeChild(domScript);
+          domScript.removeEventListener('load', scriptLoaded, false);
+          cb && cb();
+        };
+        var domScript = document.createElement('script');
+        domScript.async = true;
+        domScript.src = moduleName;
+        domScript.addEventListener('load', scriptLoaded, false);
+        document.body.appendChild(domScript);
+      }
+
+      loadScript(debug ? 'cocos2d-js.js' : 'cocos2d-js-min.9e76a.js', function () {
+        if (CC_PHYSICS_BUILTIN || CC_PHYSICS_CANNON) {
+          loadScript(debug ? 'physics.js' : 'physics-min.js', window.boot);
+        }
+        else {
+          window.boot();
+        }
+      });
+    })();
+  </script>
+</body>
+
+</html>
