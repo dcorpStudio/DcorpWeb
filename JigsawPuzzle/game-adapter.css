@@ -2,12 +2,14 @@ html,
 body {
     margin: 0;
     padding: 0;
+    border: 0;
 }
 
 body {
     width: 100vw;
     max-width: 100%;
     overflow-x: hidden;
+    border: 0;
 }
 
 #gameIframe {
@@ -16,6 +18,7 @@ body {
     height: 56.25vw;
     max-height: 100vh;
     overflow: hidden;
+    border: 0;
     /* border: 5px solid #ffcc00; */
 }
 
@@ -39,5 +42,9 @@ body {
 
         height: 56.25vh;
         max-height: 100vw;
+    }
+
+    #otherContent {
+        min-height: calc(100vw - 56.25vh);
     }
 }

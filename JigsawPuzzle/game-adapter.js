@@ -23,60 +23,20 @@ setTimeout(() => {
     window.scrollTo(document.body.scrollWidth + 200, 0);
 }, 1);
 
-
-// ------------------ 
 // full screen support
-// ------------------ 
+function isFullscreen() {
+    var tmp = document.fullScreen || document.mozFullScreen || document.webkitIsFullScreen || document.msFullscreenElement;
+    return tmp;
+}
 
-setTimeout(() => {
-    window.isFullscreen = () => {
-        const tmp = !document.fullscreenElement && !document.mozFullScreenElement && !document.webkitFullscreenElement && !document.msFullscreenElement;
-        return !tmp;
-    }
+function makeFullScreen() {
+    // document.body.requestFullscreen();
+    document.querySelector('#gameIframe').requestFullscreen();
+}
 
-    window.makeFullScreen = () => {
-        enterFullscreen(document.querySelector("#gameIframe"));
-    }
-
-    window.exitFullScreen = () => {
-        leaveFullscreen();
-        setTimeout(() => {
-            window.scrollTo(document.body.scrollWidth + 200, 0);
-        }, 50)
-    }
-
-
-
-    function enterFullscreen(element) {
-        if (element.requestFullscreen) {
-            element.requestFullscreen({ navigationUI: "hide" });
-        }
-        else if (element.mozRequestFullScreen) {
-            element.mozRequestFullScreen({ navigationUI: "hide" });
-        }
-        else if (element.webkitRequestFullScreen) {
-            element.webkitRequestFullScreen();
-        }
-        else if (element.msRequestFullscreen) {
-            element.msRequestFullscreen();
-        }
-    }
-
-    function leaveFullscreen() {
-        if (document.exitFullscreen) {
-            document.exitFullscreen();
-        }
-        else if (document.mozCancelFullScreen) {
-            document.mozCancelFullScreen();
-        }
-        else if (document.webkitCancelFullScreen) {
-            document.webkitCancelFullScreen();
-        }
-        else if (document.msExitFullscreen) {
-            document.msExitFullscreen();
-        }
-    }
-
-
-
-}, 10);
+function exitFullScreen() {
+    document.exitFullscreen();
+    setTimeout(() => {
+        window.scrollTo(document.body.scrollWidth + 200, 0);
+    }, 50)
+}

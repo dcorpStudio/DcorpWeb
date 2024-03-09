@@ -1,0 +1,16 @@
+2 js libs
+
+cocos2d-js.js & cocos2d-js-min.f58cb.js 
+
+are debug version when build (but put here to overwrite default build mininized version)
+
+These 2 are all edited to prevent canvas from being focus anytime user touch it 
+Especially useful when putting Cocos H5 game into another normal HTML page
+This prevent annoying page relocating everytime users accidentally tap the game canvas (even if canvas is wrapped inside an iframe)
+
+The editted code are in 2 places with same content:
+
+
+	if(element.tagName != 'CANVAS'){
+		element.focus();
+	}
